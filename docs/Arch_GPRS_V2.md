@@ -6,7 +6,7 @@ title       = "Arch GPRS V2"
 
 # Arch GPRS V2
 
-![](/assets/Arch_GPRS_V2/img/Arch_GPRS_V2.jpg)
+![](assets/Arch_GPRS_V2/img/Arch_GPRS_V2.jpg)
 
 Introduction
 ------------
@@ -14,7 +14,7 @@ Introduction
 Arch GPRS V2 is the new and improved version of the [Arch GPRS](/Arch_GPRS "Arch GPRS") development board from [Seeed Studio](http://www.seeedstudio.com). Like the original [Arch GPRS](/Arch_GPRS "Arch GPRS"), it is also an [mbed](http://mbed.org/handbook/mbed-SDK) enabled development board that houses a cellular networking module along with a microcontroller. Arch GPRS V2 uses the LPC11U37 Microcontroller instead of the LPC11U24 used in the [Arch GPRS](/Arch_GPRS "Arch GPRS"). You can use the mbed C/C++ SDK, libraries and optimizing online development tools to rapidly build your Arch GPRS V2 based prototype. The cellular networking module on the Arch GPRS is based on the SIM900 Quad-band GSM/GRPS engine from SIMCom. With this, data collection functions can be performed easily using the 2G GSM/GPRS based cellular network.
 Arch GPRS V2 has a standard [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino (page does not exist)") interface as well as [Grove](/Grove "Grove") connectors on board. It is convenient to connect existing Shields and [Grove](/Grove "Grove") products to Arch GPRS V2. You can even connect a solar panel directly to the board to allow the battery to charge from it. A low-power design guarantees easy charging and long hour operations when outdoors!
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-GPRS-V2-p-2026.html)
+[![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-GPRS-V2-p-2026.html)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -55,12 +55,12 @@ Arch GPRS V2 vs Arch GPRS
 Hardware Overview
 ------
 
-![](/assets/Arch_GPRS_V2/img/Arch_GPRS_V2_Pinout.png)
+![](assets/Arch_GPRS_V2/img/Arch_GPRS_V2_Pinout.png)
 
 Getting Started
 ---------------
 
-![](/assets/Arch_GPRS_V2/img/Get_started_with_arch.png)
+![](assets/Arch_GPRS_V2/img/Get_started_with_arch.png)
 
 1.  Login into the mbed environment from [here](http://www.mbed.org)
 2.  Import the [mbed\_blinky](https://mbed.org/compiler/#import:/teams/mbed/code/mbed_blinky/;platform:Seeed-Arch-GPRS) program
@@ -158,8 +158,8 @@ Resources
 
 **Schematic**
 
--   [Eagle file for Arch\_GPRS\_v2.0](/assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_sch_pcb.zip)
--   [Arch GPRS\_v2.0.PDF](/assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_SCH_PDF.pdf)
+-   [Eagle file for Arch\_GPRS\_v2.0](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_sch_pcb.zip)
+-   [Arch GPRS\_v2.0.PDF](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_SCH_PDF.pdf)
 
 **Applications and Library**
 

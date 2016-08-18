@@ -6,7 +6,7 @@ title       = "Arch BLE"
 
 # Arch BLE
 
-![](/assets/Arch_BLE/img/Arch_BLE.jpg)
+![](assets/Arch_BLE/img/Arch_BLE.jpg)
 
 Introduction
 ------------
@@ -15,7 +15,7 @@ Arch BLE is an mbed enabled development board based Nordic nRF51822. With Arduin
 
 The nRF51822 is a powerful multi-protocol single chip solution for ULP wireless applications. It incorporates Nordic’s latest best-in-class performance radio transceiver, an ARM Cortex M0 MCU and 256kB flash + 16kB RAM memory. The nRF51822 supports Bluetooth® low energy and 2.4 GHz protocol stacks.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-BLE-p-1998.html)
+[![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-BLE-p-1998.html)
 
 Features
 --------
@@ -38,12 +38,12 @@ Features
 Hardware Overview
 ------
 
-![](/assets/Arch_BLE/img/Arch_BLE_Pinout.png)
+![](assets/Arch_BLE/img/Arch_BLE_Pinout.png)
 
 Get Started
 -----------
 
-![](/assets/Arch_BLE/img/Get_started_with_mbed.png)
+![](assets/Arch_BLE/img/Get_started_with_mbed.png)
 
 1.  Click [this link](https://developer.mbed.org/compiler/#import:/teams/mbed/code/mbed_blinky/;platform:Seeed-Arch-BLE) to **login or signup to mbed**
 2.  Import the mbed\_blinky program
@@ -81,8 +81,8 @@ Applications
         -  [Digital RGB LED Strip](http://www.seeedstudio.com/depot/Digital-RGB-LED-FlexiStrip-30-LED-1-Meter-p-1665.html)
         -  Android device with BLE
 
-    ![](/assets/Arch_BLE/img/Ble_color_pixels_bb.png)
-    ![](/assets/Arch_BLE/img/Color_pixels_app.png)
+    ![](assets/Arch_BLE/img/Ble_color_pixels_bb.png)
+    ![](assets/Arch_BLE/img/Color_pixels_app.png)
 
   
     *  Make it run
@@ -131,9 +131,9 @@ To flash a new firmware:
 Resources
 ---------
 
--   [Schematic pdf](/assets/Arch_BLE/res/Arch_BLE_v1.0_pdf.pdf)
--   [Eagle file](/assets/Arch_BLE/res/Arch_BLE_v1.0_Eagle.zip)
--   [LPC11U35 Firmware](/assets/Arch_BLE/res/Lpc11u35_nrf51822_if_mbed.bin.zip)
+-   [Schematic pdf](assets/Arch_BLE/res/Arch_BLE_v1.0_pdf.pdf)
+-   [Eagle file](assets/Arch_BLE/res/Arch_BLE_v1.0_Eagle.zip)
+-   [LPC11U35 Firmware](assets/Arch_BLE/res/Lpc11u35_nrf51822_if_mbed.bin.zip)
 -   [Seeed ble color pixels app for Android](http://tangram.qiniudn.com/seeed_ble_color_pixels.apk)
 -   [Sources of ble color pixels app](https://github.com/Seeed-Studio/ble_color_pixels)
 

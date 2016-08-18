@@ -6,14 +6,14 @@ title       = "Grove - High Temperature Sensor"
 
 # Grove - High Temperature Sensor
 
-![](/assets/Grove-High_Temperature_Sensor/img/High_Temperature_Sensor_01.jpg)
+![](assets/Grove-High_Temperature_Sensor/img/High_Temperature_Sensor_01.jpg)
 
 Introduction
 ------------
 
 Thermocouples are very sensitive devices. It requires a good amplifier with cold-junction compensation. The Grove - High Temperatire Sensor uses a K-Type themocouple and a thermocouple amplifier that measures ambient temperature using thermistor for cold-junction compensation. The detectable range of this Sensor is -50-600°C , and the accuracy is ±(2.0% + 2°C)
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-High-Temperature-Sensor-p-1810.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-High-Temperature-Sensor-p-1810.html)
 
 Specifications
 --------------
@@ -49,21 +49,21 @@ Then upload it to your Seeeduino.
 
 Then, open your Serial Monitor, you can find the temperature in Celsius here.
 
-![](/assets/Grove-High_Temperature_Sensor/img/Htsdata.jpg)
+![](assets/Grove-High_Temperature_Sensor/img/Htsdata.jpg)
 
 ### K type thermocouple indexing table
 
 As a reference, the following is K type thermocouple indexing table.
-![](/assets/Grove-High_Temperature_Sensor/img/Ktype.jpg)
+![](assets/Grove-High_Temperature_Sensor/img/Ktype.jpg)
 
 Resources
 --------
 
--   [Grove - High Temperature Sensor PDF](/assets/Grove-High_Temperature_Sensor/res/Grove-High_Temperature_Sensor_v1.0.pdf)
--   [Grove - High Temperature Sensor Eagle File](/assets/Grove-High_Temperature_Sensor/res/Grove-High_Temperature_Sensor_v1.0_20140225.zip)
+-   [Grove - High Temperature Sensor PDF](assets/Grove-High_Temperature_Sensor/res/Grove-High_Temperature_Sensor_v1.0.pdf)
+-   [Grove - High Temperature Sensor Eagle File](assets/Grove-High_Temperature_Sensor/res/Grove-High_Temperature_Sensor_v1.0_20140225.zip)
 -   [High Temperature Sensor Library](https://github.com/Seeed-Studio/Grove_HighTemp_Sensor)
 -   [Datasheet OPA333 PDF](http://www.ti.com/lit/ds/symlink/opa333.pdf)
--   [Datasheet LMV358 PDF](/assets/Grove-High_Temperature_Sensor/res/Lmv358.pdf)
+-   [Datasheet LMV358 PDF](assets/Grove-High_Temperature_Sensor/res/Lmv358.pdf)
 
 
 Help us make it better

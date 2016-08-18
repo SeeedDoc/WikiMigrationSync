@@ -6,7 +6,7 @@ title       = "Grove - I2C Motor Driver V1.3"
 
 # Grove - I2C Motor Driver V1.3
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver_New.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver_New.jpg)
 
 Introduction
 ------------
@@ -15,7 +15,7 @@ The Grove - I2C Motor Driver V1.3 (latest version) can directly control Stepper 
 
 Contrast to the [Grove - I2C motor driver V1.2](/Grove-I2C_Motor_Driver_V1.2), the V1.3 enables users to control the stepper more easily. You do not need to control the steppers all the time anymore, simply send a command to I2C motor driver V1.3 to drive a stepper, and it will act as your command, which would save your Arduino resource and simplify your code.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html)
 
 Version Tracker
 ---------------
@@ -122,7 +122,7 @@ I2C
 Hardware Overview
 ------------------
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-1.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-1.jpg)
 **78M05 IC:** 5V voltage regulator
 
 **L298 IC:** Dual full bridge driver
@@ -159,7 +159,7 @@ Now, let us use the I2C Motor Driver to control two DC motors or a stepper rotat
 
 -   Set the address by dial switch is a new function added to the new I2C Motor Driver.
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-9.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-9.jpg)
 
 -   Then keep the address setup in the program the same as the address setup on the I2C motor driver. The default address setup in the program is 0x0f.
 
@@ -169,7 +169,7 @@ Now, let us use the I2C Motor Driver to control two DC motors or a stepper rotat
 
 ### How to drive 2 DC motors
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-4.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver-4.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -249,16 +249,16 @@ void loop()  {
 
 This connected 4-wire stepper will rotate; you can adjust the rotation speed or step number in your Arduino program. You can also use some other stepper libraries to control it. For all the demo code please refer to [Resources](/Grove-I2C_Motor_Driver_V1.3#resources).
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/2.gif)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/2.gif)
 
 **2. Control the Stepper using the I2C motor Driver V1.3 on-chip ATmega8L.
 ** Take [24BYJ48](http://www.seeedstudio.com/depot/high-quality-stepper-motor-12v-p-335.html?cPath=170_171) as an example, The hardware installation as shown below:
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2C_Motor_Driver_control_a_Stepper_Motor.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2C_Motor_Driver_control_a_Stepper_Motor.jpg)
 
 The connection between 24BYJ48 Stepper Motor and I2C Motor Driver is as shown below:
 
-![](/assets/Grove-I2C_Motor_Driver_V1.3/img/I2C_Motor_Driver_Connector.jpg)
+![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2C_Motor_Driver_Connector.jpg)
 
 Download the [Grove-I2C motor driver V1.3 demo code](/Grove-I2C_Motor_Driver_V1.3#resources), and open the *StepperControlMode2.ino*:
 
@@ -410,11 +410,11 @@ Usage:
 Resources
 ---------
 
--   [Grove - I2C Motor Driver V1.3 Eagle File](/assets/Grove-I2C_Motor_Driver_V1.3/res/Grove-I2C_Motor_Driver_v1.3_Eagle_File.zip)
--   [I2C Motor DriverV13 Demo Code](/assets/Grove-I2C_Motor_Driver_V1.3/res/I2CMotorDriverDemoCodeV13.zip)
--   [L298 Datasheet](/assets/Grove-I2C_Motor_Driver_V1.3/res/L298datasheet.pdf)
--   [78M05 Datasheet](/assets/Grove-I2C_Motor_Driver_V1.3/res/ST_78M05DataSheet.pdf)
--   [On-Chip Firmware for I2C motor driver](/assets/Grove-I2C_Motor_Driver_V1.3/res/On-Chipfirmware_for_Motor_driver.zip)
+-   [Grove - I2C Motor Driver V1.3 Eagle File](assets/Grove-I2C_Motor_Driver_V1.3/res/Grove-I2C_Motor_Driver_v1.3_Eagle_File.zip)
+-   [I2C Motor DriverV13 Demo Code](assets/Grove-I2C_Motor_Driver_V1.3/res/I2CMotorDriverDemoCodeV13.zip)
+-   [L298 Datasheet](assets/Grove-I2C_Motor_Driver_V1.3/res/L298datasheet.pdf)
+-   [78M05 Datasheet](assets/Grove-I2C_Motor_Driver_V1.3/res/ST_78M05DataSheet.pdf)
+-   [On-Chip Firmware for I2C motor driver](assets/Grove-I2C_Motor_Driver_V1.3/res/On-Chipfirmware_for_Motor_driver.zip)
 
 Help us make it better
 -------------------------

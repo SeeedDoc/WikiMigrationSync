@@ -6,8 +6,8 @@ title       = "Grove - Switch(P)"
 
 # Grove - Switch(P)
 
-![](/assets/Grove-Switch-P/img/SwitchP.jpg)
-![](/assets/Grove-Switch-P/img/GroveSwitchP_01.jpg)
+![](assets/Grove-Switch-P/img/SwitchP.jpg)
+![](assets/Grove-Switch-P/img/GroveSwitchP_01.jpg)
 
 Introduction
 ------------
@@ -17,7 +17,7 @@ This Grove – Switch is a mini SPDT slide, great for “ON/OFF” situations. I
 
 What does “P” mean? “P” is for “panel mount” in this product.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Switch(P)-p-1252.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Switch(P)-p-1252.html)
 
 Features
 -------
@@ -76,7 +76,7 @@ After uploading the code, you can see the led will light up when the switch is a
 Resources
 --------
 
-- [Grove - Switch(P) Eagle File](/assets/Grove-Switch-P/res/Grove-Switch-P-Eagle_File.zip)
+- [Grove - Switch(P) Eagle File](assets/Grove-Switch-P/res/Grove-Switch-P-Eagle_File.zip)
 
 Help us make it better
 -------------------------

@@ -14,9 +14,9 @@ title       = "Grove - I2C Motor Driver"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="/assets/Grove-I2C_Motor_Driver/img/Grove-I2C_Motor_Driver_V1.1.jpg" /></td>
-<td><img src="/assets/Grove-I2C_Motor_Driver/img/I2CMotorDriver-2.jpg" /></td>
-<td><img src="/assets/Grove-I2C_Motor_Driver/img/I2CMotorDriver_New.jpg" /></td>
+<td><img src="assets/Grove-I2C_Motor_Driver/img/Grove-I2C_Motor_Driver_V1.1.jpg" /></td>
+<td><img src="assets/Grove-I2C_Motor_Driver/img/I2CMotorDriver-2.jpg" /></td>
+<td><img src="assets/Grove-I2C_Motor_Driver/img/I2CMotorDriver_New.jpg" /></td>
 </tr>
 <tr class="even">
 <td><div style="text-align: center">

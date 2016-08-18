@@ -6,7 +6,7 @@ title       = "Grove - EMG Detector"
 
 # Grove - EMG Detector
 
-![](/assets/Grove-EMG_Detector/img/Emg_product.jpg)
+![](assets/Grove-EMG_Detector/img/Emg_product.jpg)
 
 Introduction
 ------------
@@ -20,7 +20,7 @@ The sensor cannot be used for medical purposes.
 
 In standby mode, the output voltage is 1.5V. When detect muscle active, the output signal rise up, the maximum voltage is 3.3V. You can use this sensor in 3.3V or 5V system.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EMG-Detector-p-1737.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EMG-Detector-p-1737.html)
 
 Features
 --------
@@ -35,7 +35,7 @@ Features
 Hardware Overview
 ------------------
 
-![](/assets/Grove-EMG_Detector/img/Grove_EMG_detector.jpg)
+![](assets/Grove-EMG_Detector/img/Grove_EMG_detector.jpg)
 
 -   J2: grove interface, connect to analog I/O;
 -   J1: EMG Disposable Surface Electrodes connector.
@@ -53,7 +53,7 @@ Plug Grove - Base Shield to Seeeduino, then connect Grove - LED Bar to D8, conne
 
 Finally, tack the three electrodes to your muscle, and keep a distance between each electrodes.
 
-![](/assets/Grove-EMG_Detector/img/Emg_connect.jpg)
+![](assets/Grove-EMG_Detector/img/Emg_connect.jpg)
 
 ### Download Code and Upload
 
@@ -61,7 +61,7 @@ You can download the demo code in github, click [here](https://github.com/Seeed-
 
 Then upload the code to Seeeduino, if you have any problem about code uploading, please refer to [Getting Started With Seeeduino](/Getting_Started_with_Seeeduino)
 
-![](/assets/Grove-EMG_Detector/img/Emg_ide.png)
+![](assets/Grove-EMG_Detector/img/Emg_ide.png)
 
 ### Move
 
@@ -71,14 +71,14 @@ You can see that when initializing, the Led Bar will go form level 10 to level 0
 
 When you are moving, you can find that the level of Led Bar will change.
 
-![](/assets/Grove-EMG_Detector/img/Grove_emg_demo_2.gif)
+![](assets/Grove-EMG_Detector/img/Grove_emg_demo_2.gif)
 
 Resources
 --------
 
--   [Grove-EMG Sensor v1.0 Eagle File](/assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.0.zip)
--   [Grove-EMG Sensor v1.1 Eagle File](/assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_Eagle.zip)
--   [Grove-EMG Sensor v1.1 schematic PDF](/assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_SCH.pdf)
+-   [Grove-EMG Sensor v1.0 Eagle File](assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.0.zip)
+-   [Grove-EMG Sensor v1.1 Eagle File](assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_Eagle.zip)
+-   [Grove-EMG Sensor v1.1 schematic PDF](assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_SCH.pdf)
 -   [Demo Code](https://github.com/Seeed-Studio/Grove_EMG_detector_demo_code)
 
 Help us make it better

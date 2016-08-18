@@ -6,7 +6,7 @@ title       = "Grove - Variable Color LED"
 
 # Grove - Variable Color LED
 
-![](/assets/Grove-Variable_Color_LED/img/Variable_Color_LED1.jpg) ![](/assets/Grove-Variable_Color_LED/img/Variable_Color_LED_01.jpg)
+![](assets/Grove-Variable_Color_LED/img/Variable_Color_LED1.jpg) ![](assets/Grove-Variable_Color_LED/img/Variable_Color_LED_01.jpg)
 
 Introduction
 ------------
@@ -14,7 +14,7 @@ Introduction
 This Grove consists of one 8mm RGB LED. It operates at 5V DC. When SIG pin is logic HIGH, the RGB LED will light up. Perfect for use on Seeeduino digital outputs, or also can be controlled by pulse-width modulation. And it uses three adjustable resistor to change the color of the RGB LED.
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Variable-Color-LED-p-852.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Variable-Color-LED-p-852.html)
 
 
 Features
@@ -50,7 +50,7 @@ The three resistances RED, GREEN and BLUE of the module control the R, G and B c
 
 The following sketch demonstrates a simple application of controlling its brightness. As the picture on the below indicates, the Variable Color LED is connected to digital port 9 of the [Grove - Base Shield](/Grove-Base_Shield). The hardware installation is as follows:
 
-![](/assets/Grove-Variable_Color_LED/img/Grove-Variable_Color_LED.jpg)
+![](assets/Grove-Variable_Color_LED/img/Grove-Variable_Color_LED.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 

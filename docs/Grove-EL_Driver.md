@@ -6,7 +6,7 @@ title       = "Grove - EL Driver"
 
 # Grove - EL Driver
 
-![](/assets/Grove-EL_Driver/img/Grove-EL_Driver.jpg)
+![](assets/Grove-EL_Driver/img/Grove-EL_Driver.jpg)
 
 Introduction
 ------------
@@ -14,7 +14,7 @@ Introduction
 Grove - EL Driver is designed for driving EL Wires. It integrates a very small inverter to drive the EL Wire, so you can easily light up the EL Wire with just one single Grove cable.
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EL-Driver-p-2269.html)
+[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EL-Driver-p-2269.html)
 
 Version Tracker
 ---------------
@@ -76,13 +76,13 @@ void loop() {
 }
 ```
 
-![](/assets/Grove-EL_Driver/img/Grove-EL_Driver_usage.jpg)
+![](assets/Grove-EL_Driver/img/Grove-EL_Driver_usage.jpg)
 
 Resources
 ---------
 
--   [sch_pcb_eagle](/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.zip)
--   [sch_pdf](/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.pdf)
+-   [sch_pcb_eagle](assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.zip)
+-   [sch_pdf](assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.pdf)
 
 
 Help us make it better

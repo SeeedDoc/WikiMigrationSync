@@ -6,7 +6,7 @@ title       = "Grove - Gas Sensor"
 
 # Grove - Gas Sensor
 
-![](/assets/Grove-Gas_Sensor/img/Twig-Gas_Sensor.bmp)
+![](assets/Grove-Gas_Sensor/img/Twig-Gas_Sensor.bmp)
 
 Introduction
 ------------
@@ -35,15 +35,15 @@ Demonstration
 
 Connect the module with Grove Shield using A0 like following picture and use the program below to gain the voltage. The higher the concentration of the gas is, the bigger the output voltage of the SIG pin gets. Sensitivity can be regulated by rotating the potentiometer. Please note that the best preheat time of the sensor is about 24 hours. For the detailed information about the sensor, please refer to the datasheet.
 
-![](/assets/Grove-Gas_Sensor/img/Read_Gas_Sensor_data.jpg)
+![](assets/Grove-Gas_Sensor/img/Read_Gas_Sensor_data.jpg)
 
 Resources
 ---------
 
--   [MQ-2 Datasheet](/assets/Grove-Gas_Sensor/res/MQ-2.pdf)
--   [MQ-3 Datasheet](/assets/Grove-Gas_Sensor/res/MQ-3.pdf)
--   [MQ-5 Datasheet](/assets/Grove-Gas_Sensor/res/MQ-5.pdf)
--   [MQ-9 Datasheet](/assets/Grove-Gas_Sensor/res/MQ-9.pdf)
+-   [MQ-2 Datasheet](assets/Grove-Gas_Sensor/res/MQ-2.pdf)
+-   [MQ-3 Datasheet](assets/Grove-Gas_Sensor/res/MQ-3.pdf)
+-   [MQ-5 Datasheet](assets/Grove-Gas_Sensor/res/MQ-5.pdf)
+-   [MQ-9 Datasheet](assets/Grove-Gas_Sensor/res/MQ-9.pdf)
 -   [Demo code on github](https://github.com/Seeed-Studio/Grove_Gas_Sensor)
 
 
