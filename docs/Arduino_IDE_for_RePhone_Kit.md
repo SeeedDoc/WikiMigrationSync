@@ -1,15 +1,12 @@
-<!-- 
-+++
-title       = "Arduino IDE for RePhone Kit"
-+++
- -->
-
-# Arduino IDE for RePhone Kit
+---
+title: Arduino IDE for RePhone Kit
+category: Tutorial
+oldwikiname: Arduino_IDE_for_RePhone_Kit
+prodimagename: Xadow_GSMPlusBLE_pingguo.JPG
+surveyurl: https://www.research.net/r/Arduino_IDE_for_RePhone_Kit
+---
 
 [![](assets/Arduino_IDE_for_RePhone_Kit/img/Xadow_GSMPlusBLE_pingguo.JPG)](/Rephone)
-
-Introduction
-------------
 
 RePhone can be a learning tool for you to start interesting projects. Currently, RePhone supports various development environments and development languages, you can build applications either with C/C++ based on Eclipse IDE, Arduino IDE, or with Lua and JavaScript.
 
@@ -250,18 +247,5 @@ More
 ----
 
 You have done a great job so far! RePhone comes with a big family of modules with different features and functionalities. Go to check the wiki for modules for more applications!
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/GTFVKPW" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arduino_IDE_for_RePhone_Kit"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arduino_IDE_for_RePhone_Kit -->

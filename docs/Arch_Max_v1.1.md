@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Arch Max v1.1"
-+++
- -->
-
-# Arch Max v1.1
+---
+title: Arch Max v1.1
+category: mbed
+bzurl: https://seeedstudio.com/Arch-Max-v1.1-p-2632.html
+oldwikiname: Arch_Max_v1.1
+prodimagename: Arch_Max_v1.1_product_view.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/102110014 1.jpg
+surveyurl: https://www.research.net/r/Arch_Max_v1.1
+sku: 102110014
+---
 
 ![](assets/Arch_Max_v1.1/img/Arch_Max_v1.1_product_view.jpg)
-
-Introduction
-------------
 
 The Arch Max is a mbed enabled development board for rapid prototyping. It is based on an STM32F407VET6 microcontroller with an ARM Cortex-M4F core running at 168MHz. It provides [Serial Wire Debug](https://en.wikipedia.org/wiki/Joint_Test_Action_Group#Serial_Wire_Debug)(SWD) debug, drag-and-drop programming and USB serial communication.
 
@@ -118,18 +118,5 @@ Resources
 -   [Schematics Eagle file for ARCH Max](assets/Arch_Max_v1.1/res/ARCH_Max.zip)
 -   [Schematics PDF file for ARCH Max](assets/Arch_Max_v1.1/res/Arch_Max.pdf)
 -   [STM32F407 datasheet](assets/Arch_Max_v1.1/res/STM32F407.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/XY55DPR" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arch_Max_v1.1"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arch_Max_v1.1 -->

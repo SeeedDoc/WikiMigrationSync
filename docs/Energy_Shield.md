@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Energy Shield"
-+++
- -->
-
-# Energy Shield
-
-Introduction
-------------
+---
+title: Energy Shield
+category: Arduino
+bzurl: https://seeedstudio.com/Energy-Shield-p-1373.html
+oldwikiname: Energy_Shield
+prodimagename: Energy_Shield.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/106030000 1.jpg
+surveyurl: https://www.research.net/r/Energy_Shield
+sku: 106030000
+---
 
 ![](assets/Energy_Shield/img/Energy_Shield.jpg)
 
@@ -144,16 +144,5 @@ Resources
 - [CN3065 Datasheet](http://www.consonance-elec.com/pdf/datasheet/DSE-CN3065.pdf)
 - [ISL97516 Datasheet](assets/Energy_Shield/res/ISL97516.pdf)
 - [LM293D Datasheet](assets/Energy_Shield/res/LM293D.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/CSVWNHS" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Energy_Shield"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Energy_Shield -->

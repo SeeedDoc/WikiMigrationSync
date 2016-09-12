@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "RS232 Shield"
-+++
- -->
-
-# RS232 Shield
+---
+title: RS232 Shield
+category: Arduino
+bzurl: https://seeedstudio.com/RS232-Shield-p-1910.html
+oldwikiname: RS232_Shield
+prodimagename: RS232_Shield_Photo.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/RS232 Shield.jpg
+surveyurl: https://www.research.net/r/RS232_Shield
+sku: 113030016
+---
 
 ![](assets/RS232_Shield/img/RS232_Shield_Photo.jpg)
-
-Introduction
-------------
 
 RS232 Shield is a standard communication port for industry equipment.This module is base on MAX232,which is a dual driver/receiver that includes a capacitive voltage generator to supply TIA/EIA-232-F voltage levels from a single 5-V supply. The shield integrates DB9 connectors (female) that provide connection to various devices with RS232 interface. Also the RS232 headers will facilitate your connections and commissioning. It provides the welding areas to make full use of extra space on it, which is highly convenient for prototyping.
 
@@ -87,17 +87,5 @@ Resources
 -   [RS232\_Shield\_v1.0.pdf](assets/RS232_Shield/res/RS232_Shield_v1.pdf)
 -   [Datasheet MAX232D.pdf](assets/RS232_Shield/res/MAX232D.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/36RJ2GW" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/RS232_Shield"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/RS232_Shield -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - GPS"
-+++
- -->
-
-# Grove - GPS
-
-Introduction
-------------
+---
+title: Grove - GPS
+category: Communication
+bzurl: https://seeedstudio.com/Grove-GPS-p-959.html
+oldwikiname: Grove_-_GPS
+prodimagename: Grove-GPS.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/113020003 1.jpg
+surveyurl: https://www.research.net/r/Grove-GPS
+sku: 113020003
+---
 
 ![](assets/Grove-GPS/img/Grove-GPS.jpg)
 
@@ -25,7 +25,6 @@ Features
 
 Specifications
 -------------
-
 
 | **Parameter**    | **Range/Value**              |
 |------------------|------------------------------|
@@ -47,7 +46,7 @@ Getting Started
 
 Following documents help in getting the user started with Grove.
 
--   [Introduction to Grove system](/Grove_System)
+-   [to Grove system](/Grove_System)
 
 Demos
 -----
@@ -240,16 +239,5 @@ Resources
 -   [U-Blox u-center GPS evaluation software](https://www.u-blox.com/en/product/u-center-windows)
 -   [SIM28\_DATA\_File](assets/Grove-GPS/res/SIM28_DATA_File.zip)
 -   [SIMCom\_GPS\_DEMO\_V1.07](assets/Grove-GPS/res/SIMCom_GPS_DEMO_V1.07.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/B7K3MLJ" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_GPS"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_GPS -->

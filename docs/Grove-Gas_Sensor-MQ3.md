@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Gas Sensor(MQ3)"
-+++
- -->
-
-# Grove - Gas Sensor(MQ3)
+---
+title: Grove - Gas Sensor(MQ3)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Gas-Sensor(MQ3)-p-1418.html
+oldwikiname: Grove_-_Gas_Sensor(MQ3)
+prodimagename: Grove_MQ3_Gas_Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020006 1.jpg
+surveyurl: https://www.research.net/r/Grove-Gas_Sensor-MQ3
+sku: 101020006
+---
 
 ![](assets/Grove-Gas_Sensor-MQ3/img/Grove_MQ3_Gas_Sensor.jpg)
-
-Introduction
-------------
 
 The Grove - Gas Sensor(MQ3) module is useful for gas leakage detection (in home and industry). It is suitable for detecting <font color="Blue">Alcohol, Benzine, CH4, Hexane, LPG, CO.</font> Due to its high sensitivity and fast response time, measurements can be taken as soon as possible. The sensitivity of the sensor can be adjusted by using the potentiometer.
 
@@ -193,15 +193,4 @@ Resources
 
 -   [MQ-3 Datasheet](assets/Grove-Gas_Sensor-MQ3/res/MQ-3.pdf)
   
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/LFWYMLR" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ3)"
-+++
- -->
-
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ3) -->

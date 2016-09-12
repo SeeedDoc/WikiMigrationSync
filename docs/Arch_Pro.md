@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Arch Pro"
-+++
- -->
-
-# Arch Pro
+---
+title: Arch Pro
+category: mbed
+bzurl: https://seeedstudio.com/Arch-Pro-p-1677.html
+oldwikiname: Arch_Pro
+prodimagename: 3D_Arch_pro_v1.png
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/arch pro.jpg
+surveyurl: https://www.research.net/r/Arch_Pro
+sku: 102080002
+---
 
 ![](assets/Arch_Pro/img/3D_Arch_pro_v1.png)
-
-Introduction
-------------
 
 Arch Pro is an mbed enabled development board for rapid prototyping. It is a variant of mbed LPC1768 with built-in Ethernet, USB Host/Device, Grove connectors and Arduino form factor. With a variety of Shield and Grove modules and lots of software libraries for Arch Pro, you can implement Ethernet, USB Host/Device and NFC applications rapidly and easily.
 
@@ -30,7 +30,6 @@ Features
 
 Specifications
 -------------
-
 
 | Parameter       | Value/Availability                            |
 |-----------------|-----------------------------------------------|
@@ -171,20 +170,8 @@ Resources
 ---------
 
 -   [Arch Pro V1.0 Schematic PDF](assets/Arch_Pro/res/Arch_Pro_V1.0_Schematic.pdf)
--   [Arch Pro V1.0 Eagle Files](assets/Arch_Pro/res/Arch_Pro_V1.0.zip)
+-   [Arch Pro V1.0 EAGLE Files](assets/Arch_Pro/res/Arch_Pro_V1.0.zip)
 -   [LPC1768 datasheet](assets/Arch_Pro/res/LPC1769_68_67_66_65_64_63.pdf)
 -   [LPC17xx User Manual](assets/Arch_Pro/res/LPC17xxUserManual.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/LRSZW29" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arch_Pro"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arch_Pro -->

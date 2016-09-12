@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - I2C Touch Sensor"
-+++
- -->
-
-# Grove - I2C Touch Sensor
+---
+title: Grove - I2C Touch Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-I2C-Touch-Sensor-p-840.html
+oldwikiname: Grove_-_I2C_Touch_Sensor
+prodimagename: Grove-I2C-Touch-Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/P3202380.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_Touch_Sensor
+sku: 101020047
+---
 
 ![](assets/Grove-I2C_Touch_Sensor/img/Grove-I2C-Touch-Sensor.jpg)
-
-Introduction
-------------
 
 The I2C Touch Sensor is based on the Proximity Capacitive Touch Sensor Controller from FreeScale - MPR121. It detects the touch or proximity of human fingers. This sensor includes a Touch Sensor controller and 4 finger feelers. One can insert the connectors of feelers into base of Sensor controller, and start sensing the touch. 
 
@@ -47,7 +47,7 @@ Getting Started
 Following documents help in getting the user started with Grove.
 
 -   [Preface - Getting Started](http://www.seeedstudio.com/document/pdf/Preface.pdf)
--   [Introduction to Grove](http://www.seeedstudio.com/document/pdf/Introduction%20to%20Grove.pdf)
+-   [to Grove](http://www.seeedstudio.com/document/pdf/%20to%20Grove.pdf)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -70,17 +70,5 @@ Resources
 -   [I2C Touch Sensor PDF](assets/Grove-I2C_Touch_Sensor/res/Grove-I2C_Color_sensor_v1.2.pdf)
 -   [How to detect finger touch?](/How_to_detect_finger_touch?)
 -   [I2C Touch Sensor Datasheet](assets/Grove-I2C_Touch_Sensor/res/Freescale_Semiconductor;MPR121QR2.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/RDQDY53" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_Touch_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_Touch_Sensor -->

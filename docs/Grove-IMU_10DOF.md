@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - IMU 10DOF"
-+++
- -->
-
-# Grove - IMU 10DOF
+---
+title: Grove - IMU 10DOF
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-IMU-10DOF-p-2386.html
+oldwikiname: Grove_-_IMU_10DOF
+prodimagename: Grove-imu-10dof.JPG
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/101020079 2.jpg
+surveyurl: https://www.research.net/r/Grove-IMU_10DOF
+sku: 101020079
+---
 
 ![](assets/Grove-IMU_10DOF/img/Grove-imu-10dof.JPG)
-
-Introduction
-------------
 
 Grove - IMU 10DOF is a combination of [Grove - IMU 9DOF](/Grove-IMU_9DOF) and [Grove - Barometer Sensor (BMP180)](/Grove-Barometer_Sensor-BMP180 "Grove - Barometer Sensor (BMP180)"). This module is base on MPU-9250 and BMP180, the MPU-9250 is a 9-axis MotionTracking device that combines a 3-axis gyroscope, 3-axis accelerometer, 3-axis magnetometer and a Digital Motion Processor(DMP), and BMP180 is a high precision, ultra-low power digital pressure sensors for consumer applications. This module is very suitable for the application of smartphones, tablets and wearable devices.
 
@@ -70,16 +70,5 @@ Resources
 -   [BMP180 datasheet](assets/Grove-IMU_10DOF/res/BMP180.pdf)
 -   [MPU-9250 datasheet](assets/Grove-IMU_10DOF/res/MPU-9250A_Product_Specification.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/GFPKPLY" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_IMU_10DOF"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_IMU_10DOF -->

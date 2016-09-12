@@ -1,24 +1,24 @@
-<!-- 
-+++
-title       = "Arch GPRS V2"
-+++
- -->
-
-# Arch GPRS V2
+---
+title: Arch GPRS V2
+category: mbed
+bzurl: https://seeedstudio.com/Arch-GPRS-V2-p-2026.html
+oldwikiname: Arch_GPRS_V2
+prodimagename: Arch_GPRS_V2.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Arch GPRS V2.jpg
+surveyurl: https://www.research.net/r/Arch_GPRS_V2
+sku: 113010001
+---
 
 ![](assets/Arch_GPRS_V2/img/Arch_GPRS_V2.jpg)
 
-Introduction
-------------
-
-Arch GPRS V2 is the new and improved version of the [Arch GPRS](/Arch_GPRS "Arch GPRS") development board from [Seeed Studio](http://www.seeedstudio.com). Like the original [Arch GPRS](/Arch_GPRS "Arch GPRS"), it is also an [mbed](http://mbed.org/handbook/mbed-SDK) enabled development board that houses a cellular networking module along with a microcontroller. Arch GPRS V2 uses the LPC11U37 Microcontroller instead of the LPC11U24 used in the [Arch GPRS](/Arch_GPRS "Arch GPRS"). You can use the mbed C/C++ SDK, libraries and optimizing online development tools to rapidly build your Arch GPRS V2 based prototype. The cellular networking module on the Arch GPRS is based on the SIM900 Quad-band GSM/GRPS engine from SIMCom. With this, data collection functions can be performed easily using the 2G GSM/GPRS based cellular network.
-Arch GPRS V2 has a standard [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino (page does not exist)") interface as well as [Grove](/Grove "Grove") connectors on board. It is convenient to connect existing Shields and [Grove](/Grove "Grove") products to Arch GPRS V2. You can even connect a solar panel directly to the board to allow the battery to charge from it. A low-power design guarantees easy charging and long hour operations when outdoors!
+**Arch GPRS V2** is the new and improved version of the [Arch GPRS](/Arch_GPRS "Arch GPRS") development board from [Seeed Studio](http://www.seeedstudio.com). Like the original [Arch GPRS](/Arch_GPRS "Arch GPRS"), it is also an [mbed](http://mbed.org/handbook/mbed-SDK) enabled development board that houses a cellular networking module along with a microcontroller. Arch GPRS V2 uses the LPC11U37 Microcontroller instead of the LPC11U24 used in the [Arch GPRS](/Arch_GPRS "Arch GPRS"). You can use the mbed C/C++ SDK, libraries and optimizing online development tools to rapidly build your Arch GPRS V2 based prototype. The cellular networking module on the Arch GPRS is based on the SIM900 Quad-band GSM/GRPS engine from SIMCom. With this, data collection functions can be performed easily using the 2G GSM/GPRS based cellular network.
+Arch GPRS V2 has a standard Arduino interface as well as [Grove](/Grove "Grove") connectors on board. It is convenient to connect existing Shields and [Grove](/Grove "Grove") products to Arch GPRS V2. You can even connect a solar panel directly to the board to allow the battery to charge from it. A low-power design guarantees easy charging and long hour operations when outdoors!
 
 [![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-GPRS-V2-p-2026.html)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-Arch GPRS V2 does not come with <a class="external text" href="https://mbed.org/handbook/mbed-HDK" rel="nofollow" target="_blank">an mbed interface</a>. To output debug messages, please try <a class="external text" href="https://mbed.org/handbook/USBSerial" rel="nofollow" target="_blank">USBSerial</a>.
+Arch GPRS V2 does not come with <a href="https://mbed.org/handbook/mbed-HDK" >an mbed interface</a>. To output debug messages, please try <a href="https://mbed.org/handbook/USBSerial">USBSerial</a>.
 </div>
 
 
@@ -45,15 +45,14 @@ Features
 Arch GPRS V2 vs Arch GPRS
 -----------------------
 
-|                 |                 |              |
+| Parameter       | **Arch GPRS V2**| **Arch GPRS**|
 |-----------------|-----------------|--------------|
-|                 | **Arch GPRS V2**| **Arch GPRS**|
 | MCU             | LPC11U27        | LPC11U24     |
 | GSM/GPRS Module | SIM900          | EG-10        |
 | MicroSD Card    | Yes             | No           |
 
 Hardware Overview
-------
+-----------------
 
 ![](assets/Arch_GPRS_V2/img/Arch_GPRS_V2_Pinout.png)
 
@@ -110,7 +109,7 @@ You can change the code to the following and see what happens:
     }
 ```
 
-When you Compile and Run the above code on the Arch GPRS V2 board, you should see that the LEDs now blink in sequence.
+When you Compile and Run the above code on the Arch GPRS V2 board, you should see that the LEDs blink in sequence.
 
 If you get through the above steps successfully, this means that:
 
@@ -148,7 +147,7 @@ You will also need to change the `"Pass Input"` option from `"to stdin"` to `"as
 
 
 Also, an improved form of the script is:
-**`dd if="${1}" of=/Volumes/CRP\ DISABLD/firmware.bin conv=notrunc`**
+**dd if="${1}" of=/Volumes/CRP\ DISABLD/firmware.bin conv=notrunc**
 
 Which should handle spaces in the file path and only uses the first file supplied.
 Quick press the button to run the new firmware.
@@ -156,10 +155,12 @@ Quick press the button to run the new firmware.
 Resources
 ------------------------
 
-**Schematic**
+-   [Arch GPRS V2.0 mbed developer platform page](https://developer.mbed.org/platforms/Seeed-Arch-GPRS/)
 
--   [Eagle file for Arch\_GPRS\_v2.0](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_sch_pcb.zip)
--   [Arch GPRS\_v2.0.PDF](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_SCH_PDF.pdf)
+**Design Files**
+
+-   [Schematic and Board files in EAGLE format](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_sch_pcb.zip)
+-   [Schematic in PDF format](assets/Arch_GPRS_V2/res/Arch_GPRS_v2.0_SCH_PDF.pdf)
 
 **Applications and Library**
 
@@ -172,18 +173,5 @@ Resources
 **See also**
 
 -   [SIM900 GPRS Module Information](/GPRS_Shield_V2.0)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/X2JHJQD" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arch_GPRS_V2"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arch_GPRS_V2 -->

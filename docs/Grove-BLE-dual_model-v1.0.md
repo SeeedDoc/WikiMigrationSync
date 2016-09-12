@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - BLE (dual model) v1.0"
-+++
- -->
-
-# Grove - BLE (dual model) v1.0
-
-Introduction
-------------
+---
+title: Grove - BLE (dual model) v1.0
+category: Communication
+bzurl: https://seeedstudio.com/Grove-BLE-(dual-model)-p-2407.html
+oldwikiname: Grove_-_BLE_(dual_model)_v1.0
+prodimagename: Grove-BLE-dual_model-v1.0.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/113020009 1.jpg
+surveyurl: https://www.research.net/r/Grove-BLE-dual_model-v1.0
+sku: 113020009
+---
 
 ![](assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0.jpg)
 
@@ -1143,16 +1143,5 @@ Resources
 -   [Arduino code](https://github.com/Seeed-Studio/HM-13_SW)
 -   [EAGLE\_Grove-BLE\_(dual\_model)\_v1.0\_sch\_pcb](assets/Grove-BLE-dual_model-v1.0/res/Eagle_Grove-BLE-dual_model-v1.0_sch_pcb.zip)
 -   [PDF\_Grove-BLE\_(dual\_model)\_v1.0\_sch](assets/Grove-BLE-dual_model-v1.0/res/Grove-BLE-dual_model-v1.0.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/H2HKXNP" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_BLE_(dual_model)_v1.0"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_BLE_(dual_model)_v1.0 -->

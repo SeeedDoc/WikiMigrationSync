@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - High Temperature Sensor"
-+++
- -->
-
-# Grove - High Temperature Sensor
+---
+title: Grove - High Temperature Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-High-Temperature-Sensor-p-1810.html
+oldwikiname: Grove_-_High_Temperature_Sensor
+prodimagename: High_Temperature_Sensor_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/High Temperature Sensor.jpg
+surveyurl: https://www.research.net/r/Grove-High_Temperature_Sensor
+sku: 111020002
+---
 
 ![](assets/Grove-High_Temperature_Sensor/img/High_Temperature_Sensor_01.jpg)
-
-Introduction
-------------
 
 Thermocouples are very sensitive devices. It requires a good amplifier with cold-junction compensation. The Grove - High Temperatire Sensor uses a K-Type themocouple and a thermocouple amplifier that measures ambient temperature using thermistor for cold-junction compensation. The detectable range of this Sensor is -50-600°C , and the accuracy is ±(2.0% + 2°C)
 
@@ -65,17 +65,5 @@ Resources
 -   [Datasheet OPA333 PDF](http://www.ti.com/lit/ds/symlink/opa333.pdf)
 -   [Datasheet LMV358 PDF](assets/Grove-High_Temperature_Sensor/res/Lmv358.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/LJWFSQN" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_High_Temperature_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_High_Temperature_Sensor -->

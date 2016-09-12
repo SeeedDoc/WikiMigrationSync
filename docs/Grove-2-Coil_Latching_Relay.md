@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 2-Coil Latching Relay"
-+++
- -->
-
-# Grove - 2-Coil Latching Relay
-
-Introduction
-------------
+---
+title: Grove - 2-Coil Latching Relay
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-2-Coil-Latching-Relay-p-1446.html
+oldwikiname: Grove_-_2-Coil_Latching_Relay
+prodimagename: 2Coil_Latching_Relay_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/2Coil Latching Relay.jpg
+surveyurl: https://www.research.net/r/Grove-2-Coil_Latching_Relay
+sku: 103020010
+---
 
 ![](assets/Grove-2-Coil_Latching_Relay/img/2Coil_Latching_Relay_01.jpg)
 
@@ -261,17 +261,5 @@ Resources
 
 - [Grove - 2-Coil Latching Relay Eagle File](assets/Grove-2-Coil_Latching_Relay/res/Grove-2-Coil_Latching_Relay_Eagle_File.zip)
 - [Latching_Relay_Datasheet](assets/Grove-2-Coil_Latching_Relay/res/Latching_Relay_Datesheet.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/3XWCBFX" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_2-Coil_Latching_Relay"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_2-Coil_Latching_Relay -->

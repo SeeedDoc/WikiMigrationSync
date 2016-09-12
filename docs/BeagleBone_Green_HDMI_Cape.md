@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "BeagleBone Green HDMI Cape"
-+++
- -->
-
-# BeagleBone Green HDMI Cape
-
-Introduction
-------------
+---
+title: BeagleBone Green HDMI Cape
+category: BeagleBone
+bzurl: https://seeedstudio.com/SeeedStudio-BeagleBone-Green-HDMI-Cape-p-2570.html
+oldwikiname: BeagleBone_Green_HDMI_Cape
+prodimagename: BeagleBone_Green_HDMI_Cape.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/103030034 1.jpg
+surveyurl: https://www.research.net/r/BeagleBone_Green_HDMI_Cape
+sku: 103030034
+---
 
 ![](assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape.jpg)
 
@@ -25,7 +25,7 @@ Features
 Specifications
 -------------
 
-|                          |                                                                                                        |
+| Parameter                | Value                                                                                                  |
 |--------------------------|--------------------------------------------------------------------------------------------------------|
 | Input voltage            | 5V/3.3V                                                                                                |
 | Maxium operating current | 80 mA                                                                                                  |
@@ -37,7 +37,7 @@ Specifications
 Platforms supported
 -------------------
 
-|            |                  |
+| Platoform  | Support          |
 |------------|------------------|
 | Platform   | Supported status |
 | BeagleBone | Supported        |
@@ -126,17 +126,5 @@ Resources
 ---------
 
 - [Schematic files](assets/BeagleBone_Green_HDMI_Cape/res/Schematic_Files.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/C26Y8PG" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/BeagleBone_Green_HDMI_Cape"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/BeagleBone_Green_HDMI_Cape -->

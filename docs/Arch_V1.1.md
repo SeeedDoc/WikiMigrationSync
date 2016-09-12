@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Arch V1.1"
-+++
- -->
-
-# Arch V1.1
+---
+title: Arch V1.1
+category: mbed
+bzurl: https://www.seeedstudio.com/Arch-p-1561.html
+oldwikiname: Arch_V1.1
+prodimagename: Arch.jpg
+bzprodimageurl: https://statics3.seeedstudio.com/images/product/arch.jpg
+surveyurl: https://www.research.net/r/Arch_V1.1
+sku: 102080001
+---
 
 ![](assets/Arch_V1.1/img/Arch.jpg)
-
-Introduction
-------------
 
 Arch V1.1 is an mbed enabled development board with Arduino form factor and Grove connectors for rapid prototyping. With a variety of Shield and Grove modules, mbed SDK and lots of software libraries, you can rapidly build a prototype.
 
@@ -169,18 +169,5 @@ Resources
 ---------
 
 -   [Schematics of Arch V1.1](https://upverter.com/yihui/35f45e266de84e9c/Arch/)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/XYGQPRQ" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arch_V1.1"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arch_V1.1 -->

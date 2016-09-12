@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Electricity Sensor"
-+++
- -->
-
-# Grove - Electricity Sensor
-
-Introduction
-------------
+---
+title: Grove - Electricity Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Electricity-Sensor-p-777.html
+oldwikiname: Grove_-_Electricity_Sensor
+prodimagename: Twig-Electricity-Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/P2130726.jpg
+surveyurl: https://www.research.net/r/Grove-Electricity_Sensor
+sku: 101020027
+---
 
 ![](assets/Grove-Electricity_Sensor/img/Twig-Electricity-Sensor.jpg)
 
@@ -34,9 +34,8 @@ Specification
 
 ### Key Specification
 
-|              |                        |
-|--------------|------------------------|
 | **Items**    | **Min**                |
+|--------------|------------------------|
 | PCB Size     | 2.0cm\*4.0cm           |
 | Interface    | 2.0mm pitch pin header |
 | IO Structure | SIG,NC,NC,GND          |
@@ -44,9 +43,8 @@ Specification
 
 ### Electronic Characteristics
 
-|                       |         |          |         |           |
-|-----------------------|---------|----------|---------|-----------|
 | **Items**             | **Min** | **Norm** | **Max** | **Unit**  |
+|-----------------------|---------|----------|---------|-----------|
 | Transformation ratio  | -       | 2000:1   | -       | -         |
 | Input Current         | 0       | -        | 5       | A         |
 | Output Current        | 0       | -        | 2.5     | mA        |
@@ -203,18 +201,5 @@ Resources
 -   [Grove -Electricity Sensor Eagle File](assets/Grove-Electricity_Sensor/res/Electricity_sensor_v1.0_eagle_files.zip)
 -   [Schematic in PDF](assets/Grove-Electricity_Sensor/res/Electricity_sensor_sch.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/FSDNPPK" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Electricity_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Electricity_Sensor -->

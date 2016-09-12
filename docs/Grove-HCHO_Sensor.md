@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - HCHO Sensor"
-+++
- -->
-
-# Grove - HCHO Sensor
-
-Introduction
-------------
+---
+title: Grove - HCHO Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-HCHO-Sensor-p-1593.html
+oldwikiname: Grove_-_HCHO_Sensor
+prodimagename: HCHO_Sensor_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/grove HCHO.jpg
+surveyurl: https://www.research.net/r/Grove-HCHO_Sensor
+sku: 101020001
+---
 
 ![](assets/Grove-HCHO_Sensor/img/HCHO_Sensor_01.jpg)
 
@@ -136,17 +136,5 @@ Resources
 -   [Grove - HCHO Sensor Eagle File](assets/Grove-HCHO_Sensor/res/Grove-HCHO_Sensor_Eagle_File.zip)
 -   [WSP2110 Datasheet (Chinese)](assets/Grove-HCHO_Sensor/res/WSP2110.pdf)
 -   [WSP2110 Datasheet (English)](assets/Grove-HCHO_Sensor/res/Wsp2110-1-.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/L2LDZWD" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_HCHO_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_HCHO_Sensor -->

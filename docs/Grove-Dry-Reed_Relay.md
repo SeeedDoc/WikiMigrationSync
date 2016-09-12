@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Dry-Reed Relay"
-+++
- -->
-
-# Grove - Dry-Reed Relay
-
-Introduction
-------------
+---
+title: Grove - Dry-Reed Relay
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-Dry-Reed-Relay-p-1412.html
+oldwikiname: Grove_-_Dry-Reed_Relay
+prodimagename: DryReed_Relay_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/DryReed Relay.jpg
+surveyurl: https://www.research.net/r/Grove-Dry-Reed_Relay
+sku: 103020014
+---
 
 ![](assets/Grove-Dry-Reed_Relay/img/DryReed_Relay_01.jpg)
 
@@ -267,17 +267,5 @@ Resources
 
 - [Grove - Dry-Reed Relay Eagle File](assets/Grove-Dry-Reed_Relay/res/Grove-Dry-Reed_Relay_Eagle_File.zip)
 - [Dry-Reed Relay Datasheet](assets/Grove-Dry-Reed_Relay/res/Dry-Reed_Relay_Datasheet.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/CP8SP2Y" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Dry-Reed_Relay"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Dry-Reed_Relay -->

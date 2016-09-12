@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Speaker"
-+++
- -->
-
-# Grove - Speaker
+---
+title: Grove - Speaker
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-Speaker-p-1445.html
+oldwikiname: Grove_-_Speaker
+prodimagename: Grove_Speaker_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove Speaker.jpg
+surveyurl: https://www.research.net/r/Grove-Speaker
+sku: 107020001
+---
 
 ![](assets/Grove-Speaker/img/Grove_Speaker_01.jpg)
-
-Introduction
-------------
 
 The Grove- Speaker is a module which consists of power amplification and voice outputs. The loudness can be adjusted by the on-board potentiometer. With different input frequencies, the loud-speaker generates different tones. Coding the music into arduino, DIY your own music box!
 
@@ -87,17 +87,5 @@ Resources
 -   [Grove\_-\_Speaker\_v1.0\_sch.pdf](assets/Grove-Speaker/res/Grove-Speaker_v1.0_sch.pdf)
 -   [LM386 Low Voltage Audio Power Amplifier Datasheet](assets/Grove-Speaker/res/LM386_Low_Voltage_Audio_Power_Amplifier_Datasheet.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/RML2KWQ" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Speaker"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Speaker -->

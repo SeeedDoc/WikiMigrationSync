@@ -1,18 +1,17 @@
-<!-- 
-+++
-title       = "Arch Link"
-+++
- -->
-
-# Arch Link
+---
+title: Arch Link
+category: mbed
+bzurl: https://seeedstudio.com/Arch-Link-p-2511.html
+oldwikiname: Arch_Link
+prodimagename: 1020800061.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/1020800061.JPG
+surveyurl: https://www.research.net/r/Arch_Link
+sku: 102080006
+---
 
 ![](assets/Arch_Link/img/1020800061.jpg)
 
-Introduction
-------------
-
-
-Arch Link is an mbed enabled development board based on Nordic nRF51822 and WIZnet W5500 ethernet interface. With Arduino form factor, Grove connectors and micro SD interface, it is extremely easy to create a bluetooth low energy device.
+**Arch Link** is an mbed enabled development board based on Nordic nRF51822 and WIZnet W5500 ethernet interface. With Arduino form factor, Grove connectors and micro SD interface, it is extremely easy to create a bluetooth low energy device.
 
 [![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-Link-p-2511.html)
 
@@ -140,29 +139,17 @@ To flash a new firmware:
 Resources
 ---------
 
--   [Schematic pdf](assets/Arch_Link/res/Arch_Link_v1.0_sch.pdf)
--   [Eagle file](assets/Arch_Link/res/Arch_Link_v1.0_Eagle.rar)
+-   [Arch Link mbed developer platform page](https://developer.mbed.org/platforms/Seeed-Arch-Link/)
+-   [Schematic in PDF format](assets/Arch_Link/res/Arch_Link_v1.0_sch.pdf)
+-   [Schematic and board files in EAGLE format](assets/Arch_Link/res/Arch_Link_v1.0_Eagle.rar)
 -   [LPC11U35 Firmware](assets/Arch_Link/res/Lpc11u35_nrf51822_if_mbed.bin.zip)
--   [Seeed ble color pixels app for android](http://tangram.qiniudn.com/seeed_ble_color_pixels.apk)
--   [Sources of ble color pixels app](https://github.com/Seeed-Studio/ble_color_pixels)
+-   [Seeed BLE color pixels App for android](http://tangram.qiniudn.com/seeed_ble_color_pixels.apk)
+-   [Sources of BLE color pixels App](https://github.com/Seeed-Studio/ble_color_pixels)
 
 See Also
 --------
 
--   [Arch BLE](/Arch_BLE#Get_Started)
+-   [Arch BLE](/Arch_BLE)
 -   [W5500 Ethernet Shield](/W5500_Ethernet_Shield_v1.0)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/X2Y7R79" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Arch_Link"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Arch_Link -->

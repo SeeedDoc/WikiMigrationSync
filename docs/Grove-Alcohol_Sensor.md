@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Alcohol Sensor"
-+++
- -->
-
-# Grove - Alcohol Sensor
-
-Introduction
-------------
+---
+title: Grove - Alcohol Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Alcohol-Sensor-p-764.html
+oldwikiname: Grove_-_Alcohol_Sensor
+prodimagename: Alcohol_sensor_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020044 1.jpg
+surveyurl: https://www.research.net/r/Grove-Alcohol_Sensor
+sku: 101020044
+---
 
 ![](assets/Grove-Alcohol_Sensor/img/Alcohol_sensor_01.jpg)
 
@@ -158,17 +158,5 @@ Resources
 - [Schematics in PDF Format](assets/Grove-Alcohol_Sensor/res/Twig_Alcohol_Sensor_v0.9b_scehmatic.pdf)
 - [How to Choose A Gas Sensor](/How_to_choose_A_Gas_Sensor)
 - [MQ303A](assets/Grove-Alcohol_Sensor/res/MQ303A.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8DHXFQ8" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Battery Detector with Polymer Lithium Ion 5100mAh 3.8V"
-+++
- -->
-
-# Battery Detector with Polymer Lithium Ion 5100mAh 3.8V
-
-Introduction
-------------
+---
+title: Battery Detector with Polymer Lithium Ion 5100mAh 3.8V
+category: Arduino
+bzurl: https://seeedstudio.com/Battery-Detector-with-Polymer-Lithium-Ion-5100mAh-3.8V-p-2647.html
+oldwikiname: Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V
+prodimagename: Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/upload/img/20160516060632-adaa81.jpg
+surveyurl: https://www.research.net/r/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V
+sku: 110060467
+---
 
 ![](assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg)
 
@@ -54,7 +54,7 @@ Specifications
 
 **For battery**
 
-|                            |                                             |
+| Parameter                  | Value                                       |
 |----------------------------|---------------------------------------------|
 | Capacity                   | 5100 mAh                                    |
 | Nominal output voltage(DC) | 3.8 volts                                   |
@@ -67,7 +67,7 @@ Specifications
 **For battery power detector**
 
 
-|                   |                                                                                                                                           |
+| Parameter         | Value                                                                                                                                     |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Input voltage     | 3 – 4.2V                                                                                                                                  |
 | Operating current | 15 mA                                                                                                                                     |
@@ -158,17 +158,5 @@ Resources
 -   [Battery Datasheet](assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_Battery_Datasheet.pdf)
 -   [Certifications and Test Report for this Battery](assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Certifications_and_Test_Report.zip)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/6HTCZCW" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Barometer Sensor"
-+++
- -->
-
-# Grove - Barometer Sensor
-
-Introduction
-------------
+---
+title: Grove - Barometer Sensor
+category: Sensor
+bzurl: https://www.seeedstudio.com/Grove-Barometer-Sensor-p-1199.html
+oldwikiname: Grove_-_Barometer_Sensor
+prodimagename: Grove-Barometer.jpg
+bzprodimageurl: https://statics3.seeedstudio.com/images/product/groveBarometer Sensor.jpg
+surveyurl: https://www.research.net/r/Grove-Barometer_Sensor
+sku: 101020032
+---
 
 ![](assets/Grove-Barometer_Sensor/img/Grove-Barometer.jpg)
 
@@ -302,17 +302,5 @@ Resources
 -   [Github repository for Barometer Sensor Library](https://github.com/Seeed-Studio/Grove_Barometer_Sensor)
 -   [BST-BMP085-DS000-06](assets/Grove-Barometer_Sensor/res/BST-BMP085-DS000-06.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8WT9NSR" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Battery Detector with Polymer Lithium Ion 1050mAh 3.7V"
-+++
- -->
-
-# Battery Detector with Polymer Lithium Ion 1050mAh 3.7V
-
-Introduction
-------------
+---
+title: Battery Detector with Polymer Lithium Ion 1050mAh 3.7V
+category: Arduino
+bzurl: https://seeedstudio.com/Battery-Detector-with-Polymer-Lithium-Ion-1050mAh-3.7V-p-2648.html
+oldwikiname: Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V
+prodimagename: Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/upload/img/20160516061251-cd8343.jpg
+surveyurl: https://www.research.net/r/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V
+sku: 110060468
+---
 
 ![](assets/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V/img/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V.jpg)
 
@@ -54,7 +54,7 @@ Specifications
 
 **For battery**
 
-|                            |                                             |
+| Parameter                  | Value                                       |
 |----------------------------|---------------------------------------------|
 | Capacity                   | 1050 mAh                                    |
 | Nominal output voltage(DC) | 3.7 volts                                   |
@@ -67,7 +67,7 @@ Specifications
 **For battery power detector**
 
 
-|                   |                                                                                                                                           |
+| Parameter         | Value                                                                                                                                          |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Input voltage     | 3 – 4.2V                                                                                                                                  |
 | Operating current | 15 mA                                                                                                                                     |
@@ -157,18 +157,5 @@ Resources
 -   [CN1185 Datasheet](assets/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V/res/CN1185_Datasheet.pdf)
 -   [Battery Usage Datasheet](assets/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V/res/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V_Battery_Datasheet.pdf)
 -   [Battery Safety Datasheet and Certificates](assets/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V/res/Lithium-ion_Battery_3.7v-1050_mAh_Safety_Datasheet_and_Certificates.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/SKZT678" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V -->

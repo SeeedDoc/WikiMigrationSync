@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Touch Sensor"
-+++
- -->
-
-# Grove - Touch Sensor
+---
+title: Grove - Touch Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Touch-Sensor-p-747.html
+oldwikiname: Grove_-_Touch_Sensor
+prodimagename: Grove-Touch_Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020037 1.jpg
+surveyurl: https://www.research.net/r/Grove-Touch_Sensor
+sku: 101020037
+---
 
 ![](assets/Grove-Touch_Sensor/img/Grove-Touch_Sensor.jpg)
-
-Introduction
-------------
 
 Grove - Touch Sensor enables you to replace press with touch. It can detect the change in capacitance when a finger is near by. That means no matter your finger directly touches the pad or just stays close to the pad, Grove - Touch Sensor would outputs HIGH also.
 
@@ -114,17 +114,5 @@ Resources
 -   [Eagle Files](assets/Grove-Touch_Sensor/res/Touch_sensor_Eagle_File.zip)
 -   [TTP223pdf](http://garden.seeedstudio.com/images/d/d5/TTP223.pdf)
 -   [how to upload code](/Upload_Code)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/G9X9752" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor -->

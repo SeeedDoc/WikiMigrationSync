@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Gas Sensor(MQ5)"
-+++
- -->
-
-# Grove - Gas Sensor(MQ5)
+---
+title: Grove - Gas Sensor(MQ5)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Gas-Sensor(MQ5)-p-938.html
+oldwikiname: Grove_-_Gas_Sensor(MQ5)
+prodimagename: Twig-Gas_Sensor.bmp
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Gas Sensor MQ.jpg
+surveyurl: https://www.research.net/r/Grove-Gas_Sensor-MQ5
+sku: 101020056
+---
 
 ![](assets/Grove-Gas_Sensor-MQ5/img/Twig-Gas_Sensor.bmp)
-
-Introduction
-------------
 
 The Grove - Gas Sensor(MQ5) module is useful for gas leakage detection (in home and industry). It is suitable for detecting <font color="Blue">H2, LPG, CH4, CO, Alcohol</font>. Due to its high sensitivity and fast response time, measurements can be taken as soon as possible. The sensitivity of the sensor can be adjusted by using the potentiometer.
 
@@ -196,16 +196,5 @@ Resources
 **Datasheet**
 
 -   [MQ-5 Datasheet](assets/Grove-Gas_Sensor-MQ5/res/MQ-5.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/V8N5M6F" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ5)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ5) -->

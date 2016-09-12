@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - FM Receiver"
-+++
- -->
-
-# Grove - FM Receiver
+---
+title: Grove - FM Receiver
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-FM-Receiver-p-1841.html
+oldwikiname: Grove_-_FM_Receiver
+prodimagename: Grove_FM_Receiver_Photo.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove FM Receiver.jpg
+surveyurl: https://www.research.net/r/Grove-FM_Receiver
+sku: 107020005
+---
 
 ![](assets/Grove-FM_Receiver/img/Grove_FM_Receiver_Photo.jpg)
-
-Introduction
-------------
 
 Grove - FM Receiver is a wideband FM receiver module, this module is base on SX6119, it offers true single-chip voice FM receiver, which is built-in amplifier, VCO, filter and demodulator. The multifunction button provides greater convenience for users to control.
 
@@ -66,16 +66,5 @@ Resources
 - [Grove - FM Receiver Eagle File](assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_eagle.zip)
 - [Schematic in pdf](assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_sch_pdf.pdf)
 - [Datasheet of SX6119](assets/Grove-FM_Receiver/res/SX6119_收音IC_datasheet.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/82YQCDG" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_FM_Receiver"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_FM_Receiver -->

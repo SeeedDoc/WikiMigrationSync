@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Linkit Connect 7681"
-+++
- -->
-
-# Linkit Connect 7681
+---
+title: Linkit Connect 7681
+category: LinkIt
+bzurl: https://seeedstudio.com/LinkIt-Connect-7681-Wi-Fi-HDK-for-IoT-p-2262.html
+oldwikiname: Linkit_Connect_7681
+prodimagename: Linkit_Connect_7681.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/seeed/img/2016-08/lsGYRgJ7TRIO1BtAgf43AVd0.jpg
+surveyurl: https://www.research.net/r/Linkit_Connect_7681
+sku: 113990100
+---
 
 ![](assets/Linkit_Connect_7681/img/Linkit_Connect_7681.jpg)
-
-Introduction
-------------
 
 The LinkIt Connect 7681 development board provides easy access to the five GPIO pins and one UART port — each with an LED — of the MT7681, to quickly connect peripheral controllers and electronic circuits. The MT7681 is provided on the LinkIt Connect 7681 module, which was co-designed with AcSiP. This module, which is only 15 x 18mm, will also be available separately for direct integration into your product’s PCB.
 
@@ -73,17 +73,5 @@ Resources
 -   [LinkIt Connect 7681 Hardware Reference Design](http://labs.mediatek.com/fileMedia/download/ff4f5863-55b0-4664-b189-b705153cf061)
 -   [MediaTek LinkIt™ Connect 7681 SDK](http://labs.mediatek.com/site/global/developer_tools/mediatek_7681/sdk_intro/index.gsp)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8W5KXJR" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Linkit_Connect_7681"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Linkit_Connect_7681 -->

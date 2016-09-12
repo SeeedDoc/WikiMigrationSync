@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 3-Axis Compass V1.0"
-+++
- -->
-
-# Grove - 3-Axis Compass V1.0
-
-Introduction
-------------
+---
+title: Grove - 3-Axis Compass V1.0
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-3-Axis-Digital-Compass-p-759.html
+oldwikiname: Grove_-_3-Axis_Compass_V1.0
+prodimagename: Grove-3-Axis_Compass_V1.0.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020034 1.jpg
+surveyurl: https://www.research.net/r/Grove-3-Axis_Compass_V1.0
+sku: 101020034
+---
 
 ![](assets/Grove-3-Axis_Compass_V1.0/img/Grove-3-Axis_Compass_V1.0.jpg)
 
@@ -99,17 +99,5 @@ Resources
 -   [HMC5883.pdf](assets/Grove-3-Axis_Compass_V1.0/res/HMC5883.pdf "File:HMC5883.pdf")
 -   [Digital Compass Library](assets/Grove-3-Axis_Compass_V1.0/res/Digital_Compass.zip)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/BLGVD7F" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Compass_V1.0"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Compass_V1.0 -->

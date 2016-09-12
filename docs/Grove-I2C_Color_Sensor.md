@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - I2C Color Sensor"
-+++
- -->
-
-# Grove - I2C Color Sensor
-
-Introduction
-------------
+---
+title: Grove - I2C Color Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-I2C-Color-Sensor-p-854.html
+oldwikiname: Grove_-_I2C_Color_Sensor
+prodimagename: Grove-I2C-Color-Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020041 1.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_Color_Sensor
+sku: 101020041
+---
 
 ![](assets/Grove-I2C_Color_Sensor/img/Grove-I2C-Color-Sensor.jpg)
 
@@ -47,7 +47,7 @@ Getting Started
 Following documents help in getting the user started with Grove.
 
 -   [Preface - Getting Started](http://www.seeedstudio.com/document/pdf/Preface.pdf)
--   [Introduction to Grove](http://www.seeedstudio.com/document/pdf/Introduction%20to%20Grove.pdf)
+-   [to Grove](http://www.seeedstudio.com/document/pdf/%20to%20Grove.pdf)
 
 ### Hardware Connections
 
@@ -208,17 +208,6 @@ Resources
 -   [TCS3414-A Datasheet](assets/Grove-I2C_Color_Sensor/res/TCS3404_TCS3414-A.pdf)
 
 
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/LY2JD7Q" width="500"></iframe>
-
 </li>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_Color_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_Color_Sensor -->

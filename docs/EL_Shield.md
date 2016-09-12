@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "EL Shield"
-+++
- -->
-
-# EL Shield
+---
+title: EL Shield
+category: Arduino
+bzurl: https://seeedstudio.com/EL-Shield-p-1287.html
+oldwikiname: EL_Shield
+prodimagename: EL_Shield_02.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/104030000 1.jpg
+surveyurl: https://www.research.net/r/EL_Shield
+sku: 104030000
+---
 
 ![](assets/EL_Shield/img/EL_Shield_02.jpg)
-
-Introduction
-------------
 
 This shield is used to control EL devices. It can control 4 EL devices simultaneously. The controlling method is as simple as controlling an LED. Driven by PWM, it can create a colorful and florid effect by controlling each EL wire with a simple program. Combined with our EL Inverter, it can drive an EL wire as long as 15m, which provides infinite possibility for your design. Besides, the Shield is covered by Acrylic board, which enhances user's safety.
 
@@ -75,16 +75,5 @@ Resources
 -   [BT134W-600D datasheet](assets/EL_Shield/res/BT134W-600D.pdf)
 -   [MOC 3063 datasheet](assets/EL_Shield/res/MOC3063M.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/3XGX9ZC" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/EL_Shield"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/EL_Shield -->

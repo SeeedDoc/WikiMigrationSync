@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Fingerprint Sensor"
-+++
- -->
-
-# Grove - Fingerprint Sensor
-
-Introduction
-------------
+---
+title: Grove - Fingerprint Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Fingerprint-Sensor-p-1424.html
+oldwikiname: Grove_-_Fingerprint_Sensor
+prodimagename: Print_Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Print Sensor.jpg
+surveyurl: https://www.research.net/r/Grove-Fingerprint_Sensor
+sku: 101020057
+---
 
 ![](assets/Grove-Fingerprint_Sensor/img/Print_Sensor.jpg)
 
@@ -85,16 +85,5 @@ Resources
 
 - [Finger Print Sensor Library File](assets/Grove-Fingerprint_Sensor/res/Fingerprint_library.rar)
 - [Finger Print Sensor Datasheet](assets/Grove-Fingerprint_Sensor/res/ZFM206用户手册V2.1.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/39B5WXW" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Fingerprint_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Fingerprint_Sensor -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 3-Axis Digital Accelerometer(±400g)"
-+++
- -->
-
-# Grove - 3-Axis Digital Accelerometer(±400g)
-
-Introduction
-------------
+---
+title: Grove - 3-Axis Digital Accelerometer(±400g)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(±400g)-p-1897.html
+oldwikiname: Grove_-_3-Axis_Digital_Accelerometer(±400g)
+prodimagename: Grove_3Axis_Accelerometer400g.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/grove 3Axis Accelerometer400g.jpg
+surveyurl: https://www.research.net/r/Grove-3-Axis_Digital_Accelerometer-400g
+sku: 101020071
+---
 
 ![](assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Grove_3Axis_Accelerometer400g.jpg)
 
@@ -65,16 +65,5 @@ Resources
 -   [github repository for 3-Axis Digital Accelerometer(±400g)](https://github.com/Seeed-Studio/Grove_3Axis_Digital_Accelerometer_H3LIS331DL)
 -   [H3LIS331DL Datasheet PDF](http://www.st.com/web/en/resource/technical/document/datasheet/DM00053090.pdf)
  
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/KWMHN92" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer(±400g)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer(±400g) -->

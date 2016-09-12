@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - I2C Motor Driver V1.3"
-+++
- -->
-
-# Grove - I2C Motor Driver V1.3
+---
+title: Grove - I2C Motor Driver V1.3
+category: Actuator
+bzurl: https://www.seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html
+oldwikiname: Grove_-_I2C_Motor_Driver_V1.3
+prodimagename: I2CMotorDriver_New.jpg
+bzprodimageurl: https://statics3.seeedstudio.com/images/product/12Cmotor.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_Motor_Driver_V1.3
+sku: 105020001
+---
 
 ![](assets/Grove-I2C_Motor_Driver_V1.3/img/I2CMotorDriver_New.jpg)
-
-Introduction
-------------
 
 The Grove - I2C Motor Driver V1.3 (latest version) can directly control Stepper Motor or DC Motor. Its heart is a dual channel H-bridge driver chip（L298N）that can handle current up to 2A per channel, controlled by an Atmel ATmega8L which handles the I2C communication with for example an Arduino. Both motors can be driven simultaneously while set to a different speed and direction. It can power two brushed DC motors or one 4-wire two-phase stepper motor. It requires a 6V to 15V power supply to power the motor and has an onboard 5V voltage regulator which can power the I2C bus and the Arduino(selectable by jumper). All driver lines are protected by diodes from back-EMF.
 
@@ -415,17 +415,5 @@ Resources
 -   [L298 Datasheet](assets/Grove-I2C_Motor_Driver_V1.3/res/L298datasheet.pdf)
 -   [78M05 Datasheet](assets/Grove-I2C_Motor_Driver_V1.3/res/ST_78M05DataSheet.pdf)
 -   [On-Chip Firmware for I2C motor driver](assets/Grove-I2C_Motor_Driver_V1.3/res/On-Chipfirmware_for_Motor_driver.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/WZBCB86" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver_V1.3"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver_V1.3 -->

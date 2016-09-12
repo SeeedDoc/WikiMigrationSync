@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Chainable RGB LED"
-+++
- -->
-
-# Grove - Chainable RGB LED
-
-Introduction
-------------
+---
+title: Grove - Chainable RGB LED
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-Chainable-RGB-LED-p-850.html
+oldwikiname: Grove_-_Chainable_RGB_LED
+prodimagename: Chanbalelednb1.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/chanbalelednb1.jpg
+surveyurl: https://www.research.net/r/Grove-Chainable_RGB_LED
+sku: 104030006
+---
 
 ![](assets/Grove-Chainable_RGB_LED/img/Chanbalelednb1.jpg)
 
@@ -715,16 +715,5 @@ Resources
 -   [P9813 Datasheet](assets/Grove-Chainable_RGB_LED/res/P9813_datasheet.pdf)
 -   [Chainable RGB LED Library for the P9813](https://github.com/pjpmarques/ChainableLED)
 -   [Github repository for Chainable RGB LED Library (new)](https://github.com/Seeed-Studio/Grove_Chainable_RGB_LED)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/PTKGJNW" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Chainable_RGB_LED"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Chainable_RGB_LED -->

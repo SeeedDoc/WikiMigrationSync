@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - I2C FM Receiver"
-+++
- -->
-
-# Grove - I2C FM Receiver
+---
+title: Grove - I2C FM Receiver
+category: Communication
+bzurl: https://seeedstudio.com/Grove-I2C-FM-Receiver-p-1953.html
+oldwikiname: Grove_-_I2C_FM_Receiver
+prodimagename: Grove-I2C_FM_Receiver_Photo.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove I2C FM.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_FM_Receiver
+sku: 107020006
+---
 
 ![](assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_Photo.jpg)
-
-Introduction
-------------
 
 Grove - I2C FM Receiver is a wideband FM receiver module, this module is based on RDA5807M. The RDA5807M series is the newest generation single-chip broadcast FM stereo radio tuner with fully integrated synthesizer. The RDA5807M series has a powerful low-IF digital audio processor. The Grove - I2C FM Receiver has a headset jack, so it can connect to earphones or audio.
 
@@ -71,16 +71,5 @@ Resources
 -   [Datasheet of RDA5807M](assets/Grove-I2C_FM_Receiver/res/RDA5807M_datasheet_v1.1.pdf)
 -   [Grove - I2C FM Receiver v1.1 Eagle File](assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.1_Eagle.zip)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/WDHZVPS" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_FM_Receiver"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_FM_Receiver -->

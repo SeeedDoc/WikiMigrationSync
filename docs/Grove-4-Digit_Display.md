@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 4-Digit Display"
-+++
- -->
-
-# Grove - 4-Digit Display
-
-Introduction
-------------
+---
+title: Grove - 4-Digit Display
+category: Display
+bzurl: https://seeedstudio.com/Grove-4-Digit-Display-p-1198.html
+oldwikiname: Grove_-_4-Digit_Display
+prodimagename: Grove-4_digit_display.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/4-Digital Display.jpg
+surveyurl: https://www.research.net/r/Grove-4-Digit_Display
+sku: 104030003
+---
 
 [![](assets/Grove-4-Digit_Display/img/Grove-4_digit_display.jpg)](http://www.seeedstudio.com/depot/grove-4digital-display-p-1198.html)
 
@@ -374,17 +374,5 @@ If you want to make some awesome projects by 4-Digit Display, here's one project
 With this demo, we can see the air quality data on 4-Digit Display.
 
 [![](assets/Grove-4-Digit_Display/img/Wiki_makeitnow_logo.png)](http://www.seeedstudio.com/recipe/index.php?controller=recipe&action=show&recipe_id=266&ref=product)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/G29J3LX" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_4-Digit_Display"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_4-Digit_Display -->

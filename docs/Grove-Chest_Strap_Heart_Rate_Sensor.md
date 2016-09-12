@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Chest Strap Heart Rate Sensor"
-+++
- -->
-
-# Grove - Chest Strap Heart Rate Sensor
-
-Introduction
-------------
+---
+title: Grove - Chest Strap Heart Rate Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Chest-Strap-Heart-Rate-Sensor-p-1115.html
+oldwikiname: Grove_-_Chest_Strap_Heart_Rate_Sensor
+prodimagename: Heart_rate_chest_belt_kit.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/P3212441.jpg
+surveyurl: https://www.research.net/r/Grove-Chest_Strap_Heart_Rate_Sensor
+sku: 101020066
+---
 
 ![](assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Heart_rate_chest_belt_kit.jpg)
 
@@ -258,17 +258,5 @@ Resources
 -   [Grove - Chest Strap Heart Rate Sensor EAGLE File](assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0eagle_file.zip)
 -   [Chest Strap Heart Rate Sensor Demo Code](assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/MeasureHeartRate.zip)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/PPDT67R" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Chest_Strap_Heart_Rate_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Chest_Strap_Heart_Rate_Sensor -->

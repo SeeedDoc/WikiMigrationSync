@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Haptic Motor"
-+++
- -->
-
-# Grove - Haptic Motor
-
-Introduction
-------------
+---
+title: Grove - Haptic Motor
+category: Actuator
+bzurl: https://seeedstudio.com/Grove - Haptic Motor-p-2546.html
+oldwikiname: Grove_-_Haptic_Motor
+prodimagename: Grove_Haptic_Motor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/105020011 1.jpg
+surveyurl: https://www.research.net/r/Grove-Haptic_Motor
+sku: 105020011
+---
 
 ![](assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor.jpg)
 
@@ -26,7 +26,7 @@ Features
 Specifications
 -------------
 
-|                                |                |
+| Parameter                      | Value          |
 |--------------------------------|----------------|
 | Operating voltage              | 3.3~5.0 V      |
 | Ripples (at maximum power)     | 50~100 mV      |
@@ -125,16 +125,5 @@ Resources
 -   Schematic files in [Eagle format](assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_Eagle.zip) and [PDF format](assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_SCH.pdf).
 -   [More about drive circuit DRV2605L](http://www.ti.com/product/DRV2605L).
 -   [Git repository](https://github.com/Seeed-Studio/Grove_Haptic_Motor)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/B6GG5NC" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Haptic_Motor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Haptic_Motor -->

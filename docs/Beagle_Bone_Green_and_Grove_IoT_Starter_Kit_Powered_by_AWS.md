@@ -1,13 +1,12 @@
-<!-- 
-+++
-title       = "Beagle Bone Green and Grove IoT Starter Kit Powered by AWS"
-+++
- -->
-
-# Beagle Bone Green and Grove IoT Starter Kit Powered by AWS
-
-Introduction
-------------
+---
+title: Beagle Bone Green and Grove IoT Starter Kit Powered by AWS
+category: BeagleBone
+bzurl: https://www.amazon.com/BeagleBone-Green-Grove-Starter-Powered/dp/B017O3H49K
+oldwikiname: Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS
+prodimagename: Aws_kit_bbg_cover.JPG
+bzprodimageurl: https://images-na.ssl-images-amazon.com/images/I/41ld4VguWCL.jpg
+surveyurl: https://www.research.net/r/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS
+---
 
 ![](assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/Aws_kit_bbg_cover.JPG)
 
@@ -674,17 +673,5 @@ Resources
 -   [Wiki:Grove - Sound sensor](/index.php?title=Twig-Sound_Sensor)
 -   [Wiki:Grove - 3-Axis Digital Accelerometer ADXL345](/Grove-3-Axis_Digital_Accelerometer_ADXL345)
 -   [Wiki:Grove - Chainable RGB LED](/index.php?title=Twig-Chainable_RGB_LED)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/DBZZZN8" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS -->

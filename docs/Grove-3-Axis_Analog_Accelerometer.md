@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 3-Axis Analog Accelerometer"
-+++
- -->
-
-# Grove - 3-Axis Analog Accelerometer
-
-Introduction
-------------
+---
+title: Grove - 3-Axis Analog Accelerometer
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-3-Axis-Analog-Accelerometer-p-1086.html
+oldwikiname: Grove_-_3-Axis_Analog_Accelerometer
+prodimagename: Grove-3-axis_Analog_Accelerometer_photo.JPG
+bzprodimageurl: http://statics3.seeedstudio.com/images/P2241478.JPG
+surveyurl: https://www.research.net/r/Grove-3-Axis_Analog_Accelerometer
+sku: 101020051
+---
 
 ![](assets/Grove-3-Axis_Analog_Accelerometer/img/Grove-3-axis_Analog_Accelerometer_photo.JPG)
 
@@ -78,17 +78,5 @@ Resources
 
 -   [ADXL335 datasheet.pdf](assets/Grove-3-Axis_Analog_Accelerometer/res/ADXL335_datasheet.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/GMDWJPS" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Analog_Accelerometer"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Analog_Accelerometer -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - I2C ADC"
-+++
- -->
-
-# Grove - I2C ADC
-
-Introduction
-------------
+---
+title: Grove - I2C ADC
+category: Communication
+bzurl: https://seeedstudio.com/Grove-I2C-ADC-p-1580.html
+oldwikiname: Grove_-_I2C_ADC
+prodimagename: I2C_ADC_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/103020013 1.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_ADC
+sku: 103020013
+---
 
 ![](assets/Grove-I2C_ADC/img/I2C_ADC_01.jpg)
 
@@ -376,17 +376,5 @@ Resources
 -   [I2C ADC Eagle File](assets/Grove-I2C_ADC/res/I2C_ADC_Eagle_File.zip)
 -   [ADC121C021 Datasheet](assets/Grove-I2C_ADC/res/ADC121C021_Datasheet.pdf)
    
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/LDPP93V" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_ADC"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_ADC -->

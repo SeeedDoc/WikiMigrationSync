@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Encoder"
-+++
- -->
-
-# Grove - Encoder
-
-Introduction
-------------
+---
+title: Grove - Encoder
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Encoder-p-1352.html
+oldwikiname: Grove_-_Encoder
+prodimagename: Encoder2.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove Encoder.jpg
+surveyurl: https://www.research.net/r/Grove-Encoder
+sku: 111020001
+---
 
 <table>
     <tr>
@@ -189,16 +189,5 @@ Resources
 -   [TimeOne Lib](assets/Grove-Encoder/res/TimerOne.zip)
 -   [Encoder Lib](assets/Grove-Encoder/res/Encoder.zip)
 -   [Grove-Encoder Eagle files](assets/Grove-Encoder/res/Grove-Encoder_eagle_files.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/FZSDZTW" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Encoder"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Encoder -->

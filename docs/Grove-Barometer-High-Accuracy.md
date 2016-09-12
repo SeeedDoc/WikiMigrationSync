@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Barometer (High-Accuracy)"
-+++
- -->
-
-# Grove - Barometer (High-Accuracy)
-
-Introduction
-------------
+---
+title: Grove - Barometer (High-Accuracy)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Barometer-(High-Accuracy)-p-1865.html
+oldwikiname: Grove_-_Barometer_(High-Accuracy)
+prodimagename: Grove-Barometer-High-Accuracy.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove Barometer High-Accuracy.jpg
+surveyurl: https://www.research.net/r/Grove-Barometer-High-Accuracy
+sku: 101020068
+---
 
 ![](assets/Grove-Barometer-High-Accuracy/img/Grove-Barometer-High-Accuracy.jpg)
 
@@ -271,16 +271,5 @@ Resources
 -   [HP206C Datasheet](assets/Grove-Barometer-High-Accuracy/res/HP206C_Datasheet.pdf)
 -   [Github repository for Grove\_Barometer\_HP20x](https://github.com/Seeed-Studio/Grove_Barometer_HP20x)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8QL7DBT" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Barometer_(High-Accuracy)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_(High-Accuracy) -->

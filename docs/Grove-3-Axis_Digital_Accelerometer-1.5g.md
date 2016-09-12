@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 3-Axis Digital Accelerometer(±1.5g)"
-+++
- -->
-
-# Grove - 3-Axis Digital Accelerometer(±1.5g)
-
-Introduction
-------------
+---
+title: Grove - 3-Axis Digital Accelerometer(±1.5g)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(±1.5g)-p-765.html
+oldwikiname: Grove_-_3-Axis_Digital_Accelerometer(±1.5g)
+prodimagename: 3_aix_acc.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020039 1.jpg
+surveyurl: https://www.research.net/r/Grove-3-Axis_Digital_Accelerometer-1.5g
+sku: 101020039
+---
 
 <table>
 <colgroup>
@@ -149,17 +149,5 @@ Resources
 -   [DigitalAccelerometer\_MMA7660FC Library](https://github.com/Seeed-Studio/DigitalAccelerometer_MMA7660FC)
 -   [github repository for 3-Axis Digital Accelerometer(±1.5g)](https://github.com/Seeed-Studio/Accelerometer_MMA7660)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/BMKNVDS" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer(±1.5g)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer(±1.5g) -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Digital Infrared Temperature Sensor"
-+++
- -->
-
-# Grove - Digital Infrared Temperature Sensor
-
-Introduction
-------------
+---
+title: Grove - Digital Infrared Temperature Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Digital-Infrared-Temperature-Sensor-p-2385.html
+oldwikiname: Grove_-_Digital_Infrared_Temperature_Sensor
+prodimagename: Grove－Digital_Infrared_Temperature_Sensor_4.jpg)
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/101020077 1.jpg
+surveyurl: https://www.research.net/r/Grove-Digital_Infrared_Temperature_Sensor
+sku: 101020077
+---
 
 <table>
     <tr>
@@ -157,17 +157,5 @@ Resources
 - [Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip](assets/Grove-Digital_Infrared_Temperature_Sensor/res/Grove_Digital_Infrared_Temperature_Sensor_v1.0_eagle_file.zip "File:Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip")
 - [MLX90615.pdf](assets/Grove-Digital_Infrared_Temperature_Sensor/res/MLX90615.pdf "File:MLX90615.pdf")
 - [Demo Code](https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/2GJ2X9L" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Digital_Infrared_Temperature_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Digital_Infrared_Temperature_Sensor -->

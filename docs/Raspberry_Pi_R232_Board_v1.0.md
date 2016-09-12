@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Raspberry Pi RS232 Board v1.0"
-+++
- -->
-
-# Raspberry Pi RS232 Board v1.0
+---
+title: Raspberry Pi RS232 Board v1.0
+category: Raspberry Pi
+bzurl: https://seeedstudio.com/Raspberry-Pi-RS232-Board-v1.0-p-2408.html
+oldwikiname: Raspberry_Pi_R232_Board_v1.0
+prodimagename: Raspberry_Pi-R232-Board-v1.0.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/seeed/img/2016-08/SpUze3JXjsgK1XzFCoMPaSfr.jpg
+surveyurl: https://www.research.net/r/Raspberry_Pi_R232_Board_v1.0
+sku: 103030028
+---
 
 ![](assets/Raspberry_Pi_R232_Board_v1.0/img/Raspberry_Pi-R232-Board-v1.0.jpg)
-
-Introduction
-------------
 
 Raspberry Pi RS232 Board v1.0 is a standard communication port for industry equipment.This module is base on MAX3232,which is a dual driver/receiver that includes a capacitive voltage generator to supply TIA/EIA-232-F voltage levels from a single 5-V supply. The shield integrates DB9 connectors (female) that provide connection to various devices with RS232 interface. Also the RS232 headers will facilitate your connections and commissioning. It provides the welding areas to make full use of extra space on it, which is highly convenient for prototyping.
 
@@ -142,16 +142,5 @@ Resources
 - [Raspberry\_Pi\_RS232\_Board\_v1.0\_sch\_pcb](assets/Raspberry_Pi_R232_Board_v1.0/res/Raspberry_Pi_RS232_Board_v1.0_sch_pcb.zip)
 - [MAX3232](assets/Raspberry_Pi_R232_Board_v1.0/res/MAX3232.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8KZS92G" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Raspberry_Pi_R232_Board_v1.0"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Raspberry_Pi_R232_Board_v1.0 -->

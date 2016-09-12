@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 433MHz Simple RF Link Kit"
-+++
- -->
-
-# Grove - 433MHz Simple RF Link Kit
-
-Introduction
-------------
+---
+title: Grove - 433MHz Simple RF Link Kit
+category: Communication
+bzurl: https://seeedstudio.com/Grove-433MHz-Simple-RF-link-kit-p-1062.html
+oldwikiname: Grove_-_433MHz_Simple_RF_Link_Kit
+prodimagename: 433MHz_Simple_RF.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/433MHz RF kit.jpg
+surveyurl: https://www.research.net/r/Grove-433MHz_Simple_RF_Link_Kit
+sku: 113060000
+---
 
 ![](assets/Grove-433MHz_Simple_RF_Link_Kit/img/433MHz_Simple_RF.jpg)
 
@@ -241,16 +241,5 @@ Resources
 -   [R433A Datasheet](assets/Grove-433MHz_Simple_RF_Link_Kit/res/ADI;ACTR433A.pdf)
 
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/KSHCFR7" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_433MHz_Simple_RF_Link_Kit"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_433MHz_Simple_RF_Link_Kit -->

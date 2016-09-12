@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Flame Sensor"
-+++
- -->
-
-# Grove - Flame Sensor
-
-Introduction
-------------
+---
+title: Grove - Flame Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Flame-Sensor-p-1450.html
+oldwikiname: Grove_-_Flame_Sensor
+prodimagename: Flame_Sensor_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Flame Sensor.jpg
+surveyurl: https://www.research.net/r/Grove-Flame_Sensor
+sku: 101020049
+---
 
 ![](assets/Grove-Flame_Sensor/img/Flame_Sensor_01.jpg)
 
@@ -211,17 +211,5 @@ Resources
 -   [Github repository for Grove_Flame_Sensor Library](https://github.com/Seeed-Studio/Grove_Flame_Sensor)
 -   [LM293D datasheet](assets/Grove-Flame_Sensor/res/LM293D.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/3QDP3G8" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Flame_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Flame_Sensor -->

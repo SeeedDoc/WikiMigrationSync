@@ -1,10 +1,13 @@
-<!-- 
-+++
-title       = "Grove - I2C Motor Driver"
-+++
- -->
-
-# Grove - I2C Motor Driver
+---
+title: Grove - I2C Motor Driver
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html
+oldwikiname: Grove_-_I2C_Motor_Driver
+prodimagename: Grove-I2C_Motor_Driver_V1.1.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/12Cmotor.jpg
+surveyurl: https://www.research.net/r/Grove-I2C_Motor_Driver
+sku: 105020001
+---
 
 <table>
 <colgroup>
@@ -32,11 +35,5 @@ title       = "Grove - I2C Motor Driver"
 </tbody>
 </table>
 
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver -->

@@ -1,15 +1,12 @@
-<!-- 
-+++
-title       = "Grove - Gas Sensor"
-+++
- -->
-
-# Grove - Gas Sensor
+---
+title: Grove - Gas Sensor
+category: Sensor
+oldwikiname: Grove_-_Gas_Sensor
+prodimagename: Twig-Gas_Sensor.bmp
+surveyurl: https://www.research.net/r/Grove-Gas_Sensor
+---
 
 ![](assets/Grove-Gas_Sensor/img/Twig-Gas_Sensor.bmp)
-
-Introduction
-------------
 
 The Grove - Gas Sensor module is useful for gas leakage detecting(in home and industry). It can detect LPG, i-butane, methane, alcohol, Hydrogen, smoke and so on. Measurements can be taken as soon as possible based on its fast response time. Also the sensitivity can be adjusted by the potentiometer.
 
@@ -46,11 +43,5 @@ Resources
 -   [MQ-9 Datasheet](assets/Grove-Gas_Sensor/res/MQ-9.pdf)
 -   [Demo code on github](https://github.com/Seeed-Studio/Grove_Gas_Sensor)
 
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor -->

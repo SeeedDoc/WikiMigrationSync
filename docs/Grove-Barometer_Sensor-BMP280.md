@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Barometer Sensor (BMP280)"
-+++
- -->
-
-# Grove - Barometer Sensor (BMP280)
-
-Introduction
-------------
+---
+title: Grove - Barometer Sensor (BMP280)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Barometer-Sensor-(BMP280)-p-2652.html
+oldwikiname: Grove_-_Barometer_Sensor_(BMP280)
+prodimagename: Grove-Barometer_Sensor-BMP280-700_s.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/seeed/img/2016-06/oVNA7LQwPYYFnB674KEPM9w7.jpg
+surveyurl: https://www.research.net/r/Grove-Barometer_Sensor-BMP280
+sku: 101020192
+---
 
 ![](assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
 
@@ -31,7 +31,7 @@ Features
 Specifications
 --------------
 
-|                                      |                                                                                                                             |
+| Parameter                            | Value                                                                                                                       |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Input voltage                        | 3.3V or 5V                                                                                                                  |
 | I/O voltage                          | 3.3V or 5V                                                                                                                  |
@@ -171,17 +171,5 @@ Resources
 -   [BMP280 Datasheet](assets/Grove-Barometer_Sensor-BMP280/res/Grove-Barometer_Sensor-BMP280-BMP280-DS001-12_Datasheet.pdf)
 -   [Library and example code](https://github.com/Seeed-Studio/Grove_BMP280) on GitHub
 -   [I<sup>2</sup>C how-to for Arduino](https://www.arduino.cc/en/Reference/Wire)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/P56YN6P" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_(BMP280)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_(BMP280) -->

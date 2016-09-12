@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - 3-Axis Digital Gyro"
-+++
- -->
-
-# Grove - 3-Axis Digital Gyro
+---
+title: Grove - 3-Axis Digital Gyro
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-3-Axis-Digital-Gyro-p-750.html
+oldwikiname: Grove_-_3-Axis_Digital_Gyro
+prodimagename: Grove-3-Axis_Digital_Gyro.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020050 1.jpg
+surveyurl: https://www.research.net/r/Grove-3-Axis_Digital_Gyro
+sku: 101020050
+---
 
 ![](assets/Grove-3-Axis_Digital_Gyro/img/Grove-3-Axis_Digital_Gyro.jpg)
-
-Introduction
-------------
 
 Grove - 3-Axis Digital Gyro module based on ITG 3200. It is the world’s first single-chip, digital-output, 3-axis MEMS motion processing gyro optimised for gaming, 3D mice, and motion-based remote control applications for Internet connected Digital TVs and Set Top Boxes. The ITG-3200 features three 16-bit analog-to-digital converters (ADCs) for digitising the gyro outputs, a user-selectable internal low-pass filter bandwidth, and a Fast-Mode [I2C](/index.php?title=I2CAndaction=editAndredlink=1) (400kHz) interface.
 
@@ -77,16 +77,5 @@ Resources
 -   [Grove - 3-Axis Digital Gyro Eagle File](assets/Grove-3-Axis_Digital_Gyro/res/Grove-3-Axis_Digital_Gyro_Eagle_File.zip)
 -   [Digital Gyro Library](https://github.com/Seeed-Studio/Grove_3_Axis_Digital_Gyro)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/GRJ969Z" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Gyro"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Gyro -->

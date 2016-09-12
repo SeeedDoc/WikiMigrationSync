@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Digital Light Sensor"
-+++
- -->
-
-# Grove - Digital Light Sensor
-
-Introduction
-------------
+---
+title: Grove - Digital Light Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Digital-Light-Sensor-p-1281.html
+oldwikiname: Grove_-_Digital_Light_Sensor
+prodimagename: 
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020030 1.jpg
+surveyurl: https://www.research.net/r/Grove-Digital_Light_Sensor
+sku: 101020030
+---
 
 ![](assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor.jpg)
 
@@ -479,16 +479,5 @@ Resources
 - [Library Github Repo](https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor)
 - [TSL2561 Datasheet](assets/Grove-Digital_Light_Sensor/res/TSL2561T.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/C2XL5DB" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Digital_Light_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Digital_Light_Sensor -->

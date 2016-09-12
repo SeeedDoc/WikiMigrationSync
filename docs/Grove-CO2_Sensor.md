@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - CO2 Sensor"
-+++
- -->
-
-# Grove - CO2 Sensor
-
-Introduction
-------------
+---
+title: Grove - CO2 Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-CO2-Sensor-p-1863.html
+oldwikiname: Grove_-_CO2_Sensor
+prodimagename: Grove_CO2_Sensor.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove CO2 Sensor.jpg
+surveyurl: https://www.research.net/r/Grove-CO2_Sensor
+sku: 101020067
+---
 
 ![](assets/Grove-CO2_Sensor/img/Grove_CO2_Sensor.jpg)
 
@@ -145,18 +145,5 @@ Resources
 
 -   [MH-Z16\_CO2 datasheet\_ZH\_CN.pdf](assets/Grove-CO2_Sensor/res/MH-Z16_CO2.pdf)
 -   [MH-Z16\_CO2 datasheet\_EN.pdf](assets/Grove-CO2_Sensor/res/MH-Z16_CO2_datasheet_EN.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/6LZP6CF" width="500"></iframe>
-
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_CO2_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_CO2_Sensor -->

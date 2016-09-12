@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 6-Axis Accelerometer&Compass V2.0"
-+++
- -->
-
-# Grove - 6-Axis Accelerometer&Compass V2.0
-
-Introduction
-------------
+---
+title: Grove - 6-Axis Accelerometer&Compass V2.0
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-6-Axis-Accelerometer&Compass-v2.0-p-2476.html
+oldwikiname: Grove_-_6-Axis_Accelerometer&Compass_V2.0
+prodimagename: Accelerometer_And_Compass_v2.JPG
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/101020081 1.jpg
+surveyurl: https://www.research.net/r/Grove-6-Axis_AccelerometerAndCompass_V2.0
+sku: 101020081
+---
 
 ![](assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Accelerometer_And_Compass_v2.JPG)
 
@@ -84,16 +84,5 @@ Resources
 -   [6-Axis Accelerometer&Compass v2.0 Library](https://github.com/Seeed-Studio/6Axis_Accelerometer_And_Compass_v2)
 -   [LSM303D\_datashet](assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303D_datasheet.pdf)
 -   [6-Axis\_Accelerometer%26Compass\_v2.0 eagle file](assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/Grove-6-Axis_AccelerometerAndCompass_v2.0_sch_pcb.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/KPNRJHB" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer&Compass_V2.0"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer&Compass_V2.0 -->

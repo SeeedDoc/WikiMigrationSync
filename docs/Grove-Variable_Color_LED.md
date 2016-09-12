@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Variable Color LED"
-+++
- -->
-
-# Grove - Variable Color LED
+---
+title: Grove - Variable Color LED
+category: Actuator
+bzurl: https://seeedstudio.com/Grove-Variable-Color-LED-p-852.html
+oldwikiname: Grove_-_Variable_Color_LED
+prodimagename: Variable_Color_LED1.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Variable Color LED.jpg
+surveyurl: https://www.research.net/r/Grove-Variable_Color_LED
+sku: 104020001
+---
 
 ![](assets/Grove-Variable_Color_LED/img/Variable_Color_LED1.jpg) ![](assets/Grove-Variable_Color_LED/img/Variable_Color_LED_01.jpg)
-
-Introduction
-------------
 
 This Grove consists of one 8mm RGB LED. It operates at 5V DC. When SIG pin is logic HIGH, the RGB LED will light up. Perfect for use on Seeeduino digital outputs, or also can be controlled by pulse-width modulation. And it uses three adjustable resistor to change the color of the RGB LED.
 
@@ -89,17 +89,5 @@ Resources
 
 -   [Variable Color LED eagle_file](http://garden.seeedstudio.com/images/4/47/Variable_Color_LED_eagle_file.zip)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/VM9NW9Z" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Variable_Color_LED"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Variable_Color_LED -->

@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Barometer Sensor (BMP180)"
-+++
- -->
-
-# Grove - Barometer Sensor (BMP180)
-
-Introduction
-------------
+---
+title: Grove - Barometer Sensor (BMP180)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Barometer-Sensor-(BMP180)-p-1840.html
+oldwikiname: Grove_-_Barometer_Sensor_(BMP180)
+prodimagename: Barometer-BMP180-.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove Barometer Sensor BMP180.jpg
+surveyurl: https://www.research.net/r/Grove-Barometer_Sensor-BMP180
+sku: 101020072
+---
 
 ![](assets/Grove-Barometer_Sensor-BMP180/img/Barometer-BMP180-.jpg)
 
@@ -289,17 +289,5 @@ Resources
 -   [Barometer\_Sensor Library](https://github.com/Seeed-Studio/Grove_Barometer_Sensor)
 -   [BMP180 datasheet](assets/Grove-Barometer_Sensor-BMP180/res/BMP180.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8X3DXBD" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_(BMP180)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_(BMP180) -->

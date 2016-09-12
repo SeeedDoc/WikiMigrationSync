@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Wio Link Event Kit"
-+++
- -->
-
-# Wio Link Event Kit
+---
+title: Wio Link Event Kit
+category: Wio
+bzurl: https://seeedstudio.com/Wio-Link-Event-Kit-p-2611.html
+oldwikiname: Wio_Link_Event_Kit
+prodimagename: Wio_Link_Event_Kit_product_view_1200_s.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/110020048 1.jpg
+surveyurl: https://www.research.net/r/Wio_Link_Event_Kit
+sku: 110020048
+---
 
 ![](assets/Wio_Link_Event_Kit/img/Wio_Link_Event_Kit_product_view_1200_s.jpg)
-
-Introduction
-------------
 
 Wio Link Event Kit is a event-monitoring kit which include some typical event-triggered [Grove](/Grove_System) functional modules to build smart IoT devices. The most amazing part of this kit is the Wio Link development board which can be utilized for various devices: without a bit programming skill required. All the actions you want your modules performed and the flashing code operation to Wio Link could be completed with taps in a mobile app. And you can send instructions to your devices over the internet at anywhere. So Wio Link will be a perfect utility to making things around smarter for everyone. Now let's get familiar with some event-triggered modules included in this Kit.
 
@@ -58,17 +58,5 @@ This demo can used as a compilation result-indicator.
 
 Please go to [Recipe](http://www.seeedstudio.com/recipe/1068-traffic-light-indicates-travis-ci-compiled-results.html) for the detailed manual:
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/3ZGRD5P" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Wio_Link_Event_Kit"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Wio_Link_Event_Kit -->

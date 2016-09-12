@@ -1,17 +1,16 @@
-<!-- 
-+++
-title       = "Grove - Switch(P)"
-+++
- -->
-
-# Grove - Switch(P)
+---
+title: Grove - Switch(P)
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Switch(P)-p-1252.html
+oldwikiname: Grove_-_Switch(P)
+prodimagename: GroveSwitchP_01.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/GroveSwitchP.jpg
+surveyurl: https://www.research.net/r/Grove-Switch-P
+sku: 101020004
+---
 
 ![](assets/Grove-Switch-P/img/SwitchP.jpg)
 ![](assets/Grove-Switch-P/img/GroveSwitchP_01.jpg)
-
-Introduction
-------------
-
 
 This Grove – Switch is a mini SPDT slide, great for “ON/OFF” situations. It is such a reliable switch of great build quality that we adopt it on many of our boards. You should stock some for your Grove prototyping system.
 
@@ -77,17 +76,5 @@ Resources
 --------
 
 - [Grove - Switch(P) Eagle File](assets/Grove-Switch-P/res/Grove-Switch-P-Eagle_File.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/RH2NM37" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Switch(P)"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Switch(P) -->

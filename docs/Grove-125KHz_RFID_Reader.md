@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 125KHz RFID Reader"
-+++
- -->
-
-# Grove - 125KHz RFID Reader
-
-Introduction
-------------
+---
+title: Grove - 125KHz RFID Reader
+category: Communication
+bzurl: https://seeedstudio.com/Grove-125KHz-RFID-Reader-p-1008.html
+oldwikiname: Grove_-_125KHz_RFID_Reader
+prodimagename: Grove-125KHz_RFID_Reader.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/gr125k.jpg
+surveyurl: https://www.research.net/r/Grove-125KHz_RFID_Reader
+sku: 113020002
+---
 
 ![](assets/Grove-125KHz_RFID_Reader/img/Grove-125KHz_RFID_Reader.jpg)
 
@@ -240,17 +240,5 @@ Take ID: 0009776930 for example:
 -   Card Number ID: 0009776930 ------- Decimalism [Start Bit(00) + Card Number(8 numbers)]
 -   Output: 0700952F229F ------------- Hex [[Start Bit(07h) + Card Number(8 numbers) + Checksum]
 -   The calculator for decimal and hex numbers is available online.
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/3K8BGD5" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_125KHz_RFID_Reader"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_125KHz_RFID_Reader -->

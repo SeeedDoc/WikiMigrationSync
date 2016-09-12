@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Electromagnet"
-+++
- -->
-
-# Grove - Electromagnet
-
-Introduction
-------------
+---
+title: Grove - Electromagnet
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Electromagnet-p-1820.html
+oldwikiname: Grove_-_Electromagnet
+prodimagename: Grove_Electromagnet_02.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove Electromagnet.jpg
+surveyurl: https://www.research.net/r/Grove-Electromagnet
+sku: 101020073
+---
 
 ![](assets/Grove-Electromagnet/img/Grove_Electromagnet_02.jpg)
 
@@ -133,16 +133,5 @@ Resources
 
 - [Grove Electromagnet v1.0 SCH PCB.zip](assets/Grove-Electromagnet/res/Grove_Electromagnet_v1.0_SCH_PCB.zip "File:Grove Electromagnet v1.0 SCH PCB.zip")
 - [Datasheet ZYE1-P20-15 PDF](assets/Grove-Electromagnet/res/ZYE1-P20-15.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/FNCX39X" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Electromagnet"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Electromagnet -->

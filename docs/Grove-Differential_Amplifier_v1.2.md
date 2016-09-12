@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Differential Amplifier v1.2"
-+++
- -->
-
-# Grove - Differential Amplifier v1.2
-
-Introduction
-------------
+---
+title: Grove - Differential Amplifier v1.2
+category: Others
+bzurl: https://www.seeedstudio.com/Grove-Differential-Amplifier-p-1284.html
+oldwikiname: Grove_-_Differential_Amplifier_v1.2
+prodimagename: Grove-Differential_Amplifier_v1.2.jpg
+bzprodimageurl: https://statics3.seeedstudio.com/images/103020016 1.jpg
+surveyurl: https://www.research.net/r/Grove-Differential_Amplifier_v1.2
+sku: 103020016
+---
 
 ![](assets/Grove-Differential_Amplifier_v1.2/img/Grove-Differential_Amplifier_v1.2.jpg)
 
@@ -196,16 +196,5 @@ Resources
 - [v1.2 Eagle File](assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2_eagle.zip)
 - [v1.2 Schematic](assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2.pdf)
 - [INA132 Datasheet](assets/Grove-Differential_Amplifier_v1.2/res/Ina132.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/2TD6F9T" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Differential_Amplifier_v1.2"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Differential_Amplifier_v1.2 -->

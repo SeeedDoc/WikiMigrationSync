@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Collision Sensor"
-+++
- -->
-
-# Grove - Collision Sensor
-
-Introduction
-------------
+---
+title: Grove - Collision Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Collision-Sensor-p-1132.html
+oldwikiname: Grove_-_Collision_Sensor
+prodimagename: Grove_–_Collision_Sensor_photo.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020005 1.jpg
+surveyurl: https://www.research.net/r/Grove-Collision_Sensor
+sku: 101020005
+---
 
 ![](assets/Grove-Collision_Sensor/img/Grove_–_Collision_Sensor_photo.jpg)
 
@@ -163,18 +163,5 @@ Resources
 
 -   [Grove - Collision Sensor Eagle File](assets/Grove-Collision_Sensor/res/Grove-Collision_Sensor_eagle_file.zip)
 -   [MVS0608.02 datasheet](assets/Grove-Collision_Sensor/res/DataSheet-MVS0608_02-v2_1.pdf)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/6RGRHZ6" width="500"></iframe>
-   
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Collision_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Collision_Sensor -->

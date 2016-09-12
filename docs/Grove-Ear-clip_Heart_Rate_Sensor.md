@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - Ear-clip Heart Rate Sensor"
-+++
- -->
-
-# Grove - Ear-clip Heart Rate Sensor
-
-Introduction
-------------
+---
+title: Grove - Ear-clip Heart Rate Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Ear-clip-Heart-Rate-Sensor-p-1116.html
+oldwikiname: Grove_-_Ear-clip_Heart_Rate_Sensor
+prodimagename: Heart_rate_ear_clip_kit.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/P3212438.jpg
+surveyurl: https://www.research.net/r/Grove-Ear-clip_Heart_Rate_Sensor
+sku: 101020033
+---
 
 ![](assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Heart_rate_ear_clip_kit.jpg)
 
@@ -226,17 +226,5 @@ Resources
 ---------
 
 - [Grove - Ear-clip Heart Rate Sensor Demo code](assets/Grove-Ear-clip_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0.zip)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/JL8FCFZ" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Ear-clip_Heart_Rate_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Ear-clip_Heart_Rate_Sensor -->

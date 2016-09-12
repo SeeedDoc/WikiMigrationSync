@@ -1,13 +1,13 @@
-<!-- 
-+++
-title       = "Grove - 315MHz RF Kit"
-+++
- -->
-
-# Grove - 315MHz RF Kit
-
-Introduction
-------------
+---
+title: Grove - 315MHz RF Kit
+category: Communication
+bzurl: https://seeedstudio.com/Grove-315MHz-Simple-RF-Link-Kit-p-1061.html
+oldwikiname: Grove_-_315MHz_RF_Kit
+prodimagename: 315MHz-Simple-RF-Link-Kit.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/315MHz Simple RF Link Kit.jpg
+surveyurl: https://www.research.net/r/Grove-315MHz_RF_Kit
+sku: 113020001
+---
 
 ![](assets/Grove-315MHz_RF_Kit/img/315MHz-Simple-RF-Link-Kit.jpg)
 
@@ -116,17 +116,5 @@ Resources
 -   [VirtualWire Documentation](http://www.open.com.au/mikem/arduino/VirtualWire.pdf)
 -   [TI:LM358PSR](assets/Grove-315MHz_RF_Kit/res/1110010P1.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/G99F7TL" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_315MHz_RF_Kit"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_315MHz_RF_Kit -->

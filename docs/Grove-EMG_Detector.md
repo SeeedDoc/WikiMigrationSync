@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - EMG Detector"
-+++
- -->
-
-# Grove - EMG Detector
+---
+title: Grove - EMG Detector
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-EMG-Detector-p-1737.html
+oldwikiname: Grove_-_EMG_Detector
+prodimagename: Emg_product.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/101020058 1.jpg
+surveyurl: https://www.research.net/r/Grove-EMG_Detector
+sku: 101020058
+---
 
 ![](assets/Grove-EMG_Detector/img/Emg_product.jpg)
-
-Introduction
-------------
 
 EMG detector is a bridge connects human body and electrical, the sensor gathers small muscle signal then process with 2th amplify and filter, the output signal can be recognized by Arduino. You can add this signal into your control system. 
 
@@ -80,16 +80,5 @@ Resources
 -   [Grove-EMG Sensor v1.1 Eagle File](assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_Eagle.zip)
 -   [Grove-EMG Sensor v1.1 schematic PDF](assets/Grove-EMG_Detector/res/Grove-EMG_Sensor_v1.1_SCH.pdf)
 -   [Demo Code](https://github.com/Seeed-Studio/Grove_EMG_detector_demo_code)
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/88VQHJ6" width="500"></iframe>
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector -->

@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Wio Link Starter Kit"
-+++
- -->
-
-# Wio Link Starter Kit
+---
+title: Wio Link Starter Kit
+category: Wio
+bzurl: https://seeedstudio.com/Wio-Link-Starter-Kit-p-2614.html
+oldwikiname: Wio_Link_Starter_Kit
+prodimagename: Wio_Link_Starter_Kit_product_view_1200_s.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/110020051 1.jpg
+surveyurl: https://www.research.net/r/Wio_Link_Starter_Kit
+sku: 110020051
+---
 
 ![](assets/Wio_Link_Starter_Kit/img/Wio_Link_Starter_Kit_product_view_1200_s.jpg)
-
-Introduction
-------------
 
 This kit is aimed at novices wanting to become a maker. The functional modules included in this kit are selected especially for a beginner which all are frequently required modules, and it is cost-effective. The most amazing part of this kit is the Wio Link development board which can be utilized for various devices: without a bit programming skill required. All the actions you want your modules performed and the flashing-code operation to Wio Link could be completed with taps in a mobile app. And you can send instructions to your devices over Internet at anywhere. So Wio Link will be a perfect utility to making things around smarter for everyone. Now let's enjoy being a maker.
 
@@ -60,17 +60,5 @@ This demo can used as a compilation result-indicator.
 ### A detailed how-to
 
 Please go to [Recipe](http://www.seeedstudio.com/recipe/1068-traffic-light-indicates-travis-ci-compiled-results.html) for the detailed manual.
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/8GHPFLM" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Wio_Link_Starter_Kit"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Wio_Link_Starter_Kit -->

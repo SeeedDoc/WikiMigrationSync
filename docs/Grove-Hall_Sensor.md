@@ -1,15 +1,15 @@
-<!-- 
-+++
-title       = "Grove - Hall Sensor"
-+++
- -->
-
-# Grove - Hall Sensor
+---
+title: Grove - Hall Sensor
+category: Sensor
+bzurl: https://seeedstudio.com/Grove-Hall-Sensor-p-965.html
+oldwikiname: Grove_-_Hall_Sensor
+prodimagename: Grove-Hall_Sensor_New.jpg
+bzprodimageurl: http://statics3.seeedstudio.com/images/product/hall sensor.jpg
+surveyurl: https://www.research.net/r/Grove-Hall_Sensor
+sku: 101020046
+---
 
 ![](assets/Grove-Hall_Sensor/img/Grove-Hall_Sensor_New.jpg)
-
-Introduction
-------------
 
 The Hall sensor is based on Hall Effect, which is the production of a voltage difference across an electrical conductor, transverse to an electric current in the conductor and a magnetic field perpendicular to the current. There is a continuous-time switch on this Grove. The output of these devices switches low (turns on) when a magnetic field (south polarity) perpendicular to the Hall sensor exceeds the operate point threshold BOP, and it switches high (turn off) when the magnetic field disappears. The twig can be used to measure RPM.
 
@@ -69,17 +69,5 @@ Resources
 -   [Hall Sensor Demo Code](assets/Grove-Hall_Sensor/res/Grove-Hall_Sensor_Demo_Code.zip)
 -   [A1101 datasheet](http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf)
 
-
-Help us make it better
--------------------------
-
-<iframe frameborder="0" height="500" src="https://www.surveymonkey.com/r/L2FCSPY" width="500"></iframe>
-
-
-<!-- 
-+++
-oldwikiurl       = "http://www.seeedstudio.com/wiki/Grove_-_Hall_Sensor"
-+++
- -->
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Hall_Sensor -->
