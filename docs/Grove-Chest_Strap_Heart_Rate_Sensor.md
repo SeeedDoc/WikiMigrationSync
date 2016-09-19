@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Chest_Strap_Heart_Rate_Sensor
 sku: 101020066
 ---
 
-![](assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Heart_rate_chest_belt_kit.jpg)
+![](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Heart_rate_chest_belt_kit.jpg)
 
 This heart rate chest strap kit contains a chest belt and a 5.3 KHz AM receiver module. The heart rate measurement kit can be used to monitor the heart rate of patients and athletes, meanwhile the result can be displayed on a screen via serial port and saved for analysis. The entire system has lots of advantages, e.g. high sensitivity, low power consumption and portability. Because the modules communicate with each other via AM, it is very convenient to let you move (notice that the effective distance is 30cm).
 
-[![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Chest-Strap-Heart-Rate-Sensor-p-1115.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Chest-Strap-Heart-Rate-Sensor-p-1115.html)
 
 Features
 --------
@@ -145,7 +145,7 @@ The following sketch demonstrates a simple application of using the Chest Strap 
 -   Connect this module to the digital port D2 on your [base shield](http://www.seeedstudio.com/depot/grove-base-shield-p-754.html?cPath=132). And connect Grove-LED to Digital port 4.
 -   Plug the Base Shield into Arduino/Seeeduino.
 
-![](assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Grove-Chest_Strap_Heart_Rate_Sensor.jpg)
+![](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Grove-Chest_Strap_Heart_Rate_Sensor.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -239,9 +239,9 @@ The following sketch demonstrates a simple application of using the Chest Strap 
 -   Upload the code, Please click [here](/Upload_Code) if you do not know how to upload.
 -   This is the signal when we are measuring the heart rate:
 
-![](assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/GROVE_heart_rate_chest_belt.bmp) 
+![](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/GROVE_heart_rate_chest_belt.bmp) 
 
-![](assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Grove-heart_rate_serial.jpg)
+![](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/img/Grove-heart_rate_serial.jpg)
 
 In the first of the figures which is a waveform diagram of the detected heartbeat, a high pulse comes when beating. 
 
@@ -255,8 +255,8 @@ In the first of the figures which is a waveform diagram of the detected heartbea
 Resources
 ---------
 
--   [Grove - Chest Strap Heart Rate Sensor EAGLE File](assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0eagle_file.zip)
--   [Chest Strap Heart Rate Sensor Demo Code](assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/MeasureHeartRate.zip)
+-   [Grove - Chest Strap Heart Rate Sensor EAGLE File](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0eagle_file.zip)
+-   [Chest Strap Heart Rate Sensor Demo Code](/assets/Grove-Chest_Strap_Heart_Rate_Sensor/res/MeasureHeartRate.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Chest_Strap_Heart_Rate_Sensor -->

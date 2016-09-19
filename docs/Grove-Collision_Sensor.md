@@ -9,13 +9,13 @@ surveyurl: https://www.research.net/r/Grove-Collision_Sensor
 sku: 101020005
 ---
 
-![](assets/Grove-Collision_Sensor/img/Grove_–_Collision_Sensor_photo.jpg)
+![](/assets/Grove-Collision_Sensor/img/Grove_–_Collision_Sensor_photo.jpg)
 
 Grove - Collision Sensor can detect whether any collision movement or vibration happens. It will output a low pulse signal when vibration is detected. To make the output signal more reliable and neat, we added a necessary exterior circuit to reduce the noise impact. So, normal shaking will not cause any output. The sensor has a high sensitivity. You can use it to apply to your project, such as automatic wake-up and power-down for battery management.
 
 Its working voltage is 5V which makes it compatible with standard Arduino/Seeeduino 5V system.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Collision-Sensor-p-1132.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Collision-Sensor-p-1132.html)
 
 Specifications
 -------------
@@ -161,7 +161,7 @@ You can adjust the sensor sensitivity by changing the function delay(50) in code
 Resources
 ---------
 
--   [Grove - Collision Sensor Eagle File](assets/Grove-Collision_Sensor/res/Grove-Collision_Sensor_eagle_file.zip)
--   [MVS0608.02 datasheet](assets/Grove-Collision_Sensor/res/DataSheet-MVS0608_02-v2_1.pdf)
+-   [Grove - Collision Sensor Eagle File](/assets/Grove-Collision_Sensor/res/Grove-Collision_Sensor_eagle_file.zip)
+-   [MVS0608.02 datasheet](/assets/Grove-Collision_Sensor/res/DataSheet-MVS0608_02-v2_1.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Collision_Sensor -->

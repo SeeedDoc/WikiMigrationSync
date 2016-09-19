@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Water_Sensor
 sku: 101020018
 ---
 
-![](assets/Grove-Water_Sensor/img/Grove-Water_Sensor.jpg)
+![](/assets/Grove-Water_Sensor/img/Grove-Water_Sensor.jpg)
 
 The Water Sensor module is part of the Grove system. It indicates whether the sensor is dry, damp or completely immersed in water by measuring conductivity. The sensor traces have a weak pull-up resistor of 1 MΩ. The resistor will pull the sensor trace value high until a drop of water shorts the sensor trace to the grounded trace. Believe it or not this circuit will work with the digital I/O pins of your Arduino or you can use it with the analog pins to detect the amount of water induced contact between the grounded and sensor traces.
 
-[![](assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Water-Sensor-p-748.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Water-Sensor-p-748.html)
 
 
 Features
@@ -129,7 +129,7 @@ Connect the module to the Basic board using any of the digital pin. You can gain
 
 The following sketch demonstrates a simple application of using the Water sensor to control the buzzer. As the picture on the below indicates, the Water sensor is connected to digital port 8 of the **Grove - Base Shield** and the Buzzer is connected to digital port 12. When there is water on the bare conducting wires, the SIG pin output a LOW voltage. Then the Buzzer sounds. The hardware installation is as follows:
 
-![](assets/Grove-Water_Sensor/img/Water_Buzzer.jpg)
+![](/assets/Grove-Water_Sensor/img/Water_Buzzer.jpg)
 
 -   Then connect Arduino to PC by using a USB cable.
 -   Copy and paste code below to a new Arduino sketch.
@@ -227,7 +227,7 @@ The following sketch demonstrates a simple application of using the Water sensor
 Resources
 ---------
 
--   [Water Sensor Eagle Files](assets/Grove-Water_Sensor/res/Water_sensor.zip)
+-   [Water Sensor Eagle Files](/assets/Grove-Water_Sensor/res/Water_sensor.zip)
 -   [Demo code for Water Sensor](https://github.com/Seeed-Studio/Grove_Water_Sensor)
 
 

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Alcohol_Sensor
 sku: 101020044
 ---
 
-![](assets/Grove-Alcohol_Sensor/img/Alcohol_sensor_01.jpg)
+![](/assets/Grove-Alcohol_Sensor/img/Alcohol_sensor_01.jpg)
 
-Grove - Alcohol Sensor is a complete alcohol sensor module for Arduino or Seeeduino. It is built with [MQ303A](assets/Grove-Alcohol_Sensor/res/MQ303A.pdf) semiconductor alcohol sensor. It has good sensitivity and fast response to alcohol. It is suitable for making Breathalyzer. This Grove implements all the necessary circuitry for MQ303A like power conditioning and heater power supply. This sensor outputs a voltage inversely proportional to the alcohol concentration in air.
+Grove - Alcohol Sensor is a complete alcohol sensor module for Arduino or Seeeduino. It is built with [MQ303A](/assets/Grove-Alcohol_Sensor/res/MQ303A.pdf) semiconductor alcohol sensor. It has good sensitivity and fast response to alcohol. It is suitable for making Breathalyzer. This Grove implements all the necessary circuitry for MQ303A like power conditioning and heater power supply. This sensor outputs a voltage inversely proportional to the alcohol concentration in air.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Alcohol-Sensor-p-764.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Alcohol-Sensor-p-764.html)
 
 <div class="admonition danger">
 <p class="admonition-title">Note</p>
@@ -48,7 +48,7 @@ Grove products have a eco system and all have a same connector which can plug on
 
 You can gain the present voltage through the DAT pin of sensor. Sensitivity can be regulated by rotating the potentiometer. <font color="Red">Please note the best preheat time of the sensor is above 48 hours</font>. For the detailed information about the Alcohol sensor please refer to the datasheet.
 
-![](assets/Grove-Alcohol_Sensor/img/Twig_Alcohol_Sensor_Connected_To_Seeeduino_via_BaseStem.jpg)
+![](/assets/Grove-Alcohol_Sensor/img/Twig_Alcohol_Sensor_Connected_To_Seeeduino_via_BaseStem.jpg)
 
 ### Download Code and Upload
 
@@ -130,7 +130,7 @@ void loop() {
 
 Now, we can get the concentration of gas from the figure below.
 
-![](assets/Grove-Alcohol_Sensor/img/Gas_Sensor_5.png)
+![](/assets/Grove-Alcohol_Sensor/img/Gas_Sensor_5.png)
 
 According to the figure, we can see that the minimum concentration we can test is 20ppm and the maximum is 10000ppm, in a other word, we can get a concentration of gas between 0.002% and 1%. However, we can't provide a formula because the relation between ratio and concentration is nonlinear.
 
@@ -153,10 +153,10 @@ According to the figure, we can see that the minimum concentration we can test i
 Resources
 ---------
 
-- [Grove-Alcohol Sensor Eagle File](assets/Grove-Alcohol_Sensor/res/Twig_-_Alcohol_Sensor_Eagle_Files.zip)
-- [Grove-Alcohol Sensor v1.2 Eagle File](assets/Grove-Alcohol_Sensor/res/Grove-Alcohol_Sensor_sch_pcbv1.2.zip)
-- [Schematics in PDF Format](assets/Grove-Alcohol_Sensor/res/Twig_Alcohol_Sensor_v0.9b_scehmatic.pdf)
+- [Grove-Alcohol Sensor Eagle File](/assets/Grove-Alcohol_Sensor/res/Twig_-_Alcohol_Sensor_Eagle_Files.zip)
+- [Grove-Alcohol Sensor v1.2 Eagle File](/assets/Grove-Alcohol_Sensor/res/Grove-Alcohol_Sensor_sch_pcbv1.2.zip)
+- [Schematics in PDF Format](/assets/Grove-Alcohol_Sensor/res/Twig_Alcohol_Sensor_v0.9b_scehmatic.pdf)
 - [How to Choose A Gas Sensor](/How_to_choose_A_Gas_Sensor)
-- [MQ303A](assets/Grove-Alcohol_Sensor/res/MQ303A.pdf)
+- [MQ303A](/assets/Grove-Alcohol_Sensor/res/MQ303A.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor -->

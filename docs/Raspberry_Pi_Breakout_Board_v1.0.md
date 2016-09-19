@@ -9,12 +9,12 @@ surveyurl: https://www.research.net/r/Raspberry_Pi_Breakout_Board_v1.0
 sku: 103030030
 ---
 
-![](assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p6.jpg)
+![](/assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p6.jpg)
 
 Raspberry Pi Breakout Board for Raspberry Pi is a prototype board that you can combine your raspberry pi with other components, modules.
 As a prototype board, it also provides power, state indicator light, button and universal transistor,such as NPN, PNP, N-MOS, P-MOS.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Raspberry-Pi-Breakout-Board-v1.0-p-2410.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Raspberry-Pi-Breakout-Board-v1.0-p-2410.html)
 
 Features
 --------
@@ -27,18 +27,18 @@ Features
 Hardware Overview
 ---------------------
 
-![](assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p7.jpg)
+![](/assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p7.jpg)
 
 Assembly
 --------
 
 -   You can design circuit on the Raspberry Pi Breakout Board, then connect to raspberry pi as shown below.
 
-![](assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p5.jpg)
+![](/assets/Raspberry_Pi_Breakout_Board_v1.0/img/Raspberry_Pi_Breakout_Board_v1.0_p5.jpg)
 
 Resources
 ---------
 
-- [Raspberry Pi Breakout Board v1.0 sch pcb-.zip](assets/Raspberry_Pi_Breakout_Board_v1.0/res/Raspberry_Pi_Breakout_Board_v1.0_sch_pcb-.zip "File:Raspberry Pi Breakout Board v1.0 sch pcb-.zip")
+- [Raspberry Pi Breakout Board v1.0 sch pcb-.zip](/assets/Raspberry_Pi_Breakout_Board_v1.0/res/Raspberry_Pi_Breakout_Board_v1.0_sch_pcb-.zip "File:Raspberry Pi Breakout Board v1.0 sch pcb-.zip")
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Raspberry_Pi_Breakout_Board_v1.0 -->

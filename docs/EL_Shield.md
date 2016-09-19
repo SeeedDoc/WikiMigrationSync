@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/EL_Shield
 sku: 104030000
 ---
 
-![](assets/EL_Shield/img/EL_Shield_02.jpg)
+![](/assets/EL_Shield/img/EL_Shield_02.jpg)
 
 This shield is used to control EL devices. It can control 4 EL devices simultaneously. The controlling method is as simple as controlling an LED. Driven by PWM, it can create a colorful and florid effect by controlling each EL wire with a simple program. Combined with our EL Inverter, it can drive an EL wire as long as 15m, which provides infinite possibility for your design. Besides, the Shield is covered by Acrylic board, which enhances user's safety.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/el-shield-p-1287.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/el-shield-p-1287.html)
 
 Specifications
 --------------
@@ -25,7 +25,7 @@ Specifications
 Hardware Overview
 ---------
 
-![](assets/EL_Shield/img/EL_Shield_interface.jpg)
+![](/assets/EL_Shield/img/EL_Shield_interface.jpg)
 
 Demonstration
 -------------
@@ -33,7 +33,7 @@ Demonstration
 Here is a simple demo involving EL shield, 4 EL tapes and the custom invertor that accompanies EL shield.
 Hook all things up as in the picture below.
 
-![](assets/EL_Shield/img/EL_Shield_Hardware_Installation.jpg)
+![](/assets/EL_Shield/img/EL_Shield_Hardware_Installation.jpg)
 
 Upload the code below to your microcontroller.
 
@@ -70,10 +70,10 @@ void loop()
 Resources
 ---------
 
--   [EL Shield eagle file](assets/EL_Shield/res/EL_Shield_Eagle_File.zip)
--   [EL Shield Source code file for Arduino 1.0](assets/EL_Shield/res/EL_Shield_Test_code.zip)
--   [BT134W-600D datasheet](assets/EL_Shield/res/BT134W-600D.pdf)
--   [MOC 3063 datasheet](assets/EL_Shield/res/MOC3063M.pdf)
+-   [EL Shield eagle file](/assets/EL_Shield/res/EL_Shield_Eagle_File.zip)
+-   [EL Shield Source code file for Arduino 1.0](/assets/EL_Shield/res/EL_Shield_Test_code.zip)
+-   [BT134W-600D datasheet](/assets/EL_Shield/res/BT134W-600D.pdf)
+-   [MOC 3063 datasheet](/assets/EL_Shield/res/MOC3063M.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/EL_Shield -->

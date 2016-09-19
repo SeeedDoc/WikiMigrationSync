@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Grove-Infrared_Reflective_Sensor
 sku: 101020029
 ---
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-1.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-1.JPG)
 
 **Grove - Infrared Reflective Sensor** is used to detect the presence of an object within a specific range. The sensor consists of an IR LED and a photosensor (phototransistor) pair. The light emitted by the IR LED gets reflected by any object placed in front of the sensor and this reflection is detected by the photosensor(phototransistor). Any white (or lighter) colored surface reflects more than black (or darker) colored surface.
 
@@ -17,7 +17,7 @@ When the reflected light is detected, it produces **Digital HIGH** (or Binary **
 
 With this sensor, you can build the following (but not limited to) applications: **line following robots**, **optical encoders** and **object counting applications**.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Reflective-Sensor-p-1230.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Reflective-Sensor-p-1230.html)
 
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
@@ -53,8 +53,8 @@ Specifications
 | Response time                                | 10 μs                                                                          |
 | Phototransistor: Peak sensitivity wavelength | 800 nm                                                                         |
 | IR LED: Peak light emitting wavelength       | 940 nm                                                                         |
-| Reflective photosensor                       | [datasheet](assets/Grove-Infrared_Reflective_Sensor/res/RPR-220.pdf)          |
-| Output operational amplifiers                | [datasheet](assets/Grove-Infrared_Reflective_Sensor/res/LMV358_datasheet.pdf) |
+| Reflective photosensor                       | [datasheet](/assets/Grove-Infrared_Reflective_Sensor/res/RPR-220.pdf)          |
+| Output operational amplifiers                | [datasheet](/assets/Grove-Infrared_Reflective_Sensor/res/LMV358_datasheet.pdf) |
 | Weight                                       | 4 g                                                                            |
 
 
@@ -63,7 +63,7 @@ Platforms Supported
 -------------------
 | **Arduino**                            | **Raspberry Pi**                           | **BeagleBone**                               |
 |----------------------------------------|--------------------------------------------|----------------------------------------------|
-| ![](assets/common/Arduino_logo.jpg)   | ![](assets/common/Raspberry_Pi_logo.jpg)  |![](assets/common/BBG_logo.jpg)              |
+| ![](/assets/common/Arduino_logo.jpg)   | ![](/assets/common/Raspberry_Pi_logo.jpg)  |![](/assets/common/BBG_logo.jpg)              |
 | -                                      | Using **GrovePi**                          |Only with **Grove Base Cape for Beaglebone**  |
 
 <div class="admonition note">
@@ -75,7 +75,7 @@ If no version number is mentioned for a specific platform, it means this product
 Hardware Overview
 -----------------
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Grove-Infrared_Reflective_Sensor_v1.2_hardware_overview_1200_z.jpg)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Grove-Infrared_Reflective_Sensor_v1.2_hardware_overview_1200_z.jpg)
 
 -   **RPR220 Reflective photosensor**, Highly sensitive reflective photosensor.
 -   **LMV358**, rail-to-rail operational amplifier.
@@ -111,7 +111,7 @@ This sensor can be used to help a robotic car follow a black line.
 
 Place the sensor such that there is 12mm between reflective photosensor and white (or light) colored surface.
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-4.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-4.JPG)
 
 2.Adjust the potentiometer with a screwdriver to change the sensitivity of reflective photosensor, until the LED indicator glows. As your rotate clockwise, the reflective photosensor will be more sensitive to light. 
 
@@ -120,13 +120,13 @@ Place the sensor such that there is 12mm between reflective photosensor and whit
 Use a proper screw-driver to adjust the tiny potentiometer. Applying heavy pressure or frequent adjustments might damage the wiper of the potentiometer.
 </div>
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-5.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-5.JPG)
 
 3.By maintaining the vertical distance, move the sensor horizontally above the black line. The indicator LED must go off over the black line. If it is still on, adjust the potentiometer until it is off.
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-6.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-6.JPG)
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-7.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-7.JPG)
 
 #### Rotary Speed Detection
 
@@ -134,15 +134,15 @@ Let us implement simple optical encoder to detect the speed of a motor
 
 1.Connect the Infrared Reflective Sensor to the D2 port of Grove - Base Shield like this:
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-11.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-11.JPG)
 
 2.Attach a round, white paper plate (with a black line marked on it) to the motor. Place the sensor near this rotatory encoder. Run the motor.
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-8.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-8.JPG)
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-9.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-9.JPG)
 
-3.Download the library [Arduino timer1 *library*](assets/Grove-Infrared_Reflective_Sensor/res/TimerOne-ArduinoLib.zip) and add it into the libraries file of Arduino IDE. A [guide](/Guide_to_use_demos_downloaded_from_Seeed's_Github) about how to run our demo code.
+3.Download the library [Arduino timer1 *library*](/assets/Grove-Infrared_Reflective_Sensor/res/TimerOne-ArduinoLib.zip) and add it into the libraries file of Arduino IDE. A [guide](/Guide_to_use_demos_downloaded_from_Seeed's_Github) about how to run our demo code.
 
 4.Upload the demo code to your Arduino/Seeeduino.
 
@@ -176,9 +176,9 @@ void loop()
 
 5.Open the Serial Monitor to read the data.
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-10.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-10.JPG)
 
-![](assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-12.JPG)
+![](/assets/Grove-Infrared_Reflective_Sensor/img/Infrared_Reflective_Sensor-12.JPG)
 
 ### With Raspberry Pi
 
@@ -241,11 +241,11 @@ while True:
 Resources
 ---------
 
--   [Grove-Infrared Reflective Sensor Eagle Files](assets/Grove-Infrared_Reflective_Sensor/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
--   [Arduino Timer1 Library](assets/Grove-Infrared_Reflective_Sensor/res/TimerOne-ArduinoLib.zip)
--   [RPR220 Datasheet](assets/Grove-Infrared_Reflective_Sensor/res/RPR220_datasheet.pdf)
--   [Datasheet](assets/Grove-Infrared_Reflective_Sensor/res/LMV358_datasheet.pdf)
--   [Schematic file of version 1.0 for this product](assets/Grove-Infrared_Reflective_Sensor/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
+-   [Grove-Infrared Reflective Sensor Eagle Files](/assets/Grove-Infrared_Reflective_Sensor/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
+-   [Arduino Timer1 Library](/assets/Grove-Infrared_Reflective_Sensor/res/TimerOne-ArduinoLib.zip)
+-   [RPR220 Datasheet](/assets/Grove-Infrared_Reflective_Sensor/res/RPR220_datasheet.pdf)
+-   [Datasheet](/assets/Grove-Infrared_Reflective_Sensor/res/LMV358_datasheet.pdf)
+-   [Schematic file of version 1.0 for this product](/assets/Grove-Infrared_Reflective_Sensor/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
 
 Help us make it better
 --------------------

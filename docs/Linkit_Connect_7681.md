@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Linkit_Connect_7681
 sku: 113990100
 ---
 
-![](assets/Linkit_Connect_7681/img/Linkit_Connect_7681.jpg)
+![](/assets/Linkit_Connect_7681/img/Linkit_Connect_7681.jpg)
 
 The LinkIt Connect 7681 development board provides easy access to the five GPIO pins and one UART port — each with an LED — of the MT7681, to quickly connect peripheral controllers and electronic circuits. The MT7681 is provided on the LinkIt Connect 7681 module, which was co-designed with AcSiP. This module, which is only 15 x 18mm, will also be available separately for direct integration into your product’s PCB.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/LinkIt-Connect-7681-Wi-Fi-HDK-for-IoT-p-2262.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/LinkIt-Connect-7681-Wi-Fi-HDK-for-IoT-p-2262.html)
 
 Key Features
 ------------
@@ -43,7 +43,7 @@ Specifications
 Hardware Overview
 -------------
 
-![](assets/Linkit_Connect_7681/img/Linkit_Connect_7681_Block_Diagram.jpg)
+![](/assets/Linkit_Connect_7681/img/Linkit_Connect_7681_Block_Diagram.jpg)
 
 Getting Started
 ---------------
@@ -52,9 +52,9 @@ Getting Started
 
 Connect LinkIt Connect 7681 development board to PC’s USB port using a USB cable. The driver will be automatically installed.(As shown below in Windows7 OS)
 
-![](assets/Linkit_Connect_7681/img/Install_FT230X_driver.jpg)
+![](/assets/Linkit_Connect_7681/img/Install_FT230X_driver.jpg)
 
-![](assets/Linkit_Connect_7681/img/Install_FT230X_driver_ok.jpg)
+![](/assets/Linkit_Connect_7681/img/Install_FT230X_driver_ok.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>

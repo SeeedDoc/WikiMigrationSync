@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Haptic_Motor
 sku: 105020011
 ---
 
-![](assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor.jpg)
+![](/assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor.jpg)
 
 Grove - Haptic motor is a grove module integrated with [DRV2605L](http://www.ti.com/product/DRV2605L) which will give your project more feelings. This motor is specially designed for various effects, such as ramping the vibration level up and down, for wearables and other IoT devices. Right now we have developed an easy-to-use library which simulate 123 kinds in total of vibrating modes and this will make your prototyping quicker. Also, you can develop more advanced functions with driver DRV2605L which will improve actuator performance in terms of acceleration consistency, start time, and break time and is accessible through a shared I2C compatible bus or PWM input signal.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove%C2%A0%C2%A0Haptic%C2%A0Motor-p-2546.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove%C2%A0%C2%A0Haptic%C2%A0Motor-p-2546.html)
 
 Features
 --------
@@ -49,10 +49,10 @@ Hardware Overview
 -----------------
 
 **Front view:**
-![](assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor.jpg)
+![](/assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor.jpg)
 
 **Rear view:**
-![](assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor_back.jpg)
+![](/assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor_back.jpg)
 
 Getting started
 ---------------
@@ -83,7 +83,7 @@ Arduino board will also be fine if you happen to have no Seeeduino board because
 <p>b.Make sure your board has selected Arduino Uno and COM port right chosen. Connect to I<sup>2</sup>C interface on Seeeduino board and Haptic motor with grove wire.</p>
 </div>
 
-![](assets/Grove-Haptic_Motor/img/Grove_haptic_motor_connection.jpg)
+![](/assets/Grove-Haptic_Motor/img/Grove_haptic_motor_connection.jpg)
 
 ### Download sample code
 
@@ -112,7 +112,7 @@ You can use <a href="/Grove-Base_shield_v2">Base shield v2</a> as expansion boar
 Never touch driver DRV2605L which may cause damage to it when it is powered.
 </div>
 
-![](assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor_cautions.png)
+![](/assets/Grove-Haptic_Motor/img/Grove_Haptic_Motor_cautions.png)
 
 1.  Make sure haptic motor and main control board well connected.
 2.  Load your sample code drv2605.ino under example file of decompressed file.
@@ -122,7 +122,7 @@ Never touch driver DRV2605L which may cause damage to it when it is powered.
 Resources
 ---------
 
--   Schematic files in [Eagle format](assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_Eagle.zip) and [PDF format](assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_SCH.pdf).
+-   Schematic files in [Eagle format](/assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_Eagle.zip) and [PDF format](/assets/Grove-Haptic_Motor/res/Grove_Haptic_Motor_v0.9_SCH.pdf).
 -   [More about drive circuit DRV2605L](http://www.ti.com/product/DRV2605L).
 -   [Git repository](https://github.com/Seeed-Studio/Grove_Haptic_Motor)
 

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-MP3_v2.0
 sku: 107020008
 ---
 
-![](assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Product_View_700_S.jpg)
+![](/assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Product_View_700_S.jpg)
 
 Grove - MP3 v2.0 is a tiny-sized and compact audio module. It supports various audio file operations for an audio file of MP3, WAV and WMV format, such as random music playing, play music in specific files, and so on. With serial communication, you can use all predefined command or command combinations to do all operations on music files. This module also supports general file systems such as FAT16 and FAT32. It gets a Grove UART interface, a 3.5 mm audio jack and a micro-SD slot. With this module, you can add some noise to your silent applications.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-MP3-v20-p-2597.html?cPath=98_106_57)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-MP3-v20-p-2597.html?cPath=98_106_57)
 
 Version Tracker
 ---------------
@@ -45,7 +45,7 @@ Specifications
 | Input                                      | 5 V (DC)                                                                                                          |
 | Operating current (no signal output state) | less than 15 mA                                                                                                   |
 | Operating current                          | less than 40 mA                                                                                                   |
-| Chip                                       | KT403A [(datasheet)](assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) |
+| Chip                                       | KT403A [(datasheet)](/assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) |
 | Chip LDO output voltage                    | 3.3 V                                                                                                             |
 | Chip output current                        | 100mA(at Max.)                                                                                                    |
 | File formats supported                     | MP3, WAV, WMA                                                                                                     |
@@ -58,7 +58,7 @@ Platforms supported
 
 | **Seeeduino/Arduino**                  | **Raspberry Pi**                           | **BeagleBone**                       | **LinkIt ONE**                      |
 |----------------------------------------|--------------------------------------------|--------------------------------------|-------------------------------------|
-| ![](assets/common/Arduino_logo.jpg)   | ![](assets/common/Raspberry_Pi_logo.jpg)  | ![](assets/common/BBG_logo.jpg)     | ![](assets/common/Linkit_logo.jpg) |
+| ![](/assets/common/Arduino_logo.jpg)   | ![](/assets/common/Raspberry_Pi_logo.jpg)  | ![](/assets/common/BBG_logo.jpg)     | ![](/assets/common/Linkit_logo.jpg) |
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -69,9 +69,9 @@ If no version number is mentioned for a specific platform, it means this product
 Hardware Overview
 -----------------
 
-![](assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Component_view-front-1200_S.jpg)
+![](/assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Component_view-front-1200_S.jpg)
 
-![](assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Component_View-Back-1200_S.jpg)
+![](/assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Component_View-Back-1200_S.jpg)
 
 ### **Parts list**
 
@@ -107,7 +107,7 @@ We have chosen Seeeduino and it is compatible with Arduino in this case. So you 
 
 ### Hardware connections
 
-![](assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Demo_connection_1200_S.jpg)
+![](/assets/Grove-MP3_v2.0/img/Grove-MP3_v2.0_Demo_connection_1200_S.jpg)
 
 ### A example to run
 
@@ -132,14 +132,14 @@ We need to choose <span style="font-style:italic">No line ending</span> beside b
 
 ### Advanced programming
 
-For advanced programming, you can [download](assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) datasheet of chip KT403A.
+For advanced programming, you can [download](/assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) datasheet of chip KT403A.
 
 Resources
 ---------
 
--   Hardware [Schematic files](assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_Schematic_files.zip)
+-   Hardware [Schematic files](/assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_Schematic_files.zip)
 -   [Libraries](https://github.com/Seeed-Studio/Grove_Serial_MP3_Player_V2.0) on Github.
--   KT403A [Datasheet](assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) (part)
+-   KT403A [Datasheet](/assets/Grove-MP3_v2.0/res/Grove-MP3_v2.0_KT403A_datasheet_V1.3_EN-Recompiled_by_Seeed-.pdf) (part)
 
 Help us make it better
 ----------------------

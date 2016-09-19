@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Grove-IR_Distance_Interrupter_v1.2
 sku: 101020040
 ---
 
-![](assets/Grove-IR_Distance_Interrupter_v1.2/img/Grove_-_IR_Distance_Interrupter_v1.2.jpg)
+![](/assets/Grove-IR_Distance_Interrupter_v1.2/img/Grove_-_IR_Distance_Interrupter_v1.2.jpg)
 
 **Grove - IR Distance Interrupter** is used to detect any object blocking the path of light. The module consists of an IR LED and a photosensor (phototransistor) pair. The light emitted by the IR LED gets reflected by any object placed in front of the sensor and this reflection is detected by the photosensor(phototransistor). Any white (or lighter) colored surface reflects more than black (or darker) colored surface.
 
@@ -17,7 +17,7 @@ When the reflected light is detected, it produces **Digital HIGH** (or Binary **
 
 With this sensor, you can build the following (but not limited to) applications: **line following robots, optical encoders** and **object counting applications**.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-IR-Distance-Interrupter-p-1278.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-IR-Distance-Interrupter-p-1278.html)
 
 
 <div class="admonition note">
@@ -57,8 +57,8 @@ Specifications
 | Operating voltage(V)          | 3.3 or 5 Volts                                                                         |
 | Operating current(mA)         | Maximum: 20 mA                                                                         |
 | Effective detectable distance | 7.5–40 cm                                                                              |
-| Reflective photosensor        | [datasheet](assets/Grove-IR_Distance_Interrupter_v1.2/res/Reflective_photosensor.pdf) |
-| Output operational amplifiers | [datasheet](assets/Grove-IR_Distance_Interrupter_v1.2/res/LM393.pdf)                  |
+| Reflective photosensor        | [datasheet](/assets/Grove-IR_Distance_Interrupter_v1.2/res/Reflective_photosensor.pdf) |
+| Output operational amplifiers | [datasheet](/assets/Grove-IR_Distance_Interrupter_v1.2/res/LM393.pdf)                  |
 | Weight                        | 2.5 g(for the module), 8.5 g(for all single package)                                   |
 
 Platforms supported
@@ -66,7 +66,7 @@ Platforms supported
 
 | **Seeeduino/Arduino**                  | **Raspberry Pi**                           | **BeagleBone**                       | **LinkIt ONE**                      |
 |----------------------------------------|--------------------------------------------|--------------------------------------|-------------------------------------|
-| ![](assets/common/Arduino_logo.jpg)   | ![](assets/common/Raspberry_Pi_logo.jpg)  | ![](assets/common/BBG_logo.jpg)     | ![](assets/common/Linkit_logo.jpg) |
+| ![](/assets/common/Arduino_logo.jpg)   | ![](/assets/common/Raspberry_Pi_logo.jpg)  | ![](/assets/common/BBG_logo.jpg)     | ![](/assets/common/Linkit_logo.jpg) |
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -77,7 +77,7 @@ If no version number is mentioned for a specific platform, it means this product
 Hardware Overview
 -----------------
 
-![](assets/Grove-IR_Distance_Interrupter_v1.2/img/Grove-IR_Distance_Interrupter_v1.2_hardware_overview_1200.jpg)
+![](/assets/Grove-IR_Distance_Interrupter_v1.2/img/Grove-IR_Distance_Interrupter_v1.2_hardware_overview_1200.jpg)
 
 -   **RPR-359F Reflective photosensor**, Highly sensitive reflective photosensor.
 -   **LM393 operational amplifier**, rail-to-rail operational amplifier.
@@ -111,7 +111,7 @@ Let us see how to implement few basic applications with this module:
 
 2.Place and hold the Reflective photosensor towards white(or light) colored surface.
 
-![](assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor3.jpg)
+![](/assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor3.jpg)
 
 3.Adjust the potentiometer with a screwdriver to change the sensitivity of reflective photosensor, until the LED indicator glows. As your rotate clockwise, the reflective photosensor will be more sensitive to light. 
 
@@ -120,9 +120,9 @@ Let us see how to implement few basic applications with this module:
 Use a proper screw-driver to adjust the tiny potentiometer. Applying heavy pressure or frequent adjustments might damage the wiper of the potentiometer.
 </div>
 
-![](assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor2.jpg)
+![](/assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor2.jpg)
 
-![](assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor1.jpg)
+![](/assets/Grove-IR_Distance_Interrupter_v1.2/img/Reflective_photosensor1.jpg)
 
 4.Create an Arduino sketch and copy the below code into it.
 
@@ -211,11 +211,11 @@ while True:
 Resources
 ---------
 
--   [Grove - IR Distance Interrupter v1.2 Eagle file](assets/Grove-IR_Distance_Interrupter_v1.2/res/Eagle_files.zip)
--   [Reflective Photosensor Datasheet](assets/Grove-IR_Distance_Interrupter_v1.2/res/Reflective_photosensor.pdf)
--   [LM393 Datasheet](assets/Grove-IR_Distance_Interrupter_v1.2/res/LM393.pdf)
--   [LMV358 Datasheet](assets/Grove-IR_Distance_Interrupter_v1.2/res/LMV358_datasheet.pdf)
--   [Infrared Reflective Sensor Source Files](assets/Grove-IR_Distance_Interrupter_v1.2/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
+-   [Grove - IR Distance Interrupter v1.2 Eagle file](/assets/Grove-IR_Distance_Interrupter_v1.2/res/Eagle_files.zip)
+-   [Reflective Photosensor Datasheet](/assets/Grove-IR_Distance_Interrupter_v1.2/res/Reflective_photosensor.pdf)
+-   [LM393 Datasheet](/assets/Grove-IR_Distance_Interrupter_v1.2/res/LM393.pdf)
+-   [LMV358 Datasheet](/assets/Grove-IR_Distance_Interrupter_v1.2/res/LMV358_datasheet.pdf)
+-   [Infrared Reflective Sensor Source Files](/assets/Grove-IR_Distance_Interrupter_v1.2/res/Grove-Infrared_Reflective_Sensor_v1.0_SourceFile.zip)
 
 Help us make it better
 -------------------------

@@ -12,10 +12,10 @@ sku: 101020088
 <table>
     <tr>
         <td>
-            <img src="assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor1.png">
+            <img src="/assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor1.png">
         </td>
         <td>
-            <img src="assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor2.png">
+            <img src="/assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor2.png">
         </td>
     </tr>
 </table>
@@ -30,7 +30,7 @@ This sensor belongs to **Grove system**, and you can plug it onto the **Base shi
 The sensor value only reflects the approximated trend of gas concentration in a permissible error range, it DOES NOT represent the exact gas concentration. The detection of certain components in the air usually requires a more precise and costly instrument, which cannot be done with a single gas sensor. If your project is aimed at obtaining the gas concentration at a very precise level, then we do not recommend this gas sensor.
 </div>
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Multichannel-Gas-Sensor-p-2502.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Multichannel-Gas-Sensor-p-2502.html)
 
 Before usage
 ------------
@@ -57,7 +57,7 @@ Hardware Overview
 -----------------
 
 <center>
-![](assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor1.png)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/Multi_sensor1.png)
 </center>
 
 Four pins are pointed out from the figure above
@@ -91,7 +91,7 @@ Features
 Block Diagram
 -------------
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/Grove-Multichannel_Gas_Sensor_block_diagram.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/Grove-Multichannel_Gas_Sensor_block_diagram.jpg)
 
 Electrical Characteristics
 --------------------------
@@ -115,7 +115,7 @@ Electrical Characteristics
 | Typical CO detection range | FS     | -   | 1   | 1000 | ppm  |
 | Sensitivity factor         | SR     | -   | 1.2 | 50   | -    |
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/Red_sensor.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/Red_sensor.jpg)
 
 ### Performance OX sensor
 
@@ -125,7 +125,7 @@ Electrical Characteristics
 | Typical NO2 detection range | FS     | -   | 0.05 | 10  | ppm  |
 | Sensitivity factor          | SR     | -   | 2    | -   | -    |
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/OX_sensor.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/OX_sensor.jpg)
 
 ### Performance NH3 sensor
 
@@ -135,7 +135,7 @@ Electrical Characteristics
 | Typical NH3 detection range | FS     | -   | 1   | 300  | ppm  |
 | Sensitivity factor          | SR     | -   | 1.5 | 15   | -    |
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/NH3_sensor.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/NH3_sensor.jpg)
 
 Firmware and library
 --------------------
@@ -172,7 +172,7 @@ Demonstration
 
 1.Connect Grove - Multichannel Gas Sensor to Seeeduino.
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/Grove-MultiChannelGasSensor.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/Grove-MultiChannelGasSensor.jpg)
 
 **Upload Code:**
 
@@ -252,15 +252,15 @@ The code of ReadSensorValue_Grove is given below.
 
 By opening the serial monitor, you can see the raw data read from sensor.
 
-![](assets/Grove-Multichannel_Gas_Sensor/img/Mutichannel_Gas_Sensor_Grove_Print.jpg)
+![](/assets/Grove-Multichannel_Gas_Sensor/img/Mutichannel_Gas_Sensor_Grove_Print.jpg)
 
 Resources
 ---------
 
--   [Grove - Multichannel Gas Sensor v1.0 sch](assets/Grove-Multichannel_Gas_Sensor/res/Grove-Multichannel_Gas_Sensor_v1.0_sch.pdf)
--   [Grove - Multichannel Gas Sensor eagle files](assets/Grove-Multichannel_Gas_Sensor/res/Grove-Multichannel_Gas_Sensor_v1.0_eagle_files.zip)
+-   [Grove - Multichannel Gas Sensor v1.0 sch](/assets/Grove-Multichannel_Gas_Sensor/res/Grove-Multichannel_Gas_Sensor_v1.0_sch.pdf)
+-   [Grove - Multichannel Gas Sensor eagle files](/assets/Grove-Multichannel_Gas_Sensor/res/Grove-Multichannel_Gas_Sensor_v1.0_eagle_files.zip)
 -   [Arduino Library & Grove/Xadow firmware](https://github.com/Seeed-Studio/Mutichannel_Gas_Sensor)
--   [MiCS-6814 Datasheet](assets/Grove-Multichannel_Gas_Sensor/res/MiCS-6814_Datasheet.pdf)
+-   [MiCS-6814 Datasheet](/assets/Grove-Multichannel_Gas_Sensor/res/MiCS-6814_Datasheet.pdf)
 
 Help us make it better
 ----------------------

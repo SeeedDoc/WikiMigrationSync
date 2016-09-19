@@ -12,10 +12,10 @@ sku: 113020006
 <table>
     <tr>
         <td>
-            <img src="assets/Grove-NFC/img/Grove-NFC_01.jpg">
+            <img src="/assets/Grove-NFC/img/Grove-NFC_01.jpg">
         </td>
         <td>
-            <img src="assets/Grove-NFC/img/Grove-NFC_02.jpg">
+            <img src="/assets/Grove-NFC/img/Grove-NFC_02.jpg">
         </td>
     </tr>
 </table>
@@ -23,7 +23,7 @@ sku: 113020006
 Near Field Communication (NFC) is a set of short-range wireless technologies. It is behind daily applications such as access control system and mobile payment system.
 Grove NFC features a highly integrated transceiver module PN532 which handles contactless communication at 13.56MHz. You can read and write a 13.56MHz tag with this module or implement point to point data exchange with two NFCs. Grove NFC is designed to use I2C or UART communication protocols, and UART is the default mode. In addition, we assign an independent PCB antenna which can easily stretch out of any enclosure you use, leaving more room for you to design the exterior of your project.
 
-[![](assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-NFC-p-1804.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-NFC-p-1804.html)
 
 Specifications
 --------------
@@ -48,7 +48,7 @@ Get Started
 4.  In Arduino IDE, click menus: File -> Example -> NDEF -> ReadTag
 5.  *We used I2C interface in the libraries of NDEF, so please cut off the connection between P1 and UART via a little knife, and solder P1 and I2C together.*
 
-![](assets/Grove-NFC/img/NFC_cutAndsolder.jpg)
+![](/assets/Grove-NFC/img/NFC_cutAndsolder.jpg)
 
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
@@ -109,9 +109,9 @@ Solder following connections:
 Resources
 --------
 
-- [Grove - NFC v1.0 EAGLE (schematic and board) files](assets/Grove-NFC/res/Grove-NFC.zip)
-- [Grove - NFC v1.1 EAGLE (schematic and board) files](assets/Grove-NFC/res/Grove-NFC_v1.1.zip)
-- [PN532 Datasheet PDF](assets/Grove-NFC/res/PN532.pdf)
+- [Grove - NFC v1.0 EAGLE (schematic and board) files](/assets/Grove-NFC/res/Grove-NFC.zip)
+- [Grove - NFC v1.1 EAGLE (schematic and board) files](/assets/Grove-NFC/res/Grove-NFC_v1.1.zip)
+- [PN532 Datasheet PDF](/assets/Grove-NFC/res/PN532.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_NFC -->
