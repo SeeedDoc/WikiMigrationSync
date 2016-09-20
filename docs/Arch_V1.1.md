@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Arch_V1.1
 sku: 102080001
 ---
 
-![](/assets/Arch_V1.1/img/Arch.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_V1.1/img/Arch.jpg)
 
 Arch V1.1 is an mbed enabled development board with Arduino form factor and Grove connectors for rapid prototyping. With a variety of Shield and Grove modules, mbed SDK and lots of software libraries, you can rapidly build a prototype.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/seeeduino-arch-p-1561.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/seeeduino-arch-p-1561.html)
 
 
 
@@ -91,7 +91,7 @@ Specifications
 Hardware Overview
 ------
 
-![](/assets/Arch_V1.1/img/Arch_V1.1_Pinout.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_V1.1/img/Arch_V1.1_Pinout.png)
 
 There is [a monochrome version](http://seeed-studio.github.io/Artwork/images/arch_v1.1_pinout_mono.png) for you to print.
 
@@ -100,7 +100,7 @@ There is [a monochrome version](http://seeed-studio.github.io/Artwork/images/arc
 Get Started
 -----------
 
-![](/assets/Arch_V1.1/img/Get_started_with_arch.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_V1.1/img/Get_started_with_arch.png)
 
 1.  Click [this link](https://mbed.org/compiler/#import:/teams/mbed/code/mbed_blinky/;platform:Seeeduino-Arch) to login or signup to mbed
 2.  Import the mbed\_blinky program

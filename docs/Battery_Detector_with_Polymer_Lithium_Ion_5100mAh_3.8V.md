@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Battery_Detector_with_Polymer_Lithium_Ion_
 sku: 110060467
 ---
 
-![](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg)
 
 Battery Detector with Polymer Lithium Ion 5100mAh 3.8V contains two items: a 1050 mAh lithium-ion battery and a battery power detector to measure the power remain in a li-ion battery.
 
@@ -17,7 +17,7 @@ The li-ion battery is very slim, light and cost effective. It output 3.8 V volta
 
 The battery power detector can detect the input voltage range of 3–4.2 volts. There are three JST sockets (JST 1.0, JST 2.0 and JST 2.0) and two battery-soldering pads will adapt to those batteries with a different connector. As you connect a battery to this battery power detector, the on-board four LEDs will indicate remaining power in percentage (0–25%, 26–50%, 51–75%, 76–100%). Another LED will be on if you plug the connector of battery in the wrong way.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Battery-Detector-with-Polymer-Lithium-Ion-5100mAh-38V-p-2647.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Battery-Detector-with-Polymer-Lithium-Ion-5100mAh-38V-p-2647.html)
 
 <div class="admonition note">
 <p class="admonition-title">Notes</p>
@@ -74,7 +74,7 @@ Specifications
 | Indication manner | Four LEDs (we will detail it later)                                                                                                       |
 | Sockets           | Three sockets for different battery connector and two battery-soldering pads (we will detail it later)                                    |
 | Dimensions        | 30(width)×25(depth) mm                                                                                                                    |
-| CN1185            | [Datasheet](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/CN1185_Datasheet.pdf)                                      |
+| CN1185            | [Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/CN1185_Datasheet.pdf)                                      |
 | Weight            | 3.2 g                                                                                                                                     |
 | Notes             | Only connect a single battery to this module; The input voltage to this module should be less than 9 volts, or it will damage this module. |
 
@@ -128,7 +128,7 @@ If no version number is mentioned for a specific platform, it means this product
 Hardware Overview
 -----------------
 
-![](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_kit-3.7V_520mAh_Battery_power_detector_components_description_1200_s.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_kit-3.7V_520mAh_Battery_power_detector_components_description_1200_s.jpg)
 
 -   **CN1185**, a voltage monitoring circuit.
 -   **Battery-soldering pads**, to solder battery's leads on.
@@ -145,7 +145,7 @@ Getting Started
 
 Connect battery and battery power detector as in the following image. You can see LEDs are *ON* indicates actual power remains.
 
-![](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/img/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_700_s.jpg)
 
 <!-- \[\[|600px|none|Front view \]\] -->
 
@@ -153,10 +153,10 @@ Connect battery and battery power detector as in the following image. You can se
 Resources
 ---------
 
--   [Schematic(Eagle) file](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/110060467_Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_Battery_Power_Detector.zip)
--   [CN1185 Datasheet](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/CN1185_Datasheet.pdf)
--   [Battery Datasheet](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_Battery_Datasheet.pdf)
--   [Certifications and Test Report for this Battery](/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Certifications_and_Test_Report.zip)
+-   [Schematic(Eagle) file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/110060467_Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_Battery_Power_Detector.zip)
+-   [CN1185 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/CN1185_Datasheet.pdf)
+-   [Battery Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V_Battery_Datasheet.pdf)
+-   [Certifications and Test Report for this Battery](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/res/Certifications_and_Test_Report.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V -->

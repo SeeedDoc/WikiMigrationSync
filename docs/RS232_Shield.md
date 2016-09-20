@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/RS232_Shield
 sku: 113030016
 ---
 
-![](/assets/RS232_Shield/img/RS232_Shield_Photo.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/img/RS232_Shield_Photo.jpg)
 
 RS232 Shield is a standard communication port for industry equipment.This module is base on MAX232,which is a dual driver/receiver that includes a capacitive voltage generator to supply TIA/EIA-232-F voltage levels from a single 5-V supply. The shield integrates DB9 connectors (female) that provide connection to various devices with RS232 interface. Also the RS232 headers will facilitate your connections and commissioning. It provides the welding areas to make full use of extra space on it, which is highly convenient for prototyping.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/RS232-Shield-p-1910.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/RS232-Shield-p-1910.html)
 
 Specifications
 -------------
@@ -37,7 +37,7 @@ First,we can test it by computer.
 1. Seeeduino v3.0,Mini usb Cable,RS232 Shield,RS232 to USB Cable.
 2. Make the connections as below. The jumper hats can be used to select the software serial port from the digital pins. You can set them to D7(232\_TX) and D6(232\_RX), and modify the code to "*SoftwareSerial mySerial(7, 6); // 232\_TX, 232\_RX*"
 
-![](/assets/RS232_Shield/img/RS232_Shield_usage.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/img/RS232_Shield_usage.jpg)
 
 ### Software Part
 
@@ -78,14 +78,14 @@ void loop() // run over and over
 -   3) Open the Serial Monitor.
 
 You can see :
-![](/assets/RS232_Shield/img/RS232_Shield_usage1.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/img/RS232_Shield_usage1.jpg)
 
 Resources
 --------
 
--   [RS232 Shield eagle file](/assets/RS232_Shield/res/RS232_Shield_v1.0_Eagle.zip)
--   [RS232\_Shield\_v1.0.pdf](/assets/RS232_Shield/res/RS232_Shield_v1.pdf)
--   [Datasheet MAX232D.pdf](/assets/RS232_Shield/res/MAX232D.pdf)
+-   [RS232 Shield eagle file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/res/RS232_Shield_v1.0_Eagle.zip)
+-   [RS232\_Shield\_v1.0.pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/res/RS232_Shield_v1.pdf)
+-   [Datasheet MAX232D.pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RS232_Shield/res/MAX232D.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/RS232_Shield -->

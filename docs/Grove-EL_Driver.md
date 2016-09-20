@@ -9,12 +9,12 @@ surveyurl: https://www.research.net/r/Grove-EL_Driver
 sku: 105020005
 ---
 
-![](/assets/Grove-EL_Driver/img/Grove-EL_Driver.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-EL_Driver/img/Grove-EL_Driver.jpg)
 
 Grove - EL Driver is designed for driving EL Wires. It integrates a very small inverter to drive the EL Wire, so you can easily light up the EL Wire with just one single Grove cable.
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EL-Driver-p-2269.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-EL-Driver-p-2269.html)
 
 Version Tracker
 ---------------
@@ -76,13 +76,13 @@ void loop() {
 }
 ```
 
-![](/assets/Grove-EL_Driver/img/Grove-EL_Driver_usage.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-EL_Driver/img/Grove-EL_Driver_usage.jpg)
 
 Resources
 ---------
 
--   [sch_pcb_eagle](/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.zip)
--   [sch_pdf](/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.pdf)
+-   [sch_pcb_eagle](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.zip)
+-   [sch_pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-EL_Driver/res/Grove-EL_Driver_v1.0.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_EL_Driver -->

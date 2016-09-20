@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Sound_Recorder
 sku: 107020004
 ---
 
-![](/assets/Grove-Sound_Recorder/img/Grove-Sound_Recorder.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/Grove-Sound_Recorder.jpg)
 
-The Grove-Sound Recorder is based on [APR9600](/assets/Grove-Sound_Recorder/res/Datasheet_of_APR9600.pdf), which offers true single-chip voice recording, no-volatile storage, and playback capability for 32 to 60 seconds. The sample is 8k and the total 32s for the Seeed Twig-Sound Recorder, divided into 4 sections, each section can be controlled separately. Besides, this Sound Recorder is also Grove compatible interface and can be controlled manually or Arduino/Seeeduino.
+The Grove-Sound Recorder is based on [APR9600](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/res/Datasheet_of_APR9600.pdf), which offers true single-chip voice recording, no-volatile storage, and playback capability for 32 to 60 seconds. The sample is 8k and the total 32s for the Seeed Twig-Sound Recorder, divided into 4 sections, each section can be controlled separately. Besides, this Sound Recorder is also Grove compatible interface and can be controlled manually or Arduino/Seeeduino.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Sound-Recorder-p-904.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Sound-Recorder-p-904.html)
 
 
 Features
@@ -156,9 +156,9 @@ Ok, let's begin the MCU controlling for this recorder. Note that we define the 4
 
 Step 1: Prepare the hardware:wire the connector "Control" to the digital port D2 of the Base Shield. And push the SW1 to "Rec".
 
-![](/assets/Grove-Sound_Recorder/img/D2.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/D2.jpg)
 
-![](/assets/Grove-Sound_Recorder/img/Sel.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/Sel.jpg)
 
 Step 2: Prepare the software. In order to control select the section to Record/Play, each decode of Sel_1 and Sel_2 point to different section.
 
@@ -273,13 +273,13 @@ After download the firmware to your Arduino/Seeeduino, make sure the connector "
 
 Switch the SW1 to Rec, and type in the command with any serial port transceiver. OCTOPUS for example. Type in the command "2rb" first to begin to record the section_2, type in "2rs" to stop the recording. Note that the recording will automatic terminate after about about 15s if no "2rs" was typed in.
 
-![](/assets/Grove-Sound_Recorder/img/2rb.jpg) 
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/2rb.jpg) 
 
-![](/assets/Grove-Sound_Recorder/img/2b.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/2b.jpg)
 
 And now, you can type in the "2p" to play the Section_2, note that you should make sure the SW1 is pushed to "Play".
 
-![](/assets/Grove-Sound_Recorder/img/2p.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/img/2p.jpg)
 
 You can record the 3 Sections (Section_2, Section_3, Section_4) first, and then, with the serial port, to control which section you want to replay.
 
@@ -299,8 +299,8 @@ The R7 is 24K when it is shipped to your hand, you can change it to 38K/44K to g
 Resources
 ---------
 
--   [Grove-Sound Recorder Eagle File](/assets/Grove-Sound_Recorder/res/Sound_Recorder_Eagle_File.zip)
--   [APR9600 Datasheet](/assets/Grove-Sound_Recorder/res/Datasheet_of_APR9600.pdf)
+-   [Grove-Sound Recorder Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/res/Sound_Recorder_Eagle_File.zip)
+-   [APR9600 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Sound_Recorder/res/Datasheet_of_APR9600.pdf)
 -   [User contributed software Library that works(Use Old Arduino IDE / Software)](https://github.com/wendellinfinity/GroveSoundRecorder)
 
 

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Arch_Link
 sku: 102080006
 ---
 
-![](/assets/Arch_Link/img/1020800061.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/1020800061.jpg)
 
 **Arch Link** is an mbed enabled development board based on Nordic nRF51822 and WIZnet W5500 ethernet interface. With Arduino form factor, Grove connectors and micro SD interface, it is extremely easy to create a bluetooth low energy device.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-Link-p-2511.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Arch-Link-p-2511.html)
 
 Features
 --------
@@ -46,12 +46,12 @@ Features
 Hardware Overview
 ------
 
-![](/assets/Arch_Link/img/Arch_link_pinout.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Arch_link_pinout.png)
 
 Get Started
 -----------
 
-![](/assets/Arch_Link/img/Get_started_with_mbed.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Get_started_with_mbed.png)
 
 1.  Click [this link](https://developer.mbed.org/compiler/#import:/teams/mbed/code/mbed_blinky/;platform:Seeed-Arch-BLE) to **login or signup to mbed**
 2.  Import the mbed\_blinky program
@@ -89,9 +89,9 @@ Applications
         -   [Digital RGB LED Strip](http://www.seeedstudio.com/depot/Digital-RGB-LED-FlexiStrip-30-LED-1-Meter-p-1665.html)
         -   Android device with BLE
 
-    ![](/assets/Arch_Link/img/Ble_color_pixels_bb.png)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Ble_color_pixels_bb.png)
 
-    ![](/assets/Arch_Link/img/Color_pixels_app.png)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Color_pixels_app.png)
 
     -   Make it run
 
@@ -111,11 +111,11 @@ Applications
 
 2. You can use the Arch Link as a web dashboard.
 
-    ![](/assets/Arch_Link/img/Arch_link_application1.png)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Arch_link_application1.png)
 
 3. You can also use the Arch Link as a Mobile APP dashboard.
 
-    ![](/assets/Arch_Link/img/Arch_link_application2.png)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/img/Arch_link_application2.png)
 
 Update or Restore Firmware
 --------------------------
@@ -140,9 +140,9 @@ Resources
 ---------
 
 -   [Arch Link mbed developer platform page](https://developer.mbed.org/platforms/Seeed-Arch-Link/)
--   [Schematic in PDF format](/assets/Arch_Link/res/Arch_Link_v1.0_sch.pdf)
--   [Schematic and board files in EAGLE format](/assets/Arch_Link/res/Arch_Link_v1.0_Eagle.rar)
--   [LPC11U35 Firmware](/assets/Arch_Link/res/Lpc11u35_nrf51822_if_mbed.bin.zip)
+-   [Schematic in PDF format](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/res/Arch_Link_v1.0_sch.pdf)
+-   [Schematic and board files in EAGLE format](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/res/Arch_Link_v1.0_Eagle.rar)
+-   [LPC11U35 Firmware](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Arch_Link/res/Lpc11u35_nrf51822_if_mbed.bin.zip)
 -   [Seeed BLE color pixels App for android](http://tangram.qiniudn.com/seeed_ble_color_pixels.apk)
 -   [Sources of BLE color pixels App](https://github.com/Seeed-Studio/ble_color_pixels)
 

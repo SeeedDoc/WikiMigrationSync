@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Q_Touch_Sensor
 sku: 101020069
 ---
 
-![](/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Sensor.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Sensor.jpg)
 
 The Q Touch Sensor is a high sensitivity and high noise immunity touch input device. It is based on Atmel AT42QT1070. The AT42QT1070 modulates its bursts in a spread-spectrum fashion in order to heavily suppress the effects of external noise, and to suppress RF emissions. The QT1070 uses a dual-pulse method of acquisition. This provides greater noise immunity and eliminates the need for external sampling capacitors, allowing touch sensing using a single pin.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Q-Touch-Sensor-p-1854.html)
 
 Specifications
 --------------
@@ -27,7 +27,7 @@ Specifications
 Hardware Overview
 ------------------
 
-![](/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch.png)
 
 ① - On board touch key0
 
@@ -58,7 +58,7 @@ Now let us begin our demo. When you touch the hit pan (lychee),the LED will turn
 2. Connect the Grove-LED to D3 (Digital Pin 3) on the Grove Base Shield.
 3. Connect Key0 (marked K0) on the Grove-Q Touch sensor to a Lychee (Alternatively, you could touch the open end of the cable with a finger while testing).
 
-![](/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Demo1.JPG)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Demo1.JPG)
 
 ### Software Part
 
@@ -73,7 +73,7 @@ b. Upload the code. Note that you should select the correct board type and COM p
 
 c. On touching the Lychee, the LED would glow, as can be seen below.
 
-![](/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Demo2.JPG)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Grove-Q_Touch_Demo2.JPG)
 
 #### **Example 2**
 
@@ -85,7 +85,7 @@ c. Open the Serial Monitor.
 
 d. Touch and release the Lychee; The Serial Monitor would display the duration of touch as in the screenshot below.
 
-![](/assets/Grove-Q_Touch_Sensor/img/Screenshot--QTouch.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Screenshot--QTouch.png)
 
 You can try the [Codebender](http://www.codebender.cc) widget below to upload the code as well.
 
@@ -105,7 +105,7 @@ c. Open the Serial Monitor.
 
 d. On touching the Lychee, the Serial Monitor would display the Key that is connected, as in the screenshot below. One can connect the fruit to any other Key and verify.
 
-![](/assets/Grove-Q_Touch_Sensor/img/Screenshot--getTouchNumber.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/img/Screenshot--getTouchNumber.png)
 
 You can try the [Codebender](http://www.codebender.cc) widget below to upload the code as well.
 
@@ -119,9 +119,9 @@ Resources
 --------
 
 -   [Q Touch Library](https://github.com/Seeed-Studio/Seeed_QTouch)
--   [Schematic pdf](/assets/Grove-Q_Touch_Sensor/res/Grove-Q_Touch_Sensor_v1.0.pdf)
--   [Eagle file](/assets/Grove-Q_Touch_Sensor/res/Grove_Q－Touch_Sensor_v1.0_sch_pcb.zip)
--   [AT42QT107 datasheet](/assets/Grove-Q_Touch_Sensor/res/AT42QT1070-MMH.pdf)
+-   [Schematic pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/res/Grove-Q_Touch_Sensor_v1.0.pdf)
+-   [Eagle file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/res/Grove_Q－Touch_Sensor_v1.0_sch_pcb.zip)
+-   [AT42QT107 datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Q_Touch_Sensor/res/AT42QT1070-MMH.pdf)
 -   [How to detect finger touch?](/How_to_detect_finger_touch?)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Q_Touch_Sensor -->

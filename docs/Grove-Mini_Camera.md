@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Mini_Camera
 sku: 101020007
 ---
 
-![](/assets/Grove-Mini_Camera/img/Grove_camera.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Camera/img/Grove_camera.jpg)
 
 If you are searching a small size camera, perhaps, Grove-Mini Camera would be your best choice. It’s a mini camera which can be controlled by Arduino. It has integrated image processing to generate 1280\*720 JPEG image. The captured pictures are stored in SD card and you can read SD card information via Mini 8Pin USB interface.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Mini-Camera-p-1578.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Mini-Camera-p-1578.html)
 
 Features
 -------
@@ -56,7 +56,7 @@ Let us start to make it:
 -   Connect Grove - Mini Camera to D2 port of **Grove - Base Shield**, and Grove - PIR Motion Sensor to D5 port.
 -   Plug Grove - Base Shield into Arduino/Seeeduino, then connect Arduino/Seeeduino to PC using a USB cable.
 
-![](/assets/Grove-Mini_Camera/img/Connecting_Picture.JPG)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Camera/img/Connecting_Picture.JPG)
 
 -   Open Arduino IDE, copy and paste the code below to a new sketch:
 
@@ -144,7 +144,7 @@ Here is the state description of this mini camera. There are 5 working states.
 Resources
 ---------
 
-- [Mini Camera Eagle File](/assets/Grove-Mini_Camera/res/Mini_Camera_Eagle_File.zip)
+- [Mini Camera Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Camera/res/Mini_Camera_Eagle_File.zip)
 
 Help us make it better
 ----------------------

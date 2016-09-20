@@ -9,13 +9,13 @@ surveyurl: https://www.research.net/r/Grove-Digital_Light_Sensor
 sku: 101020030
 ---
 
-![](/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor.jpg)
 
 This module is based on the I2C light-to-digital converter TSL2561 to transform light intensity to a digital signal. Different from traditional analog light sensor, as [Grove - Light Sensor](http://www.seeedstudio.com/depot/grove-light-sensorp-p-1253.html?cPath=144_148), this digital module features a selectable light spectrum range due to its dual light sensitive diodes: infrared and full spectrum.
 
 You can switch among three detection modes to take your readings. They are infrared mode, full spectrum and human visible mode. When running under the human visible mode, this sensor will give you readings just close to your eye feelings.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Digital-Light-Sensor-p-1281.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Digital-Light-Sensor-p-1281.html)
 
 Features
 --------
@@ -39,7 +39,7 @@ Specifications
 Hardware Overview
 ------------------
 
-![](/assets/Grove-Digital_Light_Sensor/img/TSL2561_Interface_.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/TSL2561_Interface_.jpg)
 
 **U1:** TSL2561 IC, Light-To-Digital Converter.
 
@@ -52,7 +52,7 @@ Hardware Overview
 TSL2561 Functional Block Diagram
 --------------------------------
 
-![](/assets/Grove-Digital_Light_Sensor/img/Functional_Block_Diagram_2.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Functional_Block_Diagram_2.jpg)
 
 Usage
 -----
@@ -61,7 +61,7 @@ Usage
 
 1.Plug the Grove - Digital Light Sensor onto the I2C port on Grove - Base Shield, and then plug the base shield onto Arduino.
 
-![](/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor_Connector.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor_Connector.jpg)
 
 2.Download the library from here [Digital Light Sensor Library](https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor);
 
@@ -122,7 +122,7 @@ Usage
 
 6.Open the serial monitor to see the result.
 
-![](/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor_Score_Picture.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Digital_Light_Sensor_Score_Picture.jpg)
 
 In the case of completely light matte, The output result is 0.
 
@@ -454,7 +454,7 @@ In the case of completely light matte, The output result is 0.
 
 6.Result
 
-![](/assets/Grove-Digital_Light_Sensor/img/Grovepi_digital_light_sensor_00.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Grovepi_digital_light_sensor_00.png)
 
 Reference
 ---------
@@ -463,11 +463,11 @@ Reference
 
 The TSL2561 is controlled and monitored by sixteen registers (three are reserved) and a command register accessed through the serial interface. These registers provide for a variety of control functions and can be read to determine results of the ADC conversions. The register set is summarised as shown below.
 
-![](/assets/Grove-Digital_Light_Sensor/img/Register.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Register.jpg)
 
 ### Spectrum Response Curve
 
-![](/assets/Grove-Digital_Light_Sensor/img/Spectral_responsivity.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/img/Spectral_responsivity.jpg)
 
 Two channels of the digital light sensor have different response characteristic. That's why you can choose its working mode by having both of them on or one of them off.
 
@@ -475,9 +475,9 @@ Two channels of the digital light sensor have different response characteristic.
 Resources
 --------
 
-- [Grove - Digital Light Sensor Eagle File](/assets/Grove-Digital_Light_Sensor/res/Digital_light_sensor_eagle_file.zip)(include printed PDF format files)
+- [Grove - Digital Light Sensor Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/res/Digital_light_sensor_eagle_file.zip)(include printed PDF format files)
 - [Library Github Repo](https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor)
-- [TSL2561 Datasheet](/assets/Grove-Digital_Light_Sensor/res/TSL2561T.pdf)
+- [TSL2561 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Light_Sensor/res/TSL2561T.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Digital_Light_Sensor -->

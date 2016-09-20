@@ -9,12 +9,12 @@ surveyurl: https://www.research.net/r/Grove-Dry-Reed_Relay
 sku: 103020014
 ---
 
-![](/assets/Grove-Dry-Reed_Relay/img/DryReed_Relay_01.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Dry-Reed_Relay/img/DryReed_Relay_01.jpg)
 
 The **Grove-Dry Reed Relay** is a relay module which works through magnetizing the vibration reed via the current in the coils. Compared to electromagnetic relays, the contacts completely sealed is the biggest feature of the Dry-Reed Relay. Besides, it features simplicity in construct, compactness, fast speed and long life, which make it widely applied in many fields such as microelectronic detection, Automatic Control etc.
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Dry-Reed-Relay-p-1412.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Dry-Reed-Relay-p-1412.html)
 
 Features
 -------
@@ -265,7 +265,7 @@ The usage of this Dry-reed relay is quite alike that of common relays.
 Resources
 --------
 
-- [Grove - Dry-Reed Relay Eagle File](/assets/Grove-Dry-Reed_Relay/res/Grove-Dry-Reed_Relay_Eagle_File.zip)
-- [Dry-Reed Relay Datasheet](/assets/Grove-Dry-Reed_Relay/res/Dry-Reed_Relay_Datasheet.pdf)
+- [Grove - Dry-Reed Relay Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Dry-Reed_Relay/res/Grove-Dry-Reed_Relay_Eagle_File.zip)
+- [Dry-Reed Relay Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Dry-Reed_Relay/res/Dry-Reed_Relay_Datasheet.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Dry-Reed_Relay -->

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove_Starter_Kit_for_BeagleBone_Green
 sku: 110060131
 ---
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_bbg_start_kit.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_bbg_start_kit.jpg)
 
 Grove Starter Kit for BeagleBone Green is an entry-level kit for beginners, which can help you explore BBG and create innovative projects. It's a best choice for novice to develop some cool projects and build prototype built in BBG. Here are a collection of sensors, actuators and shields that we have had success using with BeagleBone Green.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Starter-Kit-for-SeeedStudio-BeagleBone-Green-p-2526.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Starter-Kit-for-SeeedStudio-BeagleBone-Green-p-2526.html)
 
 
 Application Ideas
@@ -23,7 +23,7 @@ If you want to make some awesome projects with Beaglebone Green and Groves, here
 
 | **Smart Light Demo with BBG & BBG Start Kit(HA)**                                                         | **An IoT Application with BBG & BBG Start Kit**                        |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/BBG_starter_kit1.png)                              | ![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/图片1.png)  |
+| ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/BBG_starter_kit1.png)                              | ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/图片1.png)  |
 | [Make it NOW!](http://www.seeedstudio.com/recipe/363-smart-light-demo-with-bbg-amp-bbg-start-kit-ha.html) | [Make it NOW!](http://www.seeedstudio.com/recipe/367-an-iot-application-with-bbg-amp-bbg-start-kit.html)        |
 
 Part List
@@ -31,7 +31,7 @@ Part List
 
 ### Grove - I2C Hub
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/I2c_hub_b.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/I2c_hub_b.jpg)
 
 I2C Hub Grove is an extension Grove module for connecting multiply I2C devices to Grove I2C socket.
 
@@ -41,17 +41,17 @@ If you want to know more info about this module please click [**here**](/Grove-I
 
 ### Grove - Button
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Button1.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Button1.jpg)
 
 This new version of button Grove contains one independent button, which are configured with pull-down resistor – ready for use with our microcontrollers as digital input. The button signals the SIG(D1) wire, NC(D2) is not used on this Grove.
 
 **ButtonSchematic**
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buttonsch.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buttonsch.jpg)
 
 ### Grove - I2C ADC
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/I2C_ADC_01.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/I2C_ADC_01.jpg)
 
 Grove - I2C ADC is a 12-bit precision ADC module based on ADC121C021.
 
@@ -64,7 +64,7 @@ If you want to know more info about this module please click [**here**](/Grove-I
 
 ### Grove - Temperature Sensor
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_temp.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_temp.jpg)
 
 The Grove - Temperature Sensor uses a thermistor to detect the ambient temperature.
 
@@ -79,7 +79,7 @@ If you want to know more info about this module please click [**here**](/Grove-T
 
 ### Grove - Sound Sensor
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Twig-Sound-sensor.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Twig-Sound-sensor.jpg)
 
 Grove - Sound Sensor can detect the sound strength of the environment.
 
@@ -90,7 +90,7 @@ If you want to know more info about this module please click [**here**](/index.p
 
 ### Grove - 3-Axis Digital Accelerometer(±16g)
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/3-axis_Accelerometer_ADXL345.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/3-axis_Accelerometer_ADXL345.jpg)
 
 This is a high resolution digital accelerometer providing you at max 3.9mg/LSB resolution and large ±16g measurement range.
 
@@ -102,7 +102,7 @@ If you want to know more info about this module please click [**here**](/Grove-3
 
 ### Grove - Relay
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_relay.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Grove_relay.jpg)
 
 The Relay Grove is a digital normally open switch that controls a relay capable of switching much higher voltages and currents than your BBG boards.
 
@@ -117,11 +117,11 @@ Please exercise great care when working with mains voltages— if in doubt conta
 
 **Relay Schematic**
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Relaysch.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Relaysch.jpg)
 
 ### Grove - Buzzer
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buzzer1.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buzzer1.jpg)
 
 This is a simple yet enjoyable Grove to use.
 
@@ -131,11 +131,11 @@ Alternatively it can be connected to an analog pulse-width modulation output to 
 
 **Grove Buzzer Schematic**
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buzzersch.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Buzzersch.jpg)
 
 ### Grove - Chainable RGB LED
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Chanbalelednb1.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Chanbalelednb1.jpg)
 
 Chainable RGB LED is based on P9813 chip which is a full-color light source LED driver chip, and can provide constant current drive and modulated output of 256 gray.
 
@@ -145,7 +145,7 @@ If you want to know more info about this module please click [**here**](/Grove-C
 
 ### Grove - OLED Display 0.96"
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Oled1281281.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Oled1281281.jpg)
 
 It is a 16 color grayscale 96×96 dot matrix OLED display module with Grove compatible 4pin I2C interface.
 
@@ -165,15 +165,15 @@ If this is your first time to use Cloud9 IDE, please follow this [**link**](/Bea
 
 ### How to use Grove - Button on BBG
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Button_on_bbg.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/Button_on_bbg.jpg)
 
 **Step1:** Set the Grove - UART socket as a Grove - GPIO Socket, just follow this [**link**](http://www.seeedstudio.com/recipe/362-how-to-use-the-grove-uart-port-as-a-gpio-on-bbg.html).
 
 **Step2:** Click the "+" in the top-right to create a new file.
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/C9-create-tab.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/C9-create-tab.png)
 
-![](/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/C9_newfile.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove_Starter_Kit_for_BeagleBone_Green/img/C9_newfile.jpg)
 
 **Step3:** Copy and paste the following code into the new tab
 

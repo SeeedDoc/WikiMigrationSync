@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-4-Digit_Display
 sku: 104030003
 ---
 
-[![](/assets/Grove-4-Digit_Display/img/Grove-4_digit_display.jpg)](http://www.seeedstudio.com/depot/grove-4digital-display-p-1198.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Grove-4_digit_display.jpg)](http://www.seeedstudio.com/depot/grove-4digital-display-p-1198.html)
 
 Grove - 4-Digit Display module is a 12-pin module. In this module, we utilise a TM1637 to scale down the number of controlling pins to 2. That is to say, it controls both the content and the luminance via only 2 digital pins of Arduino or Seeeduino. For projects that require alpha-numeric display, this can be a nice choice.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-4digital-display-p-1198.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-4digital-display-p-1198.html)
 
 Features
 --------
@@ -111,7 +111,7 @@ g
 Hardware Overview
 ------------------
 
-![](/assets/Grove-4-Digit_Display/img/4-digit_display_interface.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/4-digit_display_interface.jpg)
 
 **Grove interface** - Can be connected to digital port on Grove - Base Shield.
 
@@ -128,7 +128,7 @@ Displaying the Numbers (4-Digital-Display)
 
 This example demonstrates how to display some digital numbers using a Grove-4-Digital Display.
 
-![](/assets/Grove-4-Digit_Display/img/4_digital_display.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/4_digital_display.jpg)
 
 ```
 /*
@@ -181,23 +181,23 @@ The module uses an LED drive chip - TM1637 to control the contents and change th
 
     Seeeduino and Grove - 4-digit display:
 
-    ![](/assets/Grove-4-Digit_Display/img/Seeeduino_and_4-digit_display.jpg)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Seeeduino_and_4-digit_display.jpg)
 
     Arduino Mega and Grove - 4-digit display:
-    ![](/assets/Grove-4-Digit_Display/img/Arduino_Mega_and_4-digit_display.jpg)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Arduino_Mega_and_4-digit_display.jpg)
 
 3. Connect Arduino/Seeeduino to PC via a USB cable.
 
-4. Download [the 4-Digit Display library](/assets/Grove-4-Digit_Display/res/DigitalTube.zip) and [TimerOne library](https://code.google.com/p/arduino-timerone/downloads/detail?name=TimerOne-v9.zip&can=2&q=). Unzip and put them in the libraries file of Arduino IDE by the path: ..\\arduino-1.0\\libraries.
+4. Download [the 4-Digit Display library](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/res/DigitalTube.zip) and [TimerOne library](https://code.google.com/p/arduino-timerone/downloads/detail?name=TimerOne-v9.zip&can=2&q=). Unzip and put them in the libraries file of Arduino IDE by the path: ..\\arduino-1.0\\libraries.
 
 5. Restart the Arduino IDE, open one demo code you like, for example ClockDisplay directly by the path:File -> Example ->DigitalTube->ClockDisplay.
 
-    ![](/assets/Grove-4-Digit_Display/img/Open_ClockDisplay.ino.jpg)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Open_ClockDisplay.ino.jpg)
 
 6. Upload the demo code and the clock will be ticking in a few seconds. Please click [here](/Upload_Code) if you do not know how to upload.
 
     You can see this:
-    ![](/assets/Grove-4-Digit_Display/img/Display_the_clock.jpg)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Display_the_clock.jpg)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -354,12 +354,12 @@ The module uses an LED drive chip - TM1637 to control the contents and change th
 Resources
 ---------
 
--   [Grove - 4-Digit Display V1.0 eagle files](/assets/Grove-4-Digit_Display/res/Grove-4-Digit_Display_V1.0_eagle_files.zip)
--   [Schematic in PDF](/assets/Grove-4-Digit_Display/res/Grove_4-Digit_Display_V1.0.pdf)
--   [4-Digit Display library](/assets/Grove-4-Digit_Display/res/DigitalTube.zip)
+-   [Grove - 4-Digit Display V1.0 eagle files](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/res/Grove-4-Digit_Display_V1.0_eagle_files.zip)
+-   [Schematic in PDF](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/res/Grove_4-Digit_Display_V1.0.pdf)
+-   [4-Digit Display library](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/res/DigitalTube.zip)
 -   [TimerOne library](https://code.google.com/p/arduino-timerone/downloads/detail?name=TimerOne-v9.zip&can=2&q=)
 -   [Four-Digit Display Suli Library](https://github.com/Seeed-Studio/Four_Digit_Display_Suli)
--   [TM1637 datasheet](/assets/Grove-4-Digit_Display/res/TM1637_datasheet.pdf)
+-   [TM1637 datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/res/TM1637_datasheet.pdf)
 
 
 **Related Projects**
@@ -369,10 +369,10 @@ If you want to make some awesome projects by 4-Digit Display, here's one project
 
 - Air Quality Box
 
-[![](/assets/Grove-4-Digit_Display/img/556bcbf436c49.jpg)](http://www.seeedstudio.com/recipe/index.php?controller=recipe&action=show&recipe_id=266&ref=product)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/556bcbf436c49.jpg)](http://www.seeedstudio.com/recipe/index.php?controller=recipe&action=show&recipe_id=266&ref=product)
 
 With this demo, we can see the air quality data on 4-Digit Display.
 
-[![](/assets/Grove-4-Digit_Display/img/Wiki_makeitnow_logo.png)](http://www.seeedstudio.com/recipe/index.php?controller=recipe&action=show&recipe_id=266&ref=product)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-4-Digit_Display/img/Wiki_makeitnow_logo.png)](http://www.seeedstudio.com/recipe/index.php?controller=recipe&action=show&recipe_id=266&ref=product)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_4-Digit_Display -->

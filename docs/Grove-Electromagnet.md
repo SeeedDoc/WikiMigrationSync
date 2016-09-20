@@ -9,13 +9,13 @@ surveyurl: https://www.research.net/r/Grove-Electromagnet
 sku: 101020073
 ---
 
-![](/assets/Grove-Electromagnet/img/Grove_Electromagnet_02.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/img/Grove_Electromagnet_02.jpg)
 
-![](/assets/Grove-Electromagnet/img/Grove_Electromagnet-1.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/img/Grove_Electromagnet-1.png)
 
 An electromagnet is a type of magnet in which the magnetic field is produced by electric current. An electric current flowing in a wire creates a magnetic field around the wire, due to Ampere's law(see drawing below). To concentrate the magnetic field, in an electromagnet the wire is wound into a coil with many turns of wire lying side by side. The magnetic field of all the turns of wire passes through the center of the coil, creating a strong magnetic field there. Grove - Electromagnet can suck 1KG weight and hold on. It is easy to use, to learn electromagnet principle.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Electromagnet-p-1820.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Electromagnet-p-1820.html)
 
 Features
 --------
@@ -37,9 +37,9 @@ Usage
 
 ### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino")
 
-![](/assets/Grove-Electromagnet/img/Grove_Electromagnet-2.png) 
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/img/Grove_Electromagnet-2.png) 
 
-![](/assets/Grove-Electromagnet/img/Grove_Electromagnet-3.png)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/img/Grove_Electromagnet-3.png)
 
 CODE:
 
@@ -131,7 +131,7 @@ CODE:
 Resources
 --------
 
-- [Grove Electromagnet v1.0 SCH PCB.zip](/assets/Grove-Electromagnet/res/Grove_Electromagnet_v1.0_SCH_PCB.zip "File:Grove Electromagnet v1.0 SCH PCB.zip")
-- [Datasheet ZYE1-P20-15 PDF](/assets/Grove-Electromagnet/res/ZYE1-P20-15.pdf)
+- [Grove Electromagnet v1.0 SCH PCB.zip](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/res/Grove_Electromagnet_v1.0_SCH_PCB.zip "File:Grove Electromagnet v1.0 SCH PCB.zip")
+- [Datasheet ZYE1-P20-15 PDF](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electromagnet/res/ZYE1-P20-15.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Electromagnet -->

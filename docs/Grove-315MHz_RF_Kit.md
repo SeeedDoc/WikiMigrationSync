@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-315MHz_RF_Kit
 sku: 113020001
 ---
 
-![](/assets/Grove-315MHz_RF_Kit/img/315MHz-Simple-RF-Link-Kit.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-315MHz_RF_Kit/img/315MHz-Simple-RF-Link-Kit.jpg)
 
 This kit is used for one way wireless communication at a frequency of 315MHz and includes a transmitter module and a receiver module. The twig configuration of this kit allows for around 40 meters of transmitting distance indoors, or around 100 meters outside. The 315 MHz frequency is suitable for use without a license in the United States. For use in Europe, please see the 433 MHz version of this product.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-315MHz-Simple-RF-Link-Kit-p-1061.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-315MHz-Simple-RF-Link-Kit-p-1061.html)
 
 
 Features
@@ -111,10 +111,10 @@ void loop()
 Resources
 ---------
 
--   Demo code: [433MHz demo.zip](/assets/Grove-315MHz_RF_Kit/res/433MHz_demo.zip "File:433MHz demo.zip")
+-   Demo code: [433MHz demo.zip](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-315MHz_RF_Kit/res/433MHz_demo.zip "File:433MHz demo.zip")
 -   [VirtualWire 1.20](http://www.open.com.au/mikem/arduino/VirtualWire-1.20.zip)
 -   [VirtualWire Documentation](http://www.open.com.au/mikem/arduino/VirtualWire.pdf)
--   [TI:LM358PSR](/assets/Grove-315MHz_RF_Kit/res/1110010P1.pdf)
+-   [TI:LM358PSR](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-315MHz_RF_Kit/res/1110010P1.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_315MHz_RF_Kit -->

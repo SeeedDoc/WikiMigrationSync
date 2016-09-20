@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Mini_Track_Ball
 sku: 101020091
 ---
 
-![](/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball.jpg)
 
 Grove - Mini Track ball will give an easy access to prototyping a practical motion-tracking function module for your applications. It has implanted 360° detection and click detection with high accuracy and quick response. With chips **STM32F103C8T6** and **AN48841B** inside, you can turn plenty of your ideas into tangible things. It is also standardized with Grove interface which will save you a lot of work in the prototyping process.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Mini-Track-Ball-p-2586.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Mini-Track-Ball-p-2586.html)
 
 Features
 --------
@@ -45,7 +45,7 @@ Specifications
 Hardware Overview
 -----------------
 
-![](/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_Hardware_Overview.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_Hardware_Overview.jpg)
 
 **Grove interface**   
 Connect main control board such as **Seeeduino** board with Grove - Mini Track Ball.
@@ -92,11 +92,11 @@ We have used Seeeduino in this case.
 
 ### Hardware connections
 
-![](/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_Hardware_Connection.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_Hardware_Connection.jpg)
 
 ### Download sample code
 
-1.You can [download](/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_test.zip) the sample code.
+1.You can [download](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_test.zip) the sample code.
 
 2.Decompress the downloaded ZIP file.
 
@@ -113,14 +113,14 @@ Make sure you have selected the right <span style="font-weight:bold">Board</span
 
 6.After that you can rotate or "click" the track ball to get information of its trace.
 
-![](/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_serial_output.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/img/Grove-Mini_Track_ball_serial_output.jpg)
 
 Resources
 ---------
 
-- [Schematic in Eagle](/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_v1.0_schematic_files_in_Eagle.zip)
-- [Schematic in PDF format](/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_v1.0_schematic_files_in_PDF.zip)
-- [STM32F103C8T6 Datasheet](/assets/Grove-Mini_Track_Ball/res/STM32F03C8T6.pdf)
+- [Schematic in Eagle](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_v1.0_schematic_files_in_Eagle.zip)
+- [Schematic in PDF format](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/res/Grove-Mini_Track_ball_v1.0_schematic_files_in_PDF.zip)
+- [STM32F103C8T6 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Mini_Track_Ball/res/STM32F03C8T6.pdf)
 - [AN48841B Datasheet](http://www.semicon.panasonic.co.jp/ds4/AN48841B_E.pdf)
 - [Library file in Github](https://github.com/Seeed-Studio/Grove_Mini_Track_Ball)
 

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-6-Axis_AccelerometerAndCompass_V2.0
 sku: 101020081
 ---
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Accelerometer_And_Compass_v2.JPG)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Accelerometer_And_Compass_v2.JPG)
 
 The Grove –6-Axis Accelerometer&Compass V2.0 is a 3-axis accelerometer combined with a 3-axis magnetic sensor. It is an upgraded version of [Grove - 6-Axis Accelerometer&Compass V1.0](/Grove-6-Axis_AccelerometerAndCompass_V1.0 "Grove - 6-Axis Accelerometer&Compass V1.0") and based on the sensor module LSM303D which has a selectable linear acceleration full scale range of ±2g / ±4g / ±8g / ±16g and a selectable magnetic field full scale range of ±2 /±4 / ±8 / ±12 gauss. Both the magnetic parts and the accelerometer parts can be powered down separately to reduce the power consumption. The Arduino can get these data via the I2C interface with the given library for this module.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-6-Axis-Accelerometer%26Compass-v2.0-p-2476.html)
+[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-6-Axis-Accelerometer%26Compass-v2.0-p-2476.html)
 
 Specifications
 -------------
@@ -28,7 +28,7 @@ Specifications
 Hardware Overview
 ------------------
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Grove-6-Axis_AccelerometerAndCompass_V2.0_inter.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Grove-6-Axis_AccelerometerAndCompass_V2.0_inter.jpg)
 
 -   ①Grove interface,connect to I2C
 -   ②SPI Interface
@@ -48,7 +48,7 @@ The MCU can collect 6D sensor data directly through the I2C interface.OK, let's 
 1.  Hardware installation is very easy, because there's an I2C Grove in Seeeduino, so what we need to do is connect it to I2C Grove via a Grove cable.
 2.  Connect the Seeeduino to PC via a USB cable to power up this system.
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/6-Axis_AccelerometerAndCompass_V2.0_connect.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/6-Axis_AccelerometerAndCompass_V2.0_connect.jpg)
 
 ### Download Code and Upload
 
@@ -56,7 +56,7 @@ The MCU can collect 6D sensor data directly through the I2C interface.OK, let's 
 2.  Upload the Code. Please click [here](/Upload_Code) if you do not know how to upload.
 3.  Open the serial monitor, you will see the output result of Color Sensor as shown below:
 
-    ![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/6-Axis_AccelerometerAndCompass_V2.0_demo.jpg)
+    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/6-Axis_AccelerometerAndCompass_V2.0_demo.jpg)
 
 4. You can see the acceleration values and the clockwise angle between the magnetic north and x-axis.
 
@@ -64,11 +64,11 @@ The X/Y/Z shows the 3 axis acceleration; and then the angle between the magnetic
 
 And also the the angle between the magnetic north and the projection of positive x-axis calculated.
 
-Please refer [here](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303_application_note.pdf) to know more about this parameter.
+Please refer [here](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303_application_note.pdf) to know more about this parameter.
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Airplane.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Airplane.jpg)
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Airplane_calculated.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Airplane_calculated.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Notes</p>
@@ -76,13 +76,13 @@ Please refer [here](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303
 <p>2.  When test The clockwise angle between the magnetic north and x-axis, you can align the device Xa axis to any direction, but do not make it face down. Refer to the below picture:</p>
 </div>
 
-![](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Testing.jpg)
+![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/img/Testing.jpg)
 
 Resources
 ---------
 
 -   [6-Axis Accelerometer&Compass v2.0 Library](https://github.com/Seeed-Studio/6Axis_Accelerometer_And_Compass_v2)
--   [LSM303D\_datashet](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303D_datasheet.pdf)
--   [6-Axis\_Accelerometer%26Compass\_v2.0 eagle file](/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/Grove-6-Axis_AccelerometerAndCompass_v2.0_sch_pcb.zip)
+-   [LSM303D\_datashet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/LSM303D_datasheet.pdf)
+-   [6-Axis\_Accelerometer%26Compass\_v2.0 eagle file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-6-Axis_AccelerometerAndCompass_V2.0/res/Grove-6-Axis_AccelerometerAndCompass_v2.0_sch_pcb.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer&Compass_V2.0 -->
