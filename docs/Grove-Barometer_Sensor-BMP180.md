@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Barometer_Sensor-BMP180
 sku: 101020072
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Barometer-BMP180-.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Barometer-BMP180-.jpg)
 
 This is a Grove module for the Bosch BMP180 high-precision, low-power digital barometer. The BMP180 offers a pressure measuring range of 300 to 1100 hPa with an accuracy down to 0.02 hPa in advanced resolution mode. It’s based on piezo-resistive technology for high accuracy, ruggedness and long term stability. The chip only accepts 1.8V to 3.6V input voltage. However, with outer circuit added, this module becomes compatible with 3.3V and 5V. Therefore, it can be used on Arduino/Seeeduino or Seeeduino Stalker without modification.It is designed to be connected directly to a micro-controller via the I2C bus.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-Sensor-(BMP180)-p-1840.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-Sensor-(BMP180)-p-1840.html)
 
 Features
 --------
@@ -201,11 +201,11 @@ Barometric condition is one of the criteria used to predict coming change in wea
 
 4.Open the serial monitor to receive the sensor's data including temperature, barometric pressure value, relative atmosphere pressure and altitude.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Barometer_Sensor.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Barometer_Sensor.jpg)
 
 The following is a reference graph plotting out the relationship between altitude above sea level and barometric pressure.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Pressure_and_Altitude.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Pressure_and_Altitude.jpg)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -280,14 +280,14 @@ The following is a reference graph plotting out the relationship between altitud
 
 6.Result
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Grovepi_barometer_sensor_00.png)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/img/Grovepi_barometer_sensor_00.png)
 
 Resources
 ---------
 
--   [Grove - Barometer Sensor(BMP180) Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/res/Barometer_Sensor-BMP180-Eagle_File.zip)
+-   [Grove - Barometer Sensor(BMP180) Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/res/Barometer_Sensor-BMP180-Eagle_File.zip)
 -   [Barometer\_Sensor Library](https://github.com/Seeed-Studio/Grove_Barometer_Sensor)
--   [BMP180 datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/res/BMP180.pdf)
+-   [BMP180 datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP180/res/BMP180.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_(BMP180) -->

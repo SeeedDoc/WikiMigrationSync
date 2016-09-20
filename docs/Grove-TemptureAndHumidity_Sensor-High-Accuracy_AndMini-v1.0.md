@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-TemptureAndHumidity_Sensor-High-Accu
 sku: 101020074
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-.jpg)
 
 This is a multifunctional sensor that gives you temperature and relative humidity information at the same time. It utilizes a TH02 sensor that can meet measurement needs of general purposes. It provides reliable readings when environment humidity condition in between 0-80% RH, and temperature condition in between 0-70°C, covering needs in most home and daily applications that don't contain extreme conditions.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-(High-Accuracy-%26-Mini)-p-1921.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-(High-Accuracy-%26-Mini)-p-1921.html)
 
 Specifications
 --------------
@@ -44,7 +44,7 @@ Demonstration
 
 This demo is going to show you how to read temperature and humidity information from this Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) Sensor.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Temperature_Sensor-xin.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Temperature_Sensor-xin.jpg)
 The Temperature and Humidity sensor is connecting to analog port I2C of Grove - Base Shield.
 
 -   Download [Grove_Temper_Humidity_TH02 library](https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02) and install the library into Arduino libraries.
@@ -95,13 +95,13 @@ The Temperature and Humidity sensor is connecting to analog port I2C of Grove - 
 
 Upload it into your Arduino board and open the serial monitor to observe the temperature and relative humidity information of the environment.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Result_Picture1.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/img/Result_Picture1.jpg)
 
 Resources
 ---------
 
--   [Grove - Temperature&Humidity Sensor (High-Accuracy & Mini) V1.0 sch pcb](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/res/Grove-TemperatureAndHumidity_Sensor-High-Accuracy_And_Mini-V1.0_sch_pcb.zip)
--   [TH02_SENSOR.pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/res/TH02_SENSOR.pdf)
+-   [Grove - Temperature&Humidity Sensor (High-Accuracy & Mini) V1.0 sch pcb](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/res/Grove-TemperatureAndHumidity_Sensor-High-Accuracy_And_Mini-V1.0_sch_pcb.zip)
+-   [TH02_SENSOR.pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/res/TH02_SENSOR.pdf)
 -   [Grove_Temper_Humidity_TH02 library](https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02)
 
 

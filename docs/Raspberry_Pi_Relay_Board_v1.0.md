@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Raspberry_Pi_Relay_Board_v1.0
 sku: 103030029
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0.jpg)
 
 The Relay Shield utilizes four high quality relays and provides NO/NC interfaces that control the load of high current. Which means it could be a nice solution for controlling devices that couldn’t be directly controlled by IIC bus. Standardized shield form factor enables smoothly connection with the Raspberry Pi . The shield also has four dynamic indicators show the on/off state of each relay.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Raspberry-Pi-Relay-Board-v1.0-p-2409.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Raspberry-Pi-Relay-Board-v1.0-p-2409.html)
 
 Features
 --------
@@ -189,7 +189,7 @@ Place 2 layers of electrical tape on the top of the Arduino's usb connector. Thi
 Hardware Overview
 -----------------
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p3.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p3.jpg)
 
 Usage
 -----
@@ -203,7 +203,7 @@ Here we can use serial console to change the state of each the relay or all rela
 
 We can select the fixed I2C-bus address by **SW1**.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p4.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p4.jpg)
 
 ### Software Part
 
@@ -319,19 +319,19 @@ You can see :
 
 **Terminal:**
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p5.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p5.jpg)
 
 **Raspberry Pi Relay Board v1.0:**
 Whichever relay is turned on, the corresponding LED will turn on.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p6.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/img/Raspberry_Pi_Relay_Board_v1.0_p6.jpg)
 
 Resources
 ---------
 
-- [Raspberry_Pi_Relay_Board_v1.0_sch_pcb](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/Raspberry_Pi_Relay_Board_v1.0_sch_pcb.zip)
-- [HLS8L Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/HLS8L.pdf)
-- [PCAL9535A Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/PCAL9535A.pdf)
+- [Raspberry_Pi_Relay_Board_v1.0_sch_pcb](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/Raspberry_Pi_Relay_Board_v1.0_sch_pcb.zip)
+- [HLS8L Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/HLS8L.pdf)
+- [PCAL9535A Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Raspberry_Pi_Relay_Board_v1.0/res/PCAL9535A.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Raspberry_Pi_Relay_Board_v1.0 -->

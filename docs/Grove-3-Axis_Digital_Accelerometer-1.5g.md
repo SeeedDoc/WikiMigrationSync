@@ -18,12 +18,12 @@ sku: 101020039
 <tr class="odd">
 <td><div class="center">
 <div class="floatnone">
-<img src="/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/3_aix_acc.jpg" />
+<img src="https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/3_aix_acc.jpg" />
 </div>
 </div></td>
 <td><div class="center">
 <div class="floatnone">
-<img src="/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Grove-3-Axis_v1.3.jpg" />
+<img src="https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Grove-3-Axis_v1.3.jpg" />
 </div>
 </div></td>
 </tr>
@@ -41,7 +41,7 @@ Grove - 3-Axis Digital Accelerometer v1.2b
 3-Axis Digital Accelerometer is the key part in projects like orientation detection, gesture detection and Motion detection. This 3-Axis Digital Accelerometer(±1.5g) is based on Freescale's low power consumption module, MMA7660FC. It features up to 10,000g high shock survivability and configurable Samples per Second rate. For generous applications that don't require too large measurement range, this is a great choice because it's durable, energy saving and cost-efficient.
 
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(%C2%B11.5g)-p-765.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(%C2%B11.5g)-p-765.html)
 
 
 Specifications
@@ -74,7 +74,7 @@ Connect this module to the I2C port of Grove - Base Shield via a Grove cable.
 If you want to activate the Interrupt function of this module, you need to connect the INT soldering pad we broke out on the board with a pin of Arduino that's capable of Interrupt Service Routine. 
 </div>
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Digital_Accelerometer_Sensor_Connector1.5g.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Digital_Accelerometer_Sensor_Connector1.5g.jpg)
 
 Install the library we provide in the [Resources](/Grove-3-Axis_Digital_Accelerometer-1.5g#resources) section.
 
@@ -83,7 +83,7 @@ Open the code directly by the path:File -> Example ->DigitalAccelerometer_MMA766
 In this program, acceleration information are sent from the sensor to Seeeduino via I2C bus and then Seeeduino printed them onto the serial monitor.
 Open the serial monitor to check the result.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Grove-3-Axis_Digital_Accelerometer-1.5g-.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Grove-3-Axis_Digital_Accelerometer-1.5g-.jpg)
 
 The outputs of this sensor consist of two parts: raw data and 3-axis acceleration info converted into the unit of gravity, "g".
 
@@ -135,17 +135,17 @@ Reference
 Below are two figures helping you understand the physical meaning of the result.
 
 The first figure is about the direction of each axis:
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/MMA7660_Direction.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/MMA7660_Direction.jpg)
 
 The second figure gives some examples:
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Sensing_Direction_1.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/img/Sensing_Direction_1.jpg)
 
 Resources
 ---------
 
--   [Datasheet of MMA7660FC](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/res/MMA7660FC.pdf)
--   [Grove - 3-Axis Digital Accelerometer Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/res/Grove-3-Axis_Digital_Accelerometer-1.5g-Eagle_File.zip)
+-   [Datasheet of MMA7660FC](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/res/MMA7660FC.pdf)
+-   [Grove - 3-Axis Digital Accelerometer Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-1.5g/res/Grove-3-Axis_Digital_Accelerometer-1.5g-Eagle_File.zip)
 -   [DigitalAccelerometer\_MMA7660FC Library](https://github.com/Seeed-Studio/DigitalAccelerometer_MMA7660FC)
 -   [github repository for 3-Axis Digital Accelerometer(±1.5g)](https://github.com/Seeed-Studio/Accelerometer_MMA7660)
 

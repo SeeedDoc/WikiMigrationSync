@@ -6,7 +6,7 @@ prodimagename: Xadow_Audio.JPG
 surveyurl: https://www.research.net/r/RePhone_APIs-Audio
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RePhone_APIs-Audio/img/Xadow_Audio.JPG)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RePhone_APIs-Audio/img/Xadow_Audio.JPG)
 
 RePhone supports playback audio files on SD card or on built-in flash. Formats supported include **WAV**, **MP3**, **AAC**, etc. With this library, you can **Play**, **Pause**, **Stop** playback process and **Adjust volume**.
 
@@ -19,7 +19,7 @@ Use getStatus() to check the current status and act correspondingly. The audio s
 If you try to play another audio file before the previous playback is finished, the previous playback will be stopped automatically, and the new audio will be played.
 </div>
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RePhone_APIs-Audio/img/Viewallapiofrephone.png)](/RePhone_APIs)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/RePhone_APIs-Audio/img/Viewallapiofrephone.png)](/RePhone_APIs)
 
 Function List
 -------------

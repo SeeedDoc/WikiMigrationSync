@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Starter_Kit_for_LinkIt_ONE
 sku: 110060039
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/img/Grove_Starter_Kit_for_LinkIt_ONE_530x397.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/img/Grove_Starter_Kit_for_LinkIt_ONE_530x397.jpg)
 
 Grove - Starter Kit for LinkIt ONE is a toolkit for building your applications quicker and easier with LinkIt ONE development platform. With this kit, you can concentrate just on design process for your projects which will save you lots for time or expenses. It consist of the most popular modules for build IoT (Internet of Things) applications such as [Base Shield](/Grove-Base_shield_v2).
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Starter-Kit-for-LinkIt-ONE-p-2028.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Starter-Kit-for-LinkIt-ONE-p-2028.html)
 
 Features
 --------
@@ -49,7 +49,7 @@ Note that the ideas listed in this section are only some clues to this kit's mas
 Hardware Overview
 -----------------
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/img/Grove_Starter_Kit_for_LinkIt_ONE_modules.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/img/Grove_Starter_Kit_for_LinkIt_ONE_modules.jpg)
 
 **Grove Touch Sensor**
 
@@ -98,7 +98,7 @@ Base Shield is an interface between Arduino and Grove modules. There are 16 Grov
 Part list
 ---------
 
-[Parts List of Grove Starter Kit for LinkIt ONE](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/res/Parts_List_Grove_Starter_Kit_for_LinkIt_ONE.pdf)
+[Parts List of Grove Starter Kit for LinkIt ONE](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/res/Parts_List_Grove_Starter_Kit_for_LinkIt_ONE.pdf)
 
 Get started
 -----------
@@ -117,7 +117,7 @@ Find the complete recipe here: [Secret_Box](/Secret_Box)
 Resources
 ---------
 
-- [Manual for Grove Starter Kit for LinkIt ONE](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/res/Manual_for_Grove_Starter_kit_for_LinkIt_ONE_compressed.pdf)
+- [Manual for Grove Starter Kit for LinkIt ONE](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Starter_Kit_for_LinkIt_ONE/res/Manual_for_Grove_Starter_kit_for_LinkIt_ONE_compressed.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Starter_Kit_for_LinkIt_ONE -->

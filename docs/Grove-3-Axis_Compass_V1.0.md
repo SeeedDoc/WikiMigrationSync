@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-3-Axis_Compass_V1.0
 sku: 101020034
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Grove-3-Axis_Compass_V1.0.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Grove-3-Axis_Compass_V1.0.jpg)
 
 This 3-axis digital compass features a low field magnetic sensing multi-chip module HMC5883L, which provides up to 1° to 2° heading accuracy. HMC5883L consists of high-resolution HMC118X series magneto-resistive sensors, as well as Honeywell developed ASIC containing amplification, automatic degaussing strap drivers, offset cancellation and 12 bit ADC. With peripheral power management circuit added, this is an easy to use and reliable compass module for low cost compassing and magnetometry.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-3-Axis-Digital-Compass-p-759.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-3-Axis-Digital-Compass-p-759.html)
 
 Specifications
 --------------
@@ -44,11 +44,11 @@ Now let's start to run your compass.
 
 1. Plug the 3-axis compass into the I2C port of Grove - Base Shield.
 
-2. Download the library file: [Digital Compass Library](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Digital_Compass.zip). Unzip it into the libraries file of Arduino IDE by the path: ..\\arduino-1.0.1\\libraries.
+2. Download the library file: [Digital Compass Library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Digital_Compass.zip). Unzip it into the libraries file of Arduino IDE by the path: ..\\arduino-1.0.1\\libraries.
 
 3. Open the demo by the path:File ->Example ->Digital Compass ->HMC5883L_Example.
 
-    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Digital_Compass1.jpg)
+    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Digital_Compass1.jpg)
 
 4. Replace the value of variable "declinitionAngle" with the one you've figured out already.
 
@@ -56,7 +56,7 @@ Now let's start to run your compass.
 
 6. Check the output result by opening the serial monitor.
 
-    ![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Digital_Compass2.jpg)
+    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/img/Digital_Compass2.jpg)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -95,9 +95,9 @@ Now let's start to run your compass.
 Resources
 ---------
 
--   [Grove-3-Axis Digital Compass Eagle File](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Grove-3-Axis_Digital_Compass_Eagle_File.zip)
--   [HMC5883.pdf](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/HMC5883.pdf "File:HMC5883.pdf")
--   [Digital Compass Library](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Digital_Compass.zip)
+-   [Grove-3-Axis Digital Compass Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Grove-3-Axis_Digital_Compass_Eagle_File.zip)
+-   [HMC5883.pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/HMC5883.pdf "File:HMC5883.pdf")
+-   [Digital Compass Library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Compass_V1.0/res/Digital_Compass.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Compass_V1.0 -->

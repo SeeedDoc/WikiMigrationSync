@@ -9,13 +9,13 @@ surveyurl: https://www.research.net/r/Grove-Luminance_Sensor
 sku: 101020076
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/Luminance.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/Luminance.jpg)
 
 Grove - Luminance Sensor detects the intensity of the ambient light on a surface area. It uses **APDS-9002** analog output ambient light photo sensor. This has responsivity closer to human eye.
 
 This Luminance Sensor can be used in application which requires automatic light adjustment in residential or commercial lighting.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Luminance-Sensor-p-1941.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Luminance-Sensor-p-1941.html)
 
 
 Specifications
@@ -34,7 +34,7 @@ Demonstration
 
 1.Plug the Grove-Luminance sensor to the A0 port of Seeeduino Lotus with a Grove connector.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/Interface_Grove-Luminance.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/Interface_Grove-Luminance.jpg)
 
 2.Copy the following code in an arduino sketch.
 
@@ -134,17 +134,17 @@ Demonstration
 
 5.Open the serial monitor.
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/LuminanceOutput.png)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/img/LuminanceOutput.png)
 
 6.The Vout and Lux are displayed in the serial monitor.
 
 Resources
 --------
 
--   [Grove-Luminance Sensor Demo code](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance.zip)
--   [Grove-Luminance Sensor eagle file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance_Sensor.zip)
--   [Grove-Luminance Sensor Schematic (PDF)](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance_Sensor_v1.0.pdf)
--   [APDS-900 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/APDS-9002-.pdf)
+-   [Grove-Luminance Sensor Demo code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance.zip)
+-   [Grove-Luminance Sensor eagle file](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance_Sensor.zip)
+-   [Grove-Luminance Sensor Schematic (PDF)](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/Grove-Luminance_Sensor_v1.0.pdf)
+-   [APDS-900 Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Luminance_Sensor/res/APDS-9002-.pdf)
 
 
 Help us make it better

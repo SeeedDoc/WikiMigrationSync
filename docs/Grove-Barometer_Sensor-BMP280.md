@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Grove-Barometer_Sensor-BMP280
 sku: 101020192
 ---
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
 
 **Grove - Barometer Sensor (BMP280)** is a breakout board for Bosch BMP280 high-precision and low-power digital barometer. This module can be used to measure **temperature** and **atmospheric pressure** accurately. As the atmospheric pressure changes with altitude, it can also measure approximate **altitude** of a place. It can be connected to a microcontroller with I<sup>2</sup>C (integrated with Grove socket) or through SPI bus. We have also provided highly abstracted library to make this product easier to use.
 
@@ -19,7 +19,7 @@ Using the sensor is easy. For [Seeeduino](http://www.seeedstudio.com/depot/Seeed
 
 Typical applications: Enhancement of GPS navigation, outdoor/indoor navigation, weather forecast, or any other project that requires an accurate atmospheric pressure reading.
 
-[![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Barometer-Sensor-BMP280-p-2652.html)
+[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Barometer-Sensor-BMP280-p-2652.html)
 
 Features
 --------
@@ -40,7 +40,7 @@ Specifications
 | Effective pressure measurement range | 300 - 1100 hPa (1 hPa= one hundred Pa) with ±1.0 hPa accuracy                                                               |
 | Temperature measurement accuracy     | ±1.0°C                                                                                                                      |
 | Measurement modes                    | Piezo & Temperature, forced or periodic                                                                                     |
-| Chip                                 | BMP280 ([datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Grove-Barometer_Sensor-BMP280-BMP280-DS001-12_Datasheet.pdf)) |
+| Chip                                 | BMP280 ([datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Grove-Barometer_Sensor-BMP280-BMP280-DS001-12_Datasheet.pdf)) |
 | Possible sampling rate               | 182 Hz (typical)                                                                                                            |
 | Interface Bus                        | SPI, I<sup>2</sup>C (use either one of them)                                                                                |
 | Weight                               | 3 g (for breakout board)                                                                                                    |
@@ -102,7 +102,7 @@ If no version number is present for a specific platform, it means this product s
 Hardware Overview
 -----------------
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Components_1200_s.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Components_1200_s.jpg)
 
 -   **SPI soldering pads**, a voltage monitoring circuit.
 -   **Interface bus selection pads** , to select I<sup>2</sup>C bus, connect the two pads by soldering (this is connected by default); to select SPI bus, cut the two pads with a sharp knife or a soldering iron.
@@ -147,9 +147,9 @@ This section shows you how to build a simple project with Arduino platform. Even
 
 Connect all parts as follows: the first picture shows connection with Seeeduino, the second one demonstrates connection with Arduino UNO:
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Demo_Seeeduino_1200_s.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Demo_Seeeduino_1200_s.jpg)
 
-![](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Demo_Arduino_UNO.jpg)
+![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/img/Grove-Barometer_Sensor-BMP280-Demo_Arduino_UNO.jpg)
 
 #### Coding
 
@@ -167,8 +167,8 @@ You can find more demo sketches [here](https://github.com/Seeed-Studio/Grove_BMP
 Resources
 ---------
 
--   [Schematic(Eagle) file](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Battery_kit-3.7V_520mAh_Schematics.zip)
--   [BMP280 Datasheet](/https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Grove-Barometer_Sensor-BMP280-BMP280-DS001-12_Datasheet.pdf)
+-   [Schematic(Eagle) file](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Battery_kit-3.7V_520mAh_Schematics.zip)
+-   [BMP280 Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Barometer_Sensor-BMP280/res/Grove-Barometer_Sensor-BMP280-BMP280-DS001-12_Datasheet.pdf)
 -   [Library and example code](https://github.com/Seeed-Studio/Grove_BMP280) on GitHub
 -   [I<sup>2</sup>C how-to for Arduino](https://www.arduino.cc/en/Reference/Wire)
 
