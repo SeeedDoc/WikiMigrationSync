@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/SD_Card_shield_V4.0
 sku: 103030005
 ---
 
-![](/assets/SD_Card_shield_V4.0/img/SD_Card_Shield-v4.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/SD_Card_Shield-v4.jpg)
 
 This is the newly released SD card V4.0 shield. It provides a storage space for your Arduino. Users can read/write SD card via Arduino’s built-in SD library. It supports SD, SDHC and Micro SD cards. It will only occupy the SPI port of your Arduino. Comparing to previous versions, it combines the standart SD slot and the Micro SD slot into a standard one, the included adaptor enables using of Micro SD cards . You can stack on other shields that work with the unused pins. Additionally, the preformed I2C and UART port facilitates your connection with Grove modules.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/SD-Card-Shield-V4-p-1381.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/SD-Card-Shield-V4-p-1381.html)
 
 Application Ideas
 -----------------
@@ -24,7 +24,7 @@ Here we introduce a project about [LinkIt ONE](http://www.seeedstudio.com/depot/
 
 ### Music Player with LinkIt One
 
-![](/assets/SD_Card_shield_V4.0/img/555a29dc85f7f.png)
+![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/555a29dc85f7f.png)
 
 This project uses Grove - Water Sensor to create a simple but effective solution to watering plants.
 
@@ -134,7 +134,7 @@ g
 Hardware Overview
 -----------------
 
-![](/assets/SD_Card_shield_V4.0/img/Interface_FunctionV2.0.png)
+![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/Interface_FunctionV2.0.png)
 
 **Pins usage on Arduino （with SD card）**
 
@@ -166,11 +166,11 @@ The following is the installation of the SD card shield.
 When you use a Micro SD card, please insert Micro SD card into the adopter, and then insert the Micro SD card Adopter into the socket as shown below.
 </div>
 
-![](/assets/SD_Card_shield_V4.0/img/SD_card_adopter.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/SD_card_adopter.JPG)
 
 When you complete the hardware installation, it should look like this
 
-![](/assets/SD_Card_shield_V4.0/img/Hardware_connection.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/Hardware_connection.JPG)
 
 ### Upload the program
 
@@ -180,7 +180,7 @@ When you complete the hardware installation, it should look like this
 
     You are not sure whether its working or not. There are also many other examples in this library, like “ReadWrite”. You can always try them out.
 
-    ![](/assets/SD_Card_shield_V4.0/img/Open_SD_Card_code.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/Open_SD_Card_code.jpg)
 
     There is a brief description to above code:
 
@@ -194,7 +194,7 @@ When you complete the hardware installation, it should look like this
 
 3. View Results. You can see the follow image after Click the serial monitor.
 
-    ![](/assets/SD_Card_shield_V4.0/img/SD_Card_Infor.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/img/SD_Card_Infor.jpg)
 
 4. If an error occurs, please recheck all the previous steps, and make sure the SD card is working. If none of that fixes the problem, try replacing the SD card.
 
@@ -371,11 +371,11 @@ Arduino default code returns SD size incorrectly if your SD is card more than 4G
 Resources
 ---------
 
-- [SD Card Shield v4.0 Schematic](/assets/SD_Card_shield_V4.0/res/SD_Card_Shiled_v4.0.pdf)
+- [SD Card Shield v4.0 Schematic](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/res/SD_Card_Shiled_v4.0.pdf)
 
-- [SD Card Shield v4.0 Eagle File.zip](/assets/SD_Card_shield_V4.0/res/SD_Card_Shield_v4.0a.zip)
+- [SD Card Shield v4.0 Eagle File.zip](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/res/SD_Card_Shield_v4.0a.zip)
 
-- [SD Card Shield v4.3 Eagle file.zip](/assets/SD_Card_shield_V4.0/res/SD_Card_Shield_v4.3_eagle_file.zip)
+- [SD Card Shield v4.3 Eagle file.zip](https://raw.githubusercontent.com/SeeedDocument/SD_Card_shield_V4.0/master/res/SD_Card_Shield_v4.3_eagle_file.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/SD_Card_shield_V4.0 -->

@@ -10,11 +10,11 @@ sku: 113020003
 tags: grove_uart, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](/assets/Grove-GPS/img/Grove-GPS.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/img/Grove-GPS.jpg)
 
 This Grove - GPS module is a cost-efficient and field-programmable gadget armed with a SIM28 (u-blox 6 is the old version) and serial communication configuration. It features 22 tracking / 66 acquisition channel GPS receiver. The sensitivity of tracking and acquisition both reach up to -160dBm, making it a great choice for personal navigation projects and location services, as well as an outstanding one among products of the same price class.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-gps-p-959.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-gps-p-959.html)
 
 Features
 --------
@@ -106,7 +106,7 @@ void clearBufferArray()                     // function to clear buffer array
      3. Click View -> Text Console and you should get a window that will stream NMEA data.
      4. Open the serial monitor,You can see as show below:
 
-     ![](/assets/Grove-GPS/img/GPS_result.jpg)
+     ![](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/img/GPS_result.jpg)
 
 -   *To View data in Google Earth:*
 
@@ -205,7 +205,7 @@ while True:
 
 6.Result
 
-![](/assets/Grove-GPS/img/Grovepi_gps_00.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/img/Grovepi_gps_00.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -216,24 +216,24 @@ SIM28 module Note:
 ------------------
 
 1. GPS Bee has change the module as SIM28 which the same footprint as origin version.
-2. You should use ["SIMCom GPS DEMO"](/assets/Grove-GPS/res/SIMCom_GPS_DEMO_V1.07.zip) tools to receive SIM28 module data.
+2. You should use ["SIMCom GPS DEMO"](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/SIMCom_GPS_DEMO_V1.07.zip) tools to receive SIM28 module data.
 3. Open SIMCom_GPS_DEMO tools, go to Module->properties->module->select SIM28.
 
-    ![](/assets/Grove-GPS/img/SIM28_module_select.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/img/SIM28_module_select.jpg)
 
 4. Open SIMCom_GPS_DEMO tools, go to Module->connect. Select the serial port which the GPS module used.
 
-    ![](/assets/Grove-GPS/img/SIM28_module_tools_pannel.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/img/SIM28_module_tools_pannel.jpg)
 
 Resources
 ---------
 
--   [GPS Eagle File](/assets/Grove-GPS/res/GPS.zip)
--   [GPS Schematic(PDF)](/assets/Grove-GPS/res/GPS.pdf)
--   [E-1612-UB Datasheet](/assets/Grove-GPS/res/E-1612-UB_Datasheets_Sheet.pdf)
--   [U-Blox6 Receiver Description Protocol Spec](/assets/Grove-GPS/res/U-blox-6-Receiver-Description-Including-Protocol-Specification.zip)
+-   [GPS Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/GPS.zip)
+-   [GPS Schematic(PDF)](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/GPS.pdf)
+-   [E-1612-UB Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/E-1612-UB_Datasheets_Sheet.pdf)
+-   [U-Blox6 Receiver Description Protocol Spec](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/U-blox-6-Receiver-Description-Including-Protocol-Specification.zip)
 -   [U-Blox u-center GPS evaluation software](https://www.u-blox.com/en/product/u-center-windows)
--   [SIM28\_DATA\_File](/assets/Grove-GPS/res/SIM28_DATA_File.zip)
--   [SIMCom\_GPS\_DEMO\_V1.07](/assets/Grove-GPS/res/SIMCom_GPS_DEMO_V1.07.zip)
+-   [SIM28\_DATA\_File](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/SIM28_DATA_File.zip)
+-   [SIMCom\_GPS\_DEMO\_V1.07](https://raw.githubusercontent.com/SeeedDocument/Grove-GPS/master/res/SIMCom_GPS_DEMO_V1.07.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_GPS -->

@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Serial_Bluetooth_v3.0
 sku: 113020008
 ---
 
-![](/assets/Grove-Serial_Bluetooth_v3.0/img/Grove-Serial_Bluetooth_v3.0.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/img/Grove-Serial_Bluetooth_v3.0.jpg)
 
 Grove - Serial Bluetooth is an easy to use module compatible with the existing Grove Base Shield, and designed for transparent wireless serial connection setup. The serial port Bluetooth module is fully qualified Bluetooth V2.0+EDR(Enhanced Data Rate) 2Mbps Modulation with complete 2.4GHz radio transceiver and baseband. It uses CSR Bluecore 04-External single chip Bluetooth system with CMOS technology and with AFH(Adaptive Frequency Hopping Feature).It has the smallest footprint of 12.7mm x 27mm. Hope it will simplify your overall design/development cycle.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Serial-Bluetooth-v3.0-p-2475.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Serial-Bluetooth-v3.0-p-2475.html)
 
 Specifications
 --------------
@@ -31,20 +31,20 @@ Demonstration
 
 Two Bluethooth modules work as shown below:
 
-![](/assets/Grove-Serial_Bluetooth_v3.0/img/Ppt5.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/img/Ppt5.JPG)
 
-![](/assets/Grove-Serial_Bluetooth_v3.0/img/Ppt6.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/img/Ppt6.JPG)
 
 ### Hardware Installation
 
-![](/assets/Grove-Serial_Bluetooth_v3.0/img/Grove_serial_bluetooth_3_.jpg.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/img/Grove_serial_bluetooth_3_.jpg.png)
 
 ### Download Code and Upload
 
 1.  You can download the code in github, click [here](https://github.com/Seeed-Studio/Bluetooth_Shield_V2_Demo_Code/archive/master.zip),then extract it to libraries folder of Arduino.
 2.  Open Arduino IDE, open File -> Examples -> Bluetooth_Shield_V2_Demo_Code -> Master_Button, then you open the code of Master,modify the code as follows:
 
-![](/assets/Grove-Serial_Bluetooth_v3.0/img/Grove_serial_bluetooth_4_.jpg.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/img/Grove_serial_bluetooth_4_.jpg.png)
 
 1.  Open Arduino IDE, open File -> Examples -> Bluetooth_Shield_V2_Demo_Code -> Slave_led, then you open the code of Slave and modify the code as well like above.
 2.  Save the modification and click Upload to Upload the code, if you have any problem about how to start Arduino, please click [here](/Getting_Started_with_Seeeduino) for some help.
@@ -125,8 +125,8 @@ Supported baudrate: 4--9600, 5--19200,6--38400,7--57600,8--115200,9--230400,A--4
 Resources
 ---------
 
--   [Serial Bluetooth Eagle File](/assets/Grove-Serial_Bluetooth_v3.0/res/Grove-Serial_Bluetooth_eagle_file.zip)
--   [Bluetooth Software Instruction](/assets/Grove-Serial_Bluetooth_v3.0/res/Bluetooth_Software_Instruction.pdf)
--   [Bluetooth - Module Datasheet](/assets/Grove-Serial_Bluetooth_v3.0/res/Bluetooth_module.pdf)
+-   [Serial Bluetooth Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/res/Grove-Serial_Bluetooth_eagle_file.zip)
+-   [Bluetooth Software Instruction](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/res/Bluetooth_Software_Instruction.pdf)
+-   [Bluetooth - Module Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Serial_Bluetooth_v3.0/master/res/Bluetooth_module.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Serial_Bluetooth_v3.0 -->

@@ -10,11 +10,11 @@ sku: 101020041
 tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](/assets/Grove-I2C_Color_Sensor/img/Grove-I2C-Color-Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/img/Grove-I2C-Color-Sensor.jpg)
 
 This module is based on the color sensor TCS3414CS with digital output I2C. Based on the 8\*2 array of filtered photodiodes and 16-bit analog-to-digital converters, you can measure the color chromaticity of ambient light or the color of objects. Of the 16 photodiodes, 4 have red filters, 4 have green filters, 4 have blue filters and 4 have no filter(clear). With the synchronization input pin, an external pulsed light source can provide precise synchronous conversion control.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-i2c-color-sensor-p-854.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-i2c-color-sensor-p-854.html)
 
 Features
 --------
@@ -70,7 +70,7 @@ Demos
 
 This module can be used to detect the color of light source or the color of objects. When used to detect the color of the light source, the led switch should be turned off, and the light source should shine the sensor directly. When used to detect the color of things, the led should be on and you should put the object on the top of the enclosure closely. The theory of sensing the color of objects is Reflective Sensing Theory. Like the picture below.
 
-![](/assets/Grove-I2C_Color_Sensor/img/Reflcect.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/img/Reflcect.jpg)
 
 ### Color Sensor Library
 
@@ -183,27 +183,27 @@ Other Reference
 
 This module is based on the color sensor TCS3414CS. The TCS3414CS digital color sensor returns data from four channels: red(R), green(G), blue(B) and clear(C)(non-filtered). The response from the red, green and blue channels (RGB) can be used to determine a particular source’s chromaticity coordinates (x, y). These standards are set by the Commission Internationale de l’Eclairage (CIE). The CIE is the main international organization concerned with color and color measurement.In order to acquire the color of a given object using TCS3414CS, we must first map the sensor response (RGB) to the CIE tristimulus values (XYZ). It is then necessary to calculate the chromaticity coordinates (x, y).
 
-![](/assets/Grove-I2C_Color_Sensor/img/Coordinates_transform.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/img/Coordinates_transform.png)
 
 Chromaticity Calculation Process Overview
 
 The equations to do the transformation:
 
-![](/assets/Grove-I2C_Color_Sensor/img/Equations.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/img/Equations.png)
 
 Transformation Equations
 
 -   When we get coordinates (x, y), please reference the below figure so as to get the recommended color.
 
-![](/assets/Grove-I2C_Color_Sensor/img/Chromaticity_Diagram.jpg) 
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/img/Chromaticity_Diagram.jpg) 
      
 
 Resources
 ---------
 
 -   [Library Grove - I2C Color Sensor](https://github.com/Seeed-Studio/Grove_I2C_Color_Sensor)
--   [Grove-I2C Color Sensor Eagle File](/assets/Grove-I2C_Color_Sensor/res/Twig-I2C_Color_sensor_v0.9b_eagle_files.zip)
--   [TCS3414-A Datasheet](/assets/Grove-I2C_Color_Sensor/res/TCS3404_TCS3414-A.pdf)
+-   [Grove-I2C Color Sensor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/res/Twig-I2C_Color_sensor_v0.9b_eagle_files.zip)
+-   [TCS3414-A Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-I2C_Color_Sensor/master/res/TCS3404_TCS3414-A.pdf)
 
 
 </li>

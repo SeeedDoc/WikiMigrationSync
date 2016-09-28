@@ -10,11 +10,11 @@ sku: 101020090
 tags: grove_digital, io_5v, plat_duino
 ---
 
-![](/assets/Grove-Water_Atomization/img/Water_Atomization_product_1200.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/img/Water_Atomization_product_1200.jpg)
 
 Grove - Water Atomization is a fine Grove module for you to develop an atomizer or an atomizer module in your applications easily. With a few simple steps, you can prototype an atomizer. It has grove interface which make it easily applied to plenty of applications. A humidifier is a basic application it can be built with, you can develop more advanced and interesting objects with digital scent technology and any other situation in which atomization is required.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Water-Atomization-v10-p-2542.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Water-Atomization-v10-p-2542.html)
 
 Features
 --------
@@ -50,7 +50,7 @@ Platforms Supported
 Hardware Overview
 -----------------
 
-![](/assets/Grove-Water_Atomization/img/Water_Atomization_hardware_overview_1200.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/img/Water_Atomization_hardware_overview_1200.jpg)
 
 **Grove interface**   
 Connect main control board such as Seeeduino board with driver board.
@@ -95,7 +95,7 @@ We have chosen Seeeduino in this case.
 
 ### **Hardware connections**
 
-![](/assets/Grove-Water_Atomization/img/Water_Atomization_hardware_connection.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/img/Water_Atomization_hardware_connection.jpg)
 
 ### **A little demo**
 
@@ -145,14 +145,14 @@ The bottom side is the side with hollow which is supposed to face downside. Let 
 
 4.Now if you touch Grove touch sensor, you can see vapor produced.
 
-![](/assets/Grove-Water_Atomization/img/Water_Atomization_hardware_connection.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/img/Water_Atomization_hardware_connection.jpg)
 
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
 Do not touch transducer interface pins directly because peak output voltage of Drier board can be 65V.
 </div>
 
-![](/assets/Grove-Water_Atomization/img/High_voltage_warning_600.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/img/High_voltage_warning_600.jpg)
 
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
@@ -163,8 +163,8 @@ The inductor <span style="font-weight:bold">L2</span> (marked in red rectangle a
 Resources
 ---------
 
-- [Schematic files in Eagle](/assets/Grove-Water_Atomization/res/Schematic_file_in_Eagle.zip)
-- [Schematic files in PDF](/assets/Grove-Water_Atomization/res/Schematic_file_in_PDF.zip)
+- [Schematic files in Eagle](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/res/Schematic_file_in_Eagle.zip)
+- [Schematic files in PDF](https://raw.githubusercontent.com/SeeedDocument/Grove-Water_Atomization/master/res/Schematic_file_in_PDF.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Water_Atomization -->

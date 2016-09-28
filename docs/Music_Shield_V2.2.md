@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Music_Shield_V2.2
 sku: 107020003
 ---
 
-![](/assets/Music_Shield_V2.2/img/Music_Shield_Picture.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Music_Shield_Picture.jpg)
 
 Time to build your real-time MIDI instrument/music player! It can play many format including MP3, WMA, WAV, AAC, MIDI, Ogg Vorbis. The Music Shield is an audio encoder/decoder compatible with Arduino, Seeeduino, Seeeduino Mega and Arduino Mega. It is based on the VC1053B chip, which enabled it to play sound files from SD card and do short-time recording as well. You can also use it to play MIDI notes by slightly changing its hardware installations. Due to the SPI communication mode, it keeps a minimum number of IO port that facilitates users’ own developments of this device. Additionally, the new multifunction button provides greater convenience for users to control.
 
@@ -19,12 +19,12 @@ The recording function works with Seeeduino Mega and Arduino Mega only. And the 
 </div>
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Music-Shield-V20-p-1372.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Music-Shield-V20-p-1372.html)
 
 Hardware Overview
 -----------------
 
-![](/assets/Music_Shield_V2.2/img/Music_shield_frame.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Music_shield_frame.jpg)
 
 **Multifunction button:** Change volume and select songs.
 
@@ -81,7 +81,7 @@ A3 - Chip Select of VS1053
 Getting Started
 ---------------
 
-![](/assets/Music_Shield_V2.2/img/Music_shield4.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Music_shield4.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -108,7 +108,7 @@ In order to use the playback function, you need to create a playlist first.
 
 1. Restart the Arduino IDE. Open “creatList” example via the path: File --> Examples --> MusicPlayer --> creatList as below.
 
-    ![](/assets/Music_Shield_V2.2/img/OpenCreatListCode.jpg) 
+    ![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/OpenCreatListCode.jpg) 
 
 2. Set the play mode. In “creatList”, the function we use is described as follows.
 
@@ -116,13 +116,13 @@ In order to use the playback function, you need to create a playlist first.
 
     **   Function:** Set the play mode. There are four modes you can set: MODE_NORMAL, MODE_SHUFFLE, MODE_REPEAT_LIST, MODE_REPEAT_ONE. Each mode stands for different playing orders.
 
-    ![](/assets/Music_Shield_V2.2/img/Play_Mode.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Play_Mode.jpg)
 
 3. Select the type of Arduino board that you are using by the path: Tools --> Board --> for example Arduino UNO.
 4. Select the correct serial port you are using by the path: Tools --> Serial Port --> for example COM3.
 5. Upload the code. Click to Serial Monitor when “Done uploading” appears, you will find the order of songs is randomized on the list.
 
-    ![](/assets/Music_Shield_V2.2/img/Play_List.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Play_List.jpg)
 
 When multifunction button is pressed up or down, the volume will change. Of course, you can try others play modes.
 
@@ -130,7 +130,7 @@ When multifunction button is pressed up or down, the volume will change. Of cour
 
 1. This demo will show you how to play part of the songs from all songs in the SD card. Open the “addToList” example via the path: File --> Examples --> MusicPlayer --> addToList.
 
-    ![](/assets/Music_Shield_V2.2/img/Select_play.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Select_play.jpg)
 
 2. Select songs from the playlist.You just need to list songs you want to play by name correctly in the function addToPlayList(char *songName) .
 But you must ensure that the song has been stored in the SD card and the format of those songs must be one of MP3,WMA,WAV,AAC,MIDI,Ogg Vorbis.
@@ -141,7 +141,7 @@ But you must ensure that the song has been stored in the SD card and the format 
 
 1. Plug the Grove-Base Shield onto the Music shield, Connect the Grove socket of the Rotary and analog port 4 of the Base Shield with a Grove cable. You can change to the digital port as well. But don't forget to change the port number in the definition of the demo code at the same time.
 
-    ![](/assets/Music_Shield_V2.2/img/Music_shield_5.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Music_shield_5.jpg)
 
 2. Open the “analogInputControl” example and upload it onto your Arduino Board.
 
@@ -206,21 +206,21 @@ I would like to tell you that there is an open source library called jdksmidi,by
 ```
 Now, it is time to build your real-time MIDI instrument/music player in any format(single-channel or multi-channel). Your contribution is appreciated. A demo MIDI player was add to the latest library. MIDI Demo(upload the code. When completed, you will hear Fancy MIDI music):
 
-![](/assets/Music_Shield_V2.2/img/Music_shield_midi_demo.jpeg)
+![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/Music_shield_midi_demo.jpeg)
 
 Reference
 ---------
 
 **MIDI number to note reference list**
 
-![](/assets/Music_Shield_V2.2/img/MIDIlist.gif)
+![](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/img/MIDIlist.gif)
 
 Resources
 ---------
 
-- [Music Shield V2.2 Eagle Files](/assets/Music_Shield_V2.2/res/Music_Shield_v2.2.zip)
-- [Music Shield V2.2 Schematic.pdf](/assets/Music_Shield_V2.2/res/Music_Shield_v2.2_pdf.pdf)
-- [VS1053 Datasheet](/assets/Music_Shield_V2.2/res/VS1053.pdf)
+- [Music Shield V2.2 Eagle Files](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/res/Music_Shield_v2.2.zip)
+- [Music Shield V2.2 Schematic.pdf](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/res/Music_Shield_v2.2_pdf.pdf)
+- [VS1053 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Music_Shield_V2.2/master/res/VS1053.pdf)
 - [Music Shield libraries](https://github.com/Seeed-Studio/Music_Shield)
 
 

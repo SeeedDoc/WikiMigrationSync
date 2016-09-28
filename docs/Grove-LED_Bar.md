@@ -13,17 +13,17 @@ tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_wio
 <table>
     <tr>
         <td>
-            <img src="/assets/Grove-LED_Bar/img/Grove-LED_Bar-1.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/img/Grove-LED_Bar-1.jpg">
         </td>
         <td>
-            <img src="/assets/Grove-LED_Bar/img/Grove-LED_Bar-2.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/img/Grove-LED_Bar-2.jpg">
         </td>
     </tr>
 </table>
 
 Grove – LED Bar is comprised of a 10 segment LED gauge bar and an MY9221 LED controlling chip. It can be used as an indicator for remaining battery life, voltage, water level, music volume or other values that require a gradient display. There are 10 LED bars in the LED bar graph: one red, one yellow, one light green, and seven green bars. Demo code is available to get you up and running quickly. It lights up the LEDs sequentially from red to green, so the entire bar graph is lit up in the end. Want to go further? Go ahead and code your own effect.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-LED-Bar-p-1178.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-LED-Bar-p-1178.html)
 
 Features
 --------
@@ -62,7 +62,7 @@ You can download the library in github, click [here](https://github.com/Seeed-St
 
 Then open Arduino IDE, File -> examples -> LED_Bar -> Level, you can open the demo code.
 
-![](/assets/Grove-LED_Bar/img/LED_BAR_IDE.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/img/LED_BAR_IDE.png)
 
 Click Upload to Upload the code, if you have any problem about how to start Arduino, please click [here](/Getting_Started_with_Seeeduino) for some help.
 
@@ -70,7 +70,7 @@ Click Upload to Upload the code, if you have any problem about how to start Ardu
 
 Your Grove - LED Bar is working now, it's shine.
 
-![](/assets/Grove-LED_Bar/img/LED_Bar_shining.gif)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/img/LED_Bar_shining.gif)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -359,9 +359,9 @@ Your Grove - LED Bar is working now, it's shine.
 Resources
 ---------
 
--   [Grove - LED Bar Eagle File](/assets/Grove-LED_Bar/res/Grove-LED_Bar_v1.0.zip)
+-   [Grove - LED Bar Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/res/Grove-LED_Bar_v1.0.zip)
 -   [Grove - LED Bar Library](https://github.com/Seeed-Studio/Grove_LED_Bar)
 -   [Suli-compatible Library](https://github.com/Seeed-Studio/LED_Bar_Suli)
--   [MY9221 Datasheet](/assets/Grove-LED_Bar/res/MY9221_DS_1.0.pdf)
+-   [MY9221 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/res/MY9221_DS_1.0.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_LED_Bar -->

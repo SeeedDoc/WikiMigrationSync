@@ -10,7 +10,7 @@ sku: 101020045
 tags: grove_analog, io_5v, plat_duino
 ---
 
-![](/assets/Grove-Gas_Sensor-MQ9/img/Grove_MQ3_Gas_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/img/Grove_MQ3_Gas_Sensor.jpg)
 
 The Grove - Gas Sensor(MQ9) module is useful for gas leakage detection (in home and industry). It is suitable for detecting <font color="Blue">LPG, CO, CH4</font>. Due to its high sensitivity and fast response time, measurements can be taken as soon as possible. The sensitivity of the sensor can be adjusted by using the potentiometer.
 
@@ -19,7 +19,7 @@ The Grove - Gas Sensor(MQ9) module is useful for gas leakage detection (in home 
 The sensor value only reflects the approximated trend of gas concentration in a permissible error range, it DOES NOT represent the exact gas concentration. The detection of certain components in the air usually requires a more precise and costly instrument, which cannot be done with a single gas sensor. If your project is aimed at obtaining the gas concentration at a very precise level, then we do not recommend this gas sensor.
 </div>
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ9-p-1419.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ9-p-1419.html)
 
 Features
 --------
@@ -68,7 +68,7 @@ The output voltage from the Gas sensor increases when the concentration of gas i
 Getting Started
 ---------------
 
-![](/assets/Grove-Gas_Sensor-MQ9/img/Read_Gas_Sensor_data.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/img/Read_Gas_Sensor_data.jpg)
 
 Connect the Grove - Gas Sensor(MQ9) to A0 port as shown in the picture above.
 
@@ -173,7 +173,7 @@ This examples demonstrates a way to know the approximate concentration of Gas. A
 
     Now, we can get the concentration of gas from the figure below.
 
-    ![](/assets/Grove-Gas_Sensor-MQ9/img/GAS_Sensor_7.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/img/GAS_Sensor_7.png)
 
     According to the figure, we can see that the minimum concentration we can test is 200ppm and the maximum is 10000ppm, in a other word, we can get a concentration of gas between 0.02% and 1%. However, we can't provide a formula because the relation between ratio and concentration is nonlinear.
 
@@ -190,11 +190,11 @@ Resources
 **Schematic**
 ---------
 
--   [Grove Gas Sensor - EAGLE (Schematic and Board) files](/assets/Grove-Gas_Sensor-MQ9/res/Gas_Sensor_Eagle_files.zip)
--   [Grove Gas Sensor - PDF Schematic](/assets/Grove-Gas_Sensor-MQ9/res/Gas_Sensor_Schematic.pdf)
+-   [Grove Gas Sensor - EAGLE (Schematic and Board) files](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/res/Gas_Sensor_Eagle_files.zip)
+-   [Grove Gas Sensor - PDF Schematic](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/res/Gas_Sensor_Schematic.pdf)
 
 **Datasheet**
 
--   [MQ-9 Datasheet](/assets/Grove-Gas_Sensor-MQ9/res/MQ-9.pdf)
+-   [MQ-9 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Gas_Sensor-MQ9/master/res/MQ-9.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ9) -->

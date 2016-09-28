@@ -10,11 +10,11 @@ sku: 101020013
 tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_pi
 ---
 
-![](/assets/Grove-RTC/img/Grove-RTC.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/img/Grove-RTC.jpg)
 
 The RTC module is based on the clock chip DS1307, which supports the I2C protocol. It utilizes a Lithium cell battery (CR1225). The clock/calendar provides seconds, minutes, hours, day, date, month, and year. The end of the month date is automatically adjusted for months with fewer than 31 days, including corrections for leap years. The clock operates in either the 24-hour or 12-hour format with AM/PM indicator. And it is valid up to 2100. In order to gain a robust performance, you must put a 3-Volt CR1225 lithium cell in the battery-holder. If you use the primary power only, the module may not work normally, because the crystal may not oscillate.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-RTC-p-758.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-RTC-p-758.html)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -46,7 +46,7 @@ The following sketch demonstrates a simple application of setting the time and r
 -   Connect the module to the I2C Interface of **Grove- Base Shield**.
 -   Plug Grove- Base Shield into Arduino.
 -   Connect Arduino to PC via a USB cable.
--   Download the [RTC Library](/assets/Grove-RTC/res/RTC_Library.zip).
+-   Download the [RTC Library](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/res/RTC_Library.zip).
 -   Unzip it into the libraries file of Arduino IDE by the path: ..\arduino-1.0\libraries.
 -   Open the code directly by the path:File -> Example ->RTC->SetTimeAndDisplay.
 
@@ -125,7 +125,7 @@ The following sketch demonstrates a simple application of setting the time and r
 -   Upload the code.
 -   Open the serial monitor to see the result.
 
-![](/assets/Grove-RTC/img/RTC_result.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/img/RTC_result.jpg)
 
 The output time is changing like the clock.
 
@@ -171,7 +171,7 @@ The output time is changing like the clock.
 
 6.Result
 
-![](/assets/Grove-RTC/img/Grovepi_i2c_rtc_00.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/img/Grovepi_i2c_rtc_00.png)
 
 7.Use this demo to show the time in common
 ```
@@ -318,14 +318,14 @@ The output time is changing like the clock.
 
 10.Result
 
-![](/assets/Grove-RTC/img/Grovepi_i2c_rtc_01.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/img/Grovepi_i2c_rtc_01.png)
 
 Resources
 ---------
 
--   [Real Time Clock Eagle File](/assets/Grove-RTC/res/Real_Time_Clock.zip)
+-   [Real Time Clock Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/res/Real_Time_Clock.zip)
 -   [Github repository for RTC](https://github.com/Seeed-Studio/Grove_RTC)
--   [DS1307 Datasheet](/assets/Grove-RTC/res/DS1307.pdf)
+-   [DS1307 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/res/DS1307.pdf)
 
 
 

@@ -10,11 +10,11 @@ sku: 101020037
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](/assets/Grove-Touch_Sensor/img/Grove-Touch_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Touch_Sensor/master/img/Grove-Touch_Sensor.jpg)
 
 Grove - Touch Sensor enables you to replace press with touch. It can detect the change in capacitance when a finger is near by. That means no matter your finger directly touches the pad or just stays close to the pad, Grove - Touch Sensor would outputs HIGH also.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Touch-Sensor-p-747.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Touch-Sensor-p-747.html)
 
 Specifications
 --------------
@@ -41,7 +41,7 @@ Demonstration
 
 ### With [Arduino](/Arduino)
 
-![](/assets/Grove-Touch_Sensor/img/Touch_LED.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Touch_Sensor/master/img/Touch_LED.jpg)
 This demo is going to show you how to turn on/off an LED.
 
 **Demo Code:**
@@ -115,8 +115,8 @@ digitalWrite(ledPin,LOW);
 Resources
 ---------
 
--   [Eagle Files](/assets/Grove-Touch_Sensor/res/Touch_sensor_Eagle_File.zip)
--   [TTP223pdf](/assets/Grove-Touch_Sensor/res/TTP223.pdf)
+-   [Eagle Files](https://raw.githubusercontent.com/SeeedDocument/Grove-Touch_Sensor/master/res/Touch_sensor_Eagle_File.zip)
+-   [TTP223pdf](https://raw.githubusercontent.com/SeeedDocument/Grove-Touch_Sensor/master/res/TTP223.pdf)
 -   [how to upload code](/Upload_Code)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor -->

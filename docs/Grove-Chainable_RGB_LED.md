@@ -10,11 +10,11 @@ sku: 104030006
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](/assets/Grove-Chainable_RGB_LED/img/Chanbalelednb1.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Chainable_RGB_LED/master/img/Chanbalelednb1.jpg)
 
 **Grove - Chainable RGB LED** is based on P9813 chip which is a full-color LED driver. It provides 3 constant-current drivers as well as modulated output of 256 shades of gray. It communicates with a MCU using 2-wire transmission (Data and Clock). This 2-wire transmission can be used to cascade additional **Grove - Chainable RGB LED** modules. The built-in clock regeneration enhances the transmission distance. This Grove module is suitable for any colorful LED based projects.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Chainable-RGB-LED-p-850.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Chainable-RGB-LED-p-850.html)
 
 Specifications
 -------------
@@ -582,9 +582,9 @@ If this is your first time to use Cloud9 IDE, please follow this [**link**](/Bea
 
 **Step2:** Click the "+" in the top-right to create a new file.
 
-![](/assets/Grove-Chainable_RGB_LED/img/C9-create-tab.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Chainable_RGB_LED/master/img/C9-create-tab.png)
 
-![](/assets/Grove-Chainable_RGB_LED/img/C9_newfile.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Chainable_RGB_LED/master/img/C9_newfile.jpg)
 
 **Step3:** Copy and paste the following code into the new tab
 
@@ -715,8 +715,8 @@ if __name__ == "__main__":
 Resources
 ---------
 
--   [Chainable RGB LED eagle file](/assets/Grove-Chainable_RGB_LED/res/Chainable_RGB_LED_eagle_file.zip)
--   [P9813 Datasheet](/assets/Grove-Chainable_RGB_LED/res/P9813_datasheet.pdf)
+-   [Chainable RGB LED eagle file](https://raw.githubusercontent.com/SeeedDocument/Grove-Chainable_RGB_LED/master/res/Chainable_RGB_LED_eagle_file.zip)
+-   [P9813 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Chainable_RGB_LED/master/res/P9813_datasheet.pdf)
 -   [Chainable RGB LED Library for the P9813](https://github.com/pjpmarques/ChainableLED)
 -   [Github repository for Chainable RGB LED Library (new)](https://github.com/Seeed-Studio/Grove_Chainable_RGB_LED)
 

@@ -10,14 +10,14 @@ sku: 101020004
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](/assets/Grove-Switch-P/img/SwitchP.jpg)
-![](/assets/Grove-Switch-P/img/GroveSwitchP_01.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Switch-P/master/img/SwitchP.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Switch-P/master/img/GroveSwitchP_01.jpg)
 
 This Grove – Switch is a mini SPDT slide, great for “ON/OFF” situations. It is such a reliable switch of great build quality that we adopt it on many of our boards. You should stock some for your Grove prototyping system.
 
 What does “P” mean? “P” is for “panel mount” in this product.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Switch(P)-p-1252.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Switch(P)-p-1252.html)
 
 Features
 -------
@@ -79,6 +79,6 @@ After uploading the code, you can see the led will light up when the switch is a
 Resources
 --------
 
-- [Grove - Switch(P) Eagle File](/assets/Grove-Switch-P/res/Grove-Switch-P-Eagle_File.zip)
+- [Grove - Switch(P) Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Switch-P/master/res/Grove-Switch-P-Eagle_File.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Switch(P) -->

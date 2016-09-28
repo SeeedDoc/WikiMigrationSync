@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Mouse_Encoder
 sku: 103020030
 ---
 
-![](/assets/Grove-Mouse_Encoder/img/Grove-Mouse_Encoder_product_view.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/img/Grove-Mouse_Encoder_product_view.jpg)
 
 Grove - Mouse Encoder is a type of mechanical incremental rotary encoder with feedback data of rotary direction and rotary speed<sup>\[1\]</sup>. It features standard Grove interface that will save your lots of work in wiring and programming. Also, it is well adapted to heavy duty and a harsh environment. This product can be applied in toys, robots, and consumer input devices.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-%E2%80%93-Mouse-Encoder-p-2607.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-%E2%80%93-Mouse-Encoder-p-2607.html)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -48,7 +48,7 @@ Specifications
 <div class="admonition note">
 <p class="admonition-title">Notes</p>
 <ol><li>There is no knob included in product list. Because we think it will make this encoder more versatile for different environments.</li>
-<li>You can find <a href="/assets/Grove-Mouse_Encoder/res/Grove-Mouse_Encoder_Dimensions.pdf">dimensions</a> file in PDF format, and you can customize a knob according to the dimensions.</li><ol>
+<li>You can find <a href="https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/res/Grove-Mouse_Encoder_Dimensions.pdf">dimensions</a> file in PDF format, and you can customize a knob according to the dimensions.</li><ol>
 </div>
 
 <div class="admonition tip">
@@ -59,7 +59,7 @@ You can just use a suitable hexagonal screwdriver bit if you only are building a
 Hardware Overview
 -----------------
 
-![](/assets/Grove-Mouse_Encoder/img/Grove-Mouse_Encoder.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/img/Grove-Mouse_Encoder.jpg)
 
 **Grove interface**   
 Connect main control board such as **Seeeduino** board with driver board.
@@ -103,7 +103,7 @@ This demo shows how to detect position and detect direction.
 
 Connect materials as shown below:
 
-![](/assets/Grove-Mouse_Encoder/img/Grove-Mouse_Encoder_demo_connection.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/img/Grove-Mouse_Encoder_demo_connection.jpg)
 
 #### Code
 
@@ -151,11 +151,11 @@ void loop() {
 
 The output:
 
-![](/assets/Grove-Mouse_Encoder/img/Grove_mouse_encoder_output_of_demo.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/img/Grove_mouse_encoder_output_of_demo.png)
 
 Resources
 ---------
 
-- [Schematic files](/assets/Grove-Mouse_Encoder/res/Grove_Mouse_Encoder_v1.0_Schematic_File.zip)
+- [Schematic files](https://raw.githubusercontent.com/SeeedDocument/Grove-Mouse_Encoder/master/res/Grove_Mouse_Encoder_v1.0_Schematic_File.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Mouser_Encoder -->

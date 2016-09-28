@@ -9,16 +9,16 @@ surveyurl: https://www.research.net/r/Rainbowduino_v3.0
 sku: 102010006
 ---
 
-![](/assets/Rainbowduino_v3.0/img/Rainbowduino_V3.0.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbowduino_V3.0.jpg)
 
 The Rainbowduino board is an Arduino compatible controller board with professional multiplexed LED driver. It can drive an **8x8 RGB Led Matrix** or a **4x4x4 RGB LED Cube** in common Anode mode. Rainbowduino v3.0 uses two **MY9221** chips which is a **12-channels** (R/G/B x 4) constant current Adaptive Pulse Density Modulation**(APDM)**. Rainbowduino v3.0 has provisions for cascading more such boards with I2C interface.
 
 **Rainbowduino v3.0** is flashed with Arduino boot-loader and this makes it easy to program sketches using Arduino IDE. Unlike other LED drivers, this comes with a USB to UART (FT232RL) inbuilt for programming the sketches.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Rainbowduino-LED-driver-platform-Atmega-328-p-371.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Rainbowduino-LED-driver-platform-Atmega-328-p-371.html)
 
 
-![](/assets/Rainbowduino_v3.0/img/Rainbowduino_V3.0b_board_bottom.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbowduino_V3.0b_board_bottom.png)
 **Rainbowduino v3.0** bottom
 
 Features
@@ -57,7 +57,7 @@ Connecting to LED matrix is very straight forward.
 -   **Connecting RGB LED Matrix**   
     Connect RGB Matrix 2x16 male pin header to Rainbowduino as shown below (See the back of RGB matrix, the 16 male pin header closer to "2088RGB" text marking should be connected to DRIVE - GREEN- DRIVE pin header of Rainbowduino.)
 
-![](/assets/Rainbowduino_v3.0/img/Rainbowduino_v3.0_with_LED_Matrix.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbowduino_v3.0_with_LED_Matrix.jpg)
 
 **Rainbowduino v3.0 connected to 8x8 RGB LED Matrix**
 
@@ -66,11 +66,11 @@ Connecting to LED matrix is very straight forward.
 -   **Connecting RGB LED Cube**   
     Connect Rainbow Cube Kit 2x16 male pin header to Rainbowduino as shown below.
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube_Installation_1.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube_Installation_1.jpg)
 
 **2x16 pin header** positioning
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube_Installation_2.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube_Installation_2.jpg)
 
 A **Rainbowduino** properly connected to **Rainbow Cube kit**
 
@@ -123,7 +123,7 @@ void loop()
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube1.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube1.jpg)
 
 Cube1.pde Demo
 
@@ -180,7 +180,7 @@ void loop()
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube2.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube2.jpg)
 
 Cube2.pde Demo
 
@@ -224,7 +224,7 @@ Cube2.pde Demo
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube3.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube3.jpg)
 
 Cube3.pde Demo
 
@@ -353,7 +353,7 @@ for(x=0;x<4;x++)
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/Rainbow_Cube_Plasma_demo.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Rainbow_Cube_Plasma_demo.jpg)
 
 PlasmaCube.pde Demo
 
@@ -430,7 +430,7 @@ Rainbowduino v3.0 library provides many APIs for using RGB LED matrix. The follo
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/Shapes.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/Shapes.jpg)
 
 Shapes
 
@@ -466,16 +466,16 @@ Shapes
 
 Output:
 
-![](/assets/Rainbowduino_v3.0/img/CharE.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/img/CharE.jpg)
 
 Resources
 ---------
 
--   [Rainbowduino V3.0 Library for Arduino IDE 1.0 & above](/assets/Rainbowduino_v3.0/res/Rainbowduino_for_Arduino1.0.zip)
--   [Rainbowduino3.0 SnakeGame Library for Arduino 1.0](/assets/Rainbowduino_v3.0/res/SnakeGame20120601.zip)
--   [Rainbowduino V3.0 Schematic and Layout in Eagle format](/assets/Rainbowduino_v3.0/res/Rainbowduino_v3.0b_EagleCADFiles.zip)
--   [Rainbowduino V3.0 Schematic in PDF](/assets/Rainbowduino_v3.0/res/Rainbowduino_V3.0b.pdf)
--   [MY9221 LED driver Datasheet](/assets/Rainbowduino_v3.0/res/MY9221_DS_1.0.pdf)
+-   [Rainbowduino V3.0 Library for Arduino IDE 1.0 & above](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/res/Rainbowduino_for_Arduino1.0.zip)
+-   [Rainbowduino3.0 SnakeGame Library for Arduino 1.0](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/res/SnakeGame20120601.zip)
+-   [Rainbowduino V3.0 Schematic and Layout in Eagle format](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/res/Rainbowduino_v3.0b_EagleCADFiles.zip)
+-   [Rainbowduino V3.0 Schematic in PDF](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/res/Rainbowduino_V3.0b.pdf)
+-   [MY9221 LED driver Datasheet](https://raw.githubusercontent.com/SeeedDocument/Rainbowduino_v3.0/master/res/MY9221_DS_1.0.pdf)
 
 **Other related products,resources and projects:**
 

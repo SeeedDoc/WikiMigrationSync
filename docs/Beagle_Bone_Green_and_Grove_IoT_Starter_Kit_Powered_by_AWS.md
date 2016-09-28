@@ -8,13 +8,13 @@ bzprodimageurl: https://images-na.ssl-images-amazon.com/images/I/41ld4VguWCL.jpg
 surveyurl: https://www.research.net/r/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS
 ---
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/Aws_kit_bbg_cover.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/Aws_kit_bbg_cover.JPG)
 
 *Main articles: Start here [Grove IoT Starter Kits Powered by AWS](/Grove_IoT_Starter_Kits_Powered_by_AWS "Grove IoT Starter Kits Powered by AWS") , [Beaglebone Green](/Beaglebone_green "Beaglebone green")*
 
 [BeagleBone Green](http://www.seeedstudio.com/depot/BeagleBone-Green-p-2504.html?cPath=122_113) (BBG) is a joint effort by BeagleBoard.org and Seeed Studio. It is based on the open-source hardware design of [BeagleBone Black](http://beagleboard.org/BLACK) and has added two Grove connectors. The kit contains the new BBG, 10 Grove modules as well as step-by-step tutorials to hook them up quickly. The Grove IoT Starter Kit includes most frequently used sensors and actuators to turn your ideas into tangible applications with AWS Cloud computing.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.amazon.com/dp/B0168L6B0C)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.amazon.com/dp/B0168L6B0C)
 
 Features
 --------
@@ -26,7 +26,7 @@ Features
 Included in the Box
 -------------------
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/Aws_kit_bbg.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/Aws_kit_bbg.JPG)
 
 | Board/Part                                                                                                                                   | Qty | Documentation                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----|---------------------------------------------------------------------------------------------------|
@@ -57,54 +57,54 @@ At the very beginning, we need to get an AWS IoT service account, and do some co
     1.Click the **Services** on the top-left corner, and then click on AWS IoT, as shown in the image below.
 
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_click_service.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_click_service.jpg)
 
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_click_iot.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_click_iot.png)
 
 
     2.Click **Get started** button.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_click_get_started.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_click_get_started.jpg)
 
 
     3.Click on **Create a Resource** and then click **Creat a thing**.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_click_create_a_thing.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_click_create_a_thing.jpg)
 
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_view_a_thing.jpg)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_view_a_thing.jpg)
 
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_LinkIt_starter_kit_name_a_thing.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_LinkIt_starter_kit_name_a_thing.png)
 
 
     4.Enter a name, whatever you like, here we name it temperature.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSCreateAThing.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSCreateAThing.png)
 
 
     5.Click **Create** to complete it and then click on **View thing** to get information of the thing you create.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSViewThing.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSViewThing.png)
 
 
     6.Click on **Connect a device**.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSConnectADevice.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSConnectADevice.png)
 
 
     7.Choose Node JS and Click on **Generate certificate and policy**.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSGenerate.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSGenerate.png)
 
     8.You will find 3 files. Download the file, we need them later. And click on **Confirm & start connecting**.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSConfirm.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSConfirm.png)
 
     9.Then we should download the AWS IoT Node.js SDK and click on **Return to Thing Detail**.
 
-    ![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSReturn.png)
+    ![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSReturn.png)
 
 Now, this step is done. Let's move to the next step.
 
@@ -114,7 +114,7 @@ Connect BBG to your PC via micro USB cable, and let BBG access the Internet. If 
 
 Connect Grove modules to BBG as the picture below shows.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSSetup.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSSetup.jpg)
 
 ### Software Works
 
@@ -123,20 +123,20 @@ Connect Grove modules to BBG as the picture below shows.
 
 1.Do you still remember the 3 key files and Node JS SDK that you have already download before.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSFile.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSFile.png)
 
 
 2.Now, upload the SDK and keys file to your Cloud9 examples folder.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSUpload1.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSUpload1.png)
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSUpload2.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSUpload2.png)
 
 #### Open a new terminal
 
 We need unzip the SDK and move the keys to right place.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSUNzip.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSUNzip.png)
 
 ```
 # cd examples
@@ -160,7 +160,7 @@ Install the dependent packages.
 # npm install
 ```
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSMkdir.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSMkdir.png)
 
 Create a new folder named awsCerts.
 
@@ -195,7 +195,7 @@ And rename the downloaded file as root-CA.crt.
 #mv VeriSign-Class%203-Public-Primary-Certification-Authority-G5.pem root-CA.crt
 ```
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSRename.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSRename.png)
 
 #### Programming on BBG
 
@@ -203,7 +203,7 @@ Enter the examples folder.
 
     # cd .. && cd examples/
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSexamples.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSexamples.png)
 
 Create a new file named grove\_temperature\_sensor.py.
 
@@ -561,25 +561,25 @@ When the BBG reboot done, run the code.
     # cd examples/aws-iot-device-sdk-js/examples/
     # node shadow.js
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSRun.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSRun.png)
 
 ### View Result
 
 Then let's open [AWS IoT](https://aws.amazon.com/iot/) website, sign in to your account. And click the thing you created minutes ago. Now you can see the temperature was upload to website.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSResult.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSResult.png)
 
 If you want change the grove chainable led color. You can update the shadow value. eg:
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSChange.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSChange.png)
 
 You can see the BBG get the new RGB value.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSRGB.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSRGB.png)
 
 And the Grove - Chainable RGB LED alse turned into green.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/BbgAWSGreen.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/BbgAWSGreen.png)
 
 Put hand on [AWS IoT Services Getting Started Guide](https://docs.aws.amazon.com/iot/latest/developerguide/iot-dg.pdf) to get more information about AWS IoT.
 
@@ -596,13 +596,13 @@ Please update the latest software if you can't open 192.168.7.2.
 
 Download the latest image from [google drive](https://drive.google.com/file/d/0BwBIy7Eq4Nucd3NTaUkzS0dtT2s/view?usp=sharing)
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_BBG_4.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_BBG_4.png)
 
 **Step \#2: Install compression utility**
 
 Download and install [7-zip](http://www.7-zip.org/download.html).
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_BBG_1.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_BBG_1.png)
 
 **Step \#3: Decompress the image**
 
@@ -612,7 +612,7 @@ Use 7-zip to decompress the .img file on the desktop or other folder.
 
 Download and install [Image Writer for Windows](http://sourceforge.net/projects/win32diskimager/files/latest/download). Be sure to download the binary distribution.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_BBG_2.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_BBG_2.png)
 
 **Step \#5: Connect SD card to your computer**
 
@@ -622,7 +622,7 @@ Use an 8G microSD card at least to SD adapter or a USB adapter to connect the SD
 
 Use either the Ubuntu Image Writer or instructions on its page to write the decompressed image to your SD card.
 
-![](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/img/AWS_BBG_3.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/img/AWS_BBG_3.png)
 
 <div class="admonition danger">
 <p class="admonition-title">Notes</p>
@@ -656,8 +656,8 @@ Firmware update
 Resources
 ---------
 
--   [【PDF】AWS IoT Developer Guide](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/res/AWS_IoT_Developer_Guide.pdf)
--   [【PDF】AWS User Guide for BBG](/assets/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/res/AWS_User_Guide_for_BBG.pdf)
+-   [【PDF】AWS IoT Developer Guide](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/res/AWS_IoT_Developer_Guide.pdf)
+-   [【PDF】AWS User Guide for BBG](https://raw.githubusercontent.com/SeeedDocument/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/master/res/AWS_User_Guide_for_BBG.pdf)
 -   [Main Page for Grove IoT Starter Kits Powered by AWS](/Grove_IoT_Starter_Kits_Powered_by_AWS)
 -   [【Github】AWS SDK for BeagleBone Green kit](https://github.com/Seeed-Studio/AWS_SDK_for_BBG)
 -   [【Github】Libraries for BeagleBone Green kit](https://github.com/Seeed-Studio/Grove_Starter_Kit_for_BBG)

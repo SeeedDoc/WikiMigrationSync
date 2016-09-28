@@ -10,11 +10,11 @@ sku: 101020038
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_pi, plat_bbg, plat_wio
 ---
 
-![](/assets/Grove-Magnetic_Switch/img/Magnetic_Switch.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/img/Magnetic_Switch.jpg)
 
 This is a Grove interface compatible Magnetic switch module. It is based on encapsulated dry reed switch CT10. CT10 is single-pole, single throw (SPST) type, having normally open ruthenium contacts. The sensor is a double-ended type and may be actuated with an electromagnet, a permanent magnet or a combination of both. The magnetic switch is a wonderful tool for designers who would like to turn a circuit on and off based on proximity.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Magnetic-Switch-p-744.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Magnetic-Switch-p-744.html)
 
 Features
 --------
@@ -188,7 +188,7 @@ The following sketch demonstrates a simple application of using the Magnetic swi
 
 As the picture on the below indicates, the Magnetic switch is connected to digital port 9 of the **Grove - Base Shield** and the LED is connected to digital port 13. When a Magnet approaches the switch, the SIG pin outputs a High voltage. Then the LED lights up. The hardware installation is as follows:
 
-![](/assets/Grove-Magnetic_Switch/img/Grove-Magnetic_Switch.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/img/Grove-Magnetic_Switch.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -295,14 +295,14 @@ As the picture on the below indicates, the Magnetic switch is connected to digit
 
 Put a magnet upon the sensor, the SIG pin will output HIGH.
 
-![](/assets/Grove-Magnetic_Switch/img/Grovepi_tilt_Switch_00.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/img/Grovepi_tilt_Switch_00.png)
 
 Resources
 ---------
 
--   [Grove-Magnetic Switch v0.9 Eagle File](/assets/Grove-Magnetic_Switch/res/Magnetic_Switch.zip)
--   [CT10 Datasheet](/assets/Grove-Magnetic_Switch/res/CT10.pdf)
--   [Grove-Magnetic Switch v1.3 Eagle File](/assets/Grove-Magnetic_Switch/res/Grove-Magnetic_Switch_v1.3_Eagle_File.zip)
--   [Grove-Magnetic Switch v1.3 PDF File](/assets/Grove-Magnetic_Switch/res/Grove-Magnetic_Switch_v1.3_PDF_File.pdf)
+-   [Grove-Magnetic Switch v0.9 Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/res/Magnetic_Switch.zip)
+-   [CT10 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/res/CT10.pdf)
+-   [Grove-Magnetic Switch v1.3 Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/res/Grove-Magnetic_Switch_v1.3_Eagle_File.zip)
+-   [Grove-Magnetic Switch v1.3 PDF File](https://raw.githubusercontent.com/SeeedDocument/Grove-Magnetic_Switch/master/res/Grove-Magnetic_Switch_v1.3_PDF_File.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Magnetic_Switch -->

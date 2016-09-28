@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-Barometer_Sensor
 sku: 101020032
 ---
 
-![](/assets/Grove-Barometer_Sensor/img/Grove-Barometer.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/img/Grove-Barometer.jpg)
 
 This Grove - Barometer Sensor features a Bosch BMP085 high-accuracy chip to detect barometric pressure and temperature. It can widely measure pressure ranging from 300hPa to 1100hPa, AKA +9000m to -500m above sea level, with a super high accuracy of 0.03hPa(0.25m) in ultra-high resolution mode. The chip only accepts 1.8V to 3.6V input voltage. However, with outer circuit added, this module becomes compatible with 3.3V and 5V. Therefore, it can be used on Arduino/Seeeduino or Seeeduino Stalker without modification. It is designed to be connected directly to a micro-controller via the I2C bus.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-Sensor-p-1199.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-Sensor-p-1199.html)
 
 Features
 --------
@@ -155,9 +155,9 @@ Usage
 Barometric condition is one of the criteria used to predict coming change in weather and deduce altitude above sea level. Here is a demo to show you how to read the barometric data from this Grove - Barometer Sensor.
 
 1.Connect it to IIC port of Seeeduino or Grove - Base Shield via a Grove cable. And connect Arduino to PC via a USB cable.
-![](/assets/Grove-Barometer_Sensor/img/Grove-Barometer_Sensor_hard.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/img/Grove-Barometer_Sensor_hard.JPG)
 
-2.Download the library [Barometer_Sensor Library](/assets/Grove-Barometer_Sensor/res/Barometer_Sensor.zip);Unzip it into the libraries file of Arduino IDE by the path: ..\\arduino-1.0.1\\libraries.
+2.Download the library [Barometer_Sensor Library](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/res/Barometer_Sensor.zip);Unzip it into the libraries file of Arduino IDE by the path: ..\\arduino-1.0.1\\libraries.
 
 3.Create a new Arduino sketch and paste the codes below to it or open the code directly by the path:File -> Example ->Barometer_Sensor->Barometer_Sensor.
 
@@ -212,10 +212,10 @@ Barometric condition is one of the criteria used to predict coming change in wea
 
 4.Open the serial monitor to receive the sensor's data including temperature, barometric pressure value, relative atmosphere pressure and altitude.
 
-![](/assets/Grove-Barometer_Sensor/img/Barometer_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/img/Barometer_Sensor.jpg)
 
 The following is a reference graph plotting out the relationship between altitude above sea level and barometric pressure.
-![](/assets/Grove-Barometer_Sensor/img/Pressure_and_Altitude.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/img/Pressure_and_Altitude.jpg)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -292,15 +292,15 @@ The following is a reference graph plotting out the relationship between altitud
 
 6.Result
 
-![](/assets/Grove-Barometer_Sensor/img/Grovepi_barometer_sensor_00.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/img/Grovepi_barometer_sensor_00.png)
 
 Resources
 ---------
 
--   [Grove - Barometer Sensor Eagle File](/assets/Grove-Barometer_Sensor/res/Grove-Barometer_Sensor_Eagle_File.zip)
--   [Barometer\_Sensor Library](/assets/Grove-Barometer_Sensor/res/Barometer_Sensor.zip)
+-   [Grove - Barometer Sensor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/res/Grove-Barometer_Sensor_Eagle_File.zip)
+-   [Barometer\_Sensor Library](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/res/Barometer_Sensor.zip)
 -   [Github repository for Barometer Sensor Library](https://github.com/Seeed-Studio/Grove_Barometer_Sensor)
--   [BST-BMP085-DS000-06](/assets/Grove-Barometer_Sensor/res/BST-BMP085-DS000-06.pdf)
+-   [BST-BMP085-DS000-06](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor/master/res/BST-BMP085-DS000-06.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor -->

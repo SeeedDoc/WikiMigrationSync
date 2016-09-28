@@ -10,11 +10,11 @@ sku: 101020036
 tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](/assets/Grove-Slide_Potentiometer/img/Sliding1.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Sliding1.JPG)
 
 The Grove - Slide Potentiometer module incorporates a linear variable resistor with a maximum resistance of 10KΩ. When you move the slider from one side to the other, its output voltage will range from 0 V to the Vcc you apply. It connects to the other Grove modules through a standard 4-Pin **Grove Cable**. Three of the pins are connected to OUT (Pin 1), Vcc (Pin 3) and GND (Pin 4), while the fourth pin (Pin 2) is connected to a on-board green indicator LED. The LED is used to visually represent the resistance change on the potentiometer.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Slide-Potentiometer-p-1196.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Slide-Potentiometer-p-1196.html)
 
 Features
 --------
@@ -30,7 +30,7 @@ Here are some projects for your reference.
 
 | **Arduino BoomBox**                                                  | **Arduino BeatBox**                                                    |
 |----------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![](/assets/Grove-Slide_Potentiometer/img/Recipe-Arduino_BoomBox.jpg)| ![](/assets/Grove-Slide_Potentiometer/img/Recipe-Arduino_BeatBox.jpg)  |
+| ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Recipe-Arduino_BoomBox.jpg)| ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Recipe-Arduino_BeatBox.jpg)  |
 | [Make it NOW!](http://www.seeed.cc/project_detail.html?id=171)       | [Make it NOW!](http://www.seeed.cc/project_detail.html?id=187)         |
 
 
@@ -140,7 +140,7 @@ Getting Started
 #### As an Adjustable Resistor
 
 As shown below, the Grove - Slide Potentiometer can be used as a simple slide potentiometer in any MCU controlled or stand-alone project.
-![](/assets/Grove-Slide_Potentiometer/img/Sliding_justr.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Sliding_justr.JPG)
 
 ### Standalone
 
@@ -164,7 +164,7 @@ Follow these simple steps to make the slide potentiometer module function as a v
 
 1.When using the module in conjunction with an [Arduino](/Arduino "Arduino") or a [Seeeduino](/Seeeduino "Seeeduino"), use the Grove - Base Shield and connect the Grove - Slide Potentiometer module to the shield using a designated Grove Interface (e.g. Analog Port 0 as shown below).
 
-![](/assets/Grove-Slide_Potentiometer/img/Sliding2.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Sliding2.JPG)
 
 2.Connect the board to PC using USB cable.
 
@@ -193,7 +193,7 @@ void loop()
 
 4.Open the serial monitor. You should see some data from ADC.
 
-![](/assets/Grove-Slide_Potentiometer/img/Sliding_com.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Sliding_com.jpg)
 
 5.Move the lever back and forth. The serial data will change correspondingly. When the output resistance exceeds a certain preset value, the on-board indicator LED will also light up.
 
@@ -201,7 +201,7 @@ void loop()
 
 Slide Potentiometer can be an effective Human Interface Device (HID) and can be used, for example, in the radio controller of a Radio Controlled toy car. The picture below shows two Slide Potentiometers on the control panel - one to control the speed of the left wheel, and the other to control the speed of the right wheel of the toy car respectively. Now you can change the speeds of both motors and see the behavior. You will see that if you make the right wheel spin faster than the left wheel, the car will turn rightwards, and if you make the left wheel spin faster than the right wheel, the car will turn leftwards.
 
-![](/assets/Grove-Slide_Potentiometer/img/Car.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/img/Car.JPG)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -263,9 +263,9 @@ Slide Potentiometer can be an effective Human Interface Device (HID) and can be 
 Resources
 ---------
 
--   [Sliding Potentiometer Eagle File](/assets/Grove-Slide_Potentiometer/res/Sliding_Potentiometer.rar)
--   [Sliding Potentiometer in PDF](/assets/Grove-Slide_Potentiometer/res/Sliding_protentiometer_sch.pdf)
--   [Sliding Potentiometer datasheet](/assets/Grove-Slide_Potentiometer/res/Sliding_potentiometer_datasheet.pdf)
+-   [Sliding Potentiometer Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/res/Sliding_Potentiometer.rar)
+-   [Sliding Potentiometer in PDF](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/res/Sliding_protentiometer_sch.pdf)
+-   [Sliding Potentiometer datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Slide_Potentiometer/master/res/Sliding_potentiometer_datasheet.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Slide_Potentiometer -->

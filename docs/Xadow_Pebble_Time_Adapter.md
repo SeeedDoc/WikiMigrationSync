@@ -9,18 +9,18 @@ surveyurl: https://www.research.net/r/Xadow_Pebble_Time_Adapter
 sku: 113060005
 ---
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/Xadow_Pebble_Time_Adapter_wiki.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/Xadow_Pebble_Time_Adapter_wiki.png)
 
 The introduction of RePhone (Xadow) modules makes your smart watch even smarter. Based on the [new smart accessory port on the back of Pebble Time](http://developer.getpebble.com/guides/hardware/), we integrate the slim and small Rephone modules – Xadow GPS v2 and Xadow NFC v2, into Pebble’s existing ecosystem, to help improve its capability from the perspective of built-in electronics. Xadow Pebble Time Adapter enables the RePhone(Xadow) modules to talk to the Pebble Time via the Smartstrap interface using One-wire serial protocol.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Xadow-GSM-BLE-p-2560.html?cPath=84_120)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Xadow-GSM-BLE-p-2560.html?cPath=84_120)
 
 Specifications
 --------------
 
 The ‘GND’ and ‘PWR’on the back frame means you can charge your Pebble Time without taking the shell off.
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/Pebble_base_2.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/Pebble_base_2.png)
 
 Hardware Overview
 -----------------
@@ -31,7 +31,7 @@ In daily use the modules are evenly placed at each side of the watch, and interc
 
 A schematic drawing of the assembling process of the RePhone Strap Kit for Pebble Time is given below
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/Xadow_Pebble_Time_Adapter_assembly3.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/Xadow_Pebble_Time_Adapter_assembly3.png)
 
 Download the Xadow APP for Pebble Time
 --------------------------------------
@@ -42,7 +42,7 @@ The Demo App can be downloaded from <https://github.com/Seeed-Studio/Xadow_Strap
 
 [File:Xadow Pebble Time Adapter app download.JPG](/index.php?title=Special:UploadAndwpDestFile=Xadow_Pebble_Time_Adapter_app_download.JPG "File:Xadow Pebble Time Adapter app download.JPG")
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/Xadow_Pebble_Time_Adapter_APP_UI.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/Xadow_Pebble_Time_Adapter_APP_UI.png)
 
 Programming Guide
 -----------------
@@ -160,19 +160,19 @@ This app is only for demonstration of partial attribute call, please feel free t
 
 The adapter is built with LPC11U35 and running mbed software inside. The initial firmware is located at mbed.org. Please take a look at <https://developer.mbed.org/teams/Seeed/code/xadow_smartstrap_for_pebble/>
 
-The eagle schematic of the adapter can be downloaded [here:](/assets/Xadow_Pebble_Time_Adapter/res/Xadow_Pebble_Time_Adapter.rar)
+The eagle schematic of the adapter can be downloaded [here:](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/res/Xadow_Pebble_Time_Adapter.rar)
 
 After building the firmware binary, you can follow the steps below to flash the binary into the adapter.
 
 1) Hacking a USB Cable and solder the wires to the soldering pads accordingly.
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/Hack_USB_cable-03.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/Hack_USB_cable-03.png)
 
 2) Make sure the battery disconnected and plug the USB into PC.
 
 3) Short the "ISP" and "GND" pins.
 
-![](/assets/Xadow_Pebble_Time_Adapter/img/ShortISP_GND.PNG)
+![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/ShortISP_GND.PNG)
 
 4) Plug the battery on to power on the adapter
 
@@ -183,7 +183,7 @@ After building the firmware binary, you can follow the steps below to flash the 
 RePhone Community
 -----------------
 
-[![](/assets/Xadow_Pebble_Time_Adapter/img/RePhone_Community-2.png)](http://www.seeedstudio.com/forum/viewforum.php?f=71&sid=b70f8138c89becf7701260bb41faf9f4)
+[![](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/img/RePhone_Community-2.png)](http://www.seeedstudio.com/forum/viewforum.php?f=71&sid=b70f8138c89becf7701260bb41faf9f4)
 
 We’ve been looking for a better place where our backers (RePhone Users) can sit together, warmly and comfortably, have conversations about RePhone, discuss technical problems, share ideas/projects, and give feedback on the modules’ development in the future. And then here we go, the RePhone Community.
 
@@ -192,7 +192,7 @@ Now join us in the [RePhone Community](http://www.seeedstudio.com/forum/viewforu
 Resources
 ---------
 
-- [Xadow Pebble Time Adapter eagle files](/assets/Xadow_Pebble_Time_Adapter/res/Xadow_Pebble_Time_Adapter.rar)
+- [Xadow Pebble Time Adapter eagle files](https://raw.githubusercontent.com/SeeedDocument/Xadow_Pebble_Time_Adapter/master/res/Xadow_Pebble_Time_Adapter.rar)
 - [Frequently Asked Questions on RePhone (FAQs)](http://www.seeedstudio.com/forum/viewtopic.php?f=71&t=6664&p=23753)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Xadow_Pebble_Time_Adapter -->

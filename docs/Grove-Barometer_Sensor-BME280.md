@@ -4,7 +4,7 @@ category: Sensor
 bzurl: https://www.seeedstudio.com/Grove-Temp&Humi&Barometer-Sensor-(BME280)-p-2653.html
 oldwikiname: Grove_-_Barometer_Sensor(BME280)
 prodimagename: Grove-Barometer_Sensor-BMP280-700_s.jpg
-bzprodimageurl: https://statics3.seeedstudio.com/seeed/img/2016-06/R425Ianm2Rr93qmJQFUEwGx7.jpg
+bzprodimageurl: https://statics3.seeedstudio.com/seeed/master/img/2016-06/R425Ianm2Rr93qmJQFUEwGx7.jpg
 surveyurl: https://www.research.net/r/Grove-Barometer_Sensor-BME280
 sku: 101020193
 tags: plat_duino, plat_bbg, plat_linkit -->
@@ -12,7 +12,7 @@ tags: plat_duino, plat_bbg, plat_linkit -->
 
 <!-- tags: io_3v3, io_5v, grove_i2c, grove_analog, grove_digital, grove_uart, plat_duino, plat_bbg, plat_pi, plat_wio, plat_linkit -->
 
-![](/assets/Grove-Barometer_Sensor-BME280/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
 
 Grove - Barometer Sensor (BME280) is a breakout board for Bosch BMP280 high-precision, low-power combined humidity, pressure, and temperature sensor. This module can be used to measure temperature, atmospheric pressure and humidity accurately and fast. As the atmospheric pressure changes with altitude, it can also measure approximate **altitude** of a place. It can be connected to a microcontroller with I<sup>2</sup>C (integrated with Grove socket) or through SPI bus. We have also provided highly abstracted library to make this more product easier to use.
 
@@ -22,7 +22,7 @@ Using the sensor is easy. For [Seeeduino](http://www.seeedstudio.com/depot/Seeed
 
 Typical applications: Enhancement of GPS navigation, outdoor/indoor navigation, weather forecast, or any other project that requires accurate atmospheric pressure reading.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-TempHumiBarometer-Sensor-BME280-p-2653.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-TempHumiBarometer-Sensor-BME280-p-2653.html)
 
 Features
 --------
@@ -44,7 +44,7 @@ Specifications
 | Temperature sensor measurement range          | -40 - 85 ℃, with ±1.0°C accuracy                                                                  |
 | Humidity sensor measurements range            | 0% - 100% relative humidity , with ±3% accuracy                                                   |
 | Measurement modes                             | Piezo & Temperature, forced or periodic                                                           |
-| Chip                                          | BME280([datasheet](/assets/Grove-Barometer_Sensor-BME280/res/Grove-Barometer_Sensor-BME280-.pdf)) |
+| Chip                                          | BME280([datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/res/Grove-Barometer_Sensor-BME280-.pdf)) |
 | Interface Bus                                 | SPI, I<sup>2</sup>C (use either one of them)                                                      |
 | Weight                                        | 3.2 g (for breakout board), 9.3 g for whole package each piece                                    |
 | Dimensions                                    | 40 (length) × 20 (width) mm                                                                       |
@@ -66,7 +66,7 @@ Specifications
 Hardware Overview
 -----------------
 
-![](/assets/Grove-Barometer_Sensor-BME280/img/Grove-Barometer_Sensor-BME280-Components_1200_s.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/img/Grove-Barometer_Sensor-BME280-Components_1200_s.jpg)
 
 -   **SPI soldering pads**, a voltage monitoring circuit.
 -   **Interface bus selection pads** , to select I<sup>2</sup>C bus, connect the two pads by soldering (it is connected by default); to select SPI bus, cut the two pads with a sharp knife or a soldering iron.
@@ -112,9 +112,9 @@ This section shows you how to build a simple project with Arduino platform. Even
 
 Connect all parts as follows: the first picture shows connection with Seeeduino, the second one demonstrates connection with Arduino UNO:
 
-![](/assets/Grove-Barometer_Sensor-BME280/img/Grove-Barometer_Sensor-BME_280-Demo_1200_s.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/img/Grove-Barometer_Sensor-BME_280-Demo_1200_s.jpg)
 
-![](/assets/Grove-Barometer_Sensor-BME280/img/Grove-Barometer_Sensor-BME_280-Demo_Arduino_UNO_1200_s.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/img/Grove-Barometer_Sensor-BME_280-Demo_Arduino_UNO_1200_s.jpg)
 
 #### Coding Work
 
@@ -135,8 +135,8 @@ If you use Seeeduino, please also select <span style="font-weight:bold">Boards</
 Resources
 ---------
 
--   [Schematic(Eagle) file](/assets/Grove-Barometer_Sensor-BME280/res/Grove-Barometer_Sensor-BME280-v1.0_Schematics.zip)
--   [BME280 Datasheet](/assets/Grove-Barometer_Sensor-BME280/res/Grove-Barometer_Sensor-BME280-.pdf)
+-   [Schematic(Eagle) file](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/res/Grove-Barometer_Sensor-BME280-v1.0_Schematics.zip)
+-   [BME280 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/res/Grove-Barometer_Sensor-BME280-.pdf)
 -   [Library and example code](https://github.com/Seeed-Studio/Grove_BME280) on GitHub
 -   [I<sup>2</sup>C how-to for Arduino](https://www.arduino.cc/en/Reference/Wire)
 

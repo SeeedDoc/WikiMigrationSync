@@ -10,13 +10,13 @@ sku: 101020063
 tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](/assets/Grove-Loudness_Sensor/img/LoudnessSensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/img/LoudnessSensor.jpg)
 
 The Grove - Loudness Sensor is designed to detect the loudness of environmental sound. Based on amplifier LM2904 and a built-in microphone, it amplifies and filters the high frequency signal that received from the microphone, and outputs a positive envelop. This will make for Arduino’s signal acquisition. The output value depends on the level of sound input. In order to avoid unnecessary signal disturbances, input signal will go through two times’ filtering inside the module. Lastly, there is a screw potentiometer that enables manual adjustments to the output gain.
 
 Previous Version: v0.9b
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Loudness-Sensor-p-1382.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Loudness-Sensor-p-1382.html)
 
 Specifications
 --------------
@@ -39,7 +39,7 @@ This module uses the chip LM2904 to amplify the electronic signal produced by th
 
 -   As the picture on the below indicates, the Loudness sensor is connected to analog port A0 of the **Grove - Base Shield**.
 
-![](/assets/Grove-Loudness_Sensor/img/Loudness_Sensor_.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/img/Loudness_Sensor_.JPG)
 
 -   Connect Arduino/Seeeduino to PC by using a USB cable.
 -   Copy and paste code below to a new Arduino sketch.
@@ -64,17 +64,17 @@ This module uses the chip LM2904 to amplify the electronic signal produced by th
 -   Upload the code.
 -   Then open the serial monitor to observe the output results. There will be a significant change when blow to the sensor.
 
-![](/assets/Grove-Loudness_Sensor/img/Loudness_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/img/Loudness_Sensor.jpg)
 
 The blue line is the original signal from microphone and the yellow is the sig pin of Loudness Sensor. It is the original signal envelope that the module outputs. Here is the test screenshot from the oscilloscope.
 
 Blowing to the sensor:
 
-![](/assets/Grove-Loudness_Sensor/img/Loudness_Sensor_Test_1.bmp)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/img/Loudness_Sensor_Test_1.bmp)
 
 Speaking to the sensor：
 
-![](/assets/Grove-Loudness_Sensor/img/Loudness_Sensor_Test_3.bmp)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/img/Loudness_Sensor_Test_3.bmp)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -123,8 +123,8 @@ Speaking to the sensor：
 Resources
 --------
 
-- [Grove - Loudness Sensor Eagle File](/assets/Grove-Loudness_Sensor/res/Grove-Loudness_Sensor_Eagle_File.zip)
-- [Grove - loudness sensor pdf](/assets/Grove-Loudness_Sensor/res/Grove_loudness_sensor.pdf)
-- [LM2904DR Datasheet](/assets/Grove-Loudness_Sensor/res/LM2904DR.pdf)
+- [Grove - Loudness Sensor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/res/Grove-Loudness_Sensor_Eagle_File.zip)
+- [Grove - loudness sensor pdf](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/res/Grove_loudness_sensor.pdf)
+- [LM2904DR Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Loudness_Sensor/master/res/LM2904DR.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Loudness_Sensor -->

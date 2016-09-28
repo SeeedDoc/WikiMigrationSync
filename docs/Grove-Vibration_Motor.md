@@ -10,11 +10,11 @@ sku: 105020003
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](/assets/Grove-Vibration_Motor/img/Gvib.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Vibration_Motor/master/img/Gvib.jpg)
 
 This is a mini vibration motor suitable as a non-audible indicator. When the input is HIGH, the motor will vibrate just like your cell phone on silent mode.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Vibration-Motor-p-839.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Vibration-Motor-p-839.html)
 
 Version Tracker
 ---------------
@@ -96,7 +96,7 @@ To make it vibrate is just as easy as to turn on an LED. Here is an example show
 
 1. Plug it onto the Digital port 9 of Grove - Base Shield using a Grove cable.
 2. Plug the Grove - Base Shield onto Arduino.
-![](/assets/Grove-Vibration_Motor/img/IMG_0506.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Vibration_Motor/master/img/IMG_0506.jpg)
 3. Connect Arduino to PC by using a USB cable.
 4. Copy and paste code below to a new Arduino sketch, and upload it to your Arduino. Please click [here](/Upload_Code) if you do not know how to upload.
 
@@ -177,9 +177,9 @@ Now, feel the vibration of your motor!
 Resources
 ---------
 
--   [Grove - Vibration Motor Eagle File](/assets/Grove-Vibration_Motor/res/Grove-Vibration_Motor_Eagle_Files.zip)
--   [S9013 Datasheet](/assets/Grove-Vibration_Motor/res/S9013.pdf)
--   [ANDA-B1020 Datasheet](/assets/Grove-Vibration_Motor/res/ANDA-B1020_datasheet.pdf)
+-   [Grove - Vibration Motor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Vibration_Motor/master/res/Grove-Vibration_Motor_Eagle_Files.zip)
+-   [S9013 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Vibration_Motor/master/res/S9013.pdf)
+-   [ANDA-B1020 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Vibration_Motor/master/res/ANDA-B1020_datasheet.pdf)
 
 
 

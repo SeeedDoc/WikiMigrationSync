@@ -4,16 +4,16 @@ category: Arduino
 bzurl: https://www.seeedstudio.com/W5500-Ethernet-Shield-p-2433.html
 oldwikiname: W5500_Ethernet_Shield_v1.0
 prodimagename: W5500.jpg
-bzprodimageurl: https://statics3.seeedstudio.com/upload/img/20160519080008-2ccc2b.JPG
+bzprodimageurl: https://statics3.seeedstudio.com/upload/master/img/20160519080008-2ccc2b.JPG
 surveyurl: https://www.research.net/r/W5500_Ethernet_Shield_v1.0
 sku: 103030021
 ---
 
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500.jpg)
 
 The W5500 Ethernet Shield v1.0 can be used to provide your projects with internet connectivity. W5500 enables users to have the Internet connectivity in their applications just by using the single chip in which TCP/IP stack, 10 / 100 Ethernet MAC and PHY embedded. The shield also has two Grove connectors and a microSD card socket to support projects which require storing large amounts of data from Grove sensor. The RJ45 port (where the Ethernet cable is connected to) is low enough to allow you to stack more shields on top of this one if needed.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/W5500-Ethernet-Shield-p-2433.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/W5500-Ethernet-Shield-p-2433.html)
 
 Features
 --------
@@ -35,7 +35,7 @@ Features
 Hardware Overview
 -----------------
 
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500_Interface.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500_Interface.jpg)
 
 **Hardware Configuration**
 
@@ -90,14 +90,14 @@ We will show a example.This example can upload your sensor data to [Xively](http
 
 3. Connect Arduino to PC via USB cable;
 
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500_Usage.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500_Usage.jpg)
 
 ### Software
 
 1. If you haven't an account,you should Register an account in [xively](https://xively.com/signup) and login.
 
 2. Now,we can click Develop to add a device.
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500_Add_device.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500_Add_device.jpg)
 
 3. Download the library：[W5500 Ethernet Shield v1.0 Library](https://github.com/Wiznet/WIZ_Ethernet_Library).
 
@@ -106,7 +106,7 @@ We will show a example.This example can upload your sensor data to [Xively](http
 5. Restart the Arduino IDE.
 
 6. Open the example "Ethernet_Temp_SD" via the path: File --> Examples --> Ethernet --> Ethernet_Temp_SD. you need to modify some parameters.
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500_Data.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500_Data.jpg)
 
 7. Upload the program to Arduino. If you do not know how to upload code, please click [here](/Download_Arduino_and_install_Arduino_driver).
 
@@ -120,7 +120,7 @@ Now, we will show result.
 
 3. What's more, we can see information from web.
 
-![](/assets/W5500_Ethernet_Shield_v1.0/img/W5500_Serial.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/img/W5500_Serial.jpg)
 
 Isn't it very easy? You can begin your project.
 
@@ -128,8 +128,8 @@ Resources
 ---------
 
 - [W5500 Ethernet Shield Library](https://github.com/Wiznet/WIZ_Ethernet_Library)
-- [W5500 Ethernet Shield eagle files](/assets/W5500_Ethernet_Shield_v1.0/res/W5500_Ethernet_Shield_v1.0.zip)
-- [W5500 Ethernet Shield Datasheet.pdf](/assets/W5500_Ethernet_Shield_v1.0/res/W5500_datasheet_v1.0.2.pdf)
-- [W5500 Ethernet Shield Schematic.pdf](/assets/W5500_Ethernet_Shield_v1.0/res/W5500_Ethernet_Shield_v1.0.pdf)
+- [W5500 Ethernet Shield eagle files](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/res/W5500_Ethernet_Shield_v1.0.zip)
+- [W5500 Ethernet Shield Datasheet.pdf](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/res/W5500_datasheet_v1.0.2.pdf)
+- [W5500 Ethernet Shield Schematic.pdf](https://raw.githubusercontent.com/SeeedDocument/W5500_Ethernet_Shield_v1.0/master/res/W5500_Ethernet_Shield_v1.0.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0 -->

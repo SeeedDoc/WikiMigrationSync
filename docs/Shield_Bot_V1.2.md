@@ -9,7 +9,7 @@ surveyurl: https://www.research.net/r/Shield_Bot_V1.2
 sku: 110060010
 ---
 
-![](/assets/Shield_Bot_V1.2/img/Shield_Bot_Kit_Product_Image.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Shield_Bot_Kit_Product_Image.jpg)
 
 Shield Bot is an easy to use entry level robotic platform that helps you leap to Robotics. You could build a line follower robot in few minutes by using the library & sketch provided.
 
@@ -19,7 +19,7 @@ Compared to the previous version, the Shield Bot V1.2 has not changed much.
 Compatible Arduino Board is not included, get a Seeeduino or Arduino.
 </div>
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Shield-Bot-p-1380.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Shield-Bot-p-1380.html)
 
 Features
 --------
@@ -55,7 +55,7 @@ Specifications
 Hardware Overview
 -----------------
 
-![](/assets/Shield_Bot_V1.2/img/Shield_Bot_V1.2_Foto_1.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Shield_Bot_V1.2_Foto_1.JPG)
 
 -   **Power Switch**: When ShieldBot is off, The shield bot can not run. But you can use the **USB Charge Port** to charge for battery.
 -   **USB Charge Port:** USB mini-B, used for charging for battery.
@@ -75,7 +75,7 @@ Status Lights
 -------------
 
 The Shield Bot has lots of LEDs to show you whats going on!
-![](/assets/Shield_Bot_V1.2/img/Shield_bot_1.2_LEDs.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Shield_bot_1.2_LEDs.JPG)
 
 | Light Numbers      | Function                | Status                                                                                    |
 |--------------------|-------------------------|-------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ The Shield Bot has lots of LEDs to show you whats going on!
 Structure
 ---------
 
-![](/assets/Shield_Bot_V1.2/img/Position_for_seeeduino.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Position_for_seeeduino.jpg)
 The Part 1,Part 2 and Part 3 are made by our 3D printer. You can also see the Installation Position for Seeeduino board.
 
 Getting Started
@@ -101,13 +101,13 @@ Getting the Shieldbot setup is quick and easy! Follow these steps to get your ro
 
 -   First you need plug Arduino into the buttom of Shield Bot and connect it to PC using a USB cable .
 
-![](/assets/Shield_Bot_V1.2/img/ShieldBot_Programming2.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/ShieldBot_Programming2.JPG)
 
 -   You would better turn Power Switch towards *OFF* before upload the code. Otherwise, It runs when you are not attention and may scare you.
 
 We've built a nice library for the Shield Bot with useful functions to control your Shield Bot and a number of examples so you can get it up and running in no time!
 
--   Download the library from [here](/assets/Shield_Bot_V1.2/res/Shield_Bot_1.2_Library.zip) and Unzip.
+-   Download the library from [here](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/Shield_Bot_1.2_Library.zip) and Unzip.
 -   Put ShieldBot file into the libraries file of Arduino IDE by the path: ..\arduino-1.0.1\libraries.
 
 ### Install the battery
@@ -141,7 +141,7 @@ Make sure the dip switches are turned ON, and none of your shields are using pin
 -   Reupload the new demo:LineFollowingSimple after connect Seeeduino to PC using the USB cable.
 -   After completing the upload, put the Shield Bot in the pre-built black runway.
 
-![](/assets/Shield_Bot_V1.2/img/Shield_Bot_Line_Finder.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Shield_Bot_Line_Finder.jpg)
 
 -   You can adjust the IR Line Finder Potentiometer to change the Line Finders Sensitivity. When Clockwise adjustment, the Sensitivity increases, Counterclockwise adjustment,the Sensitivity decreases. Have a try!
 
@@ -151,25 +151,25 @@ Make sure the dip switches are turned ON, and none of your shields are using pin
 
 This is a incredibly simple, working clock. The wheels turn one forward and one reverse, spinning the reflectance sensors around the wheel indicating the minutes. Upon the hour mark the bot drives forward and advances the linear slide to indicate hours. Extra credit for the free linear rails made out of laser cut scrap and cellophane tape!
 
-![](/assets/Shield_Bot_V1.2/img/Team1_2.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Team1_2.jpg)
 
 **2. Shot.Bot**
 
 It was a really gorgeous device that many people in the event remarked they'd like to buy. The line following robot would take orders then drive the track to the dispenser where it would use a servo to actuate an amount of either of 3 beverages, before driving back to the patron.
 
-![](/assets/Shield_Bot_V1.2/img/Team7_2.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Team7_2.jpg)
 
 **3. Simon**
 
 This is a beautifully designed, though not quite finished, 2 player heads up simon clone. The bot plays out a tune with lights and you use the laser cut puck, complete with braille so even the sight impaired could play, to mark the tones on the whiteboard. The Shieldbot then drives forward and uses the sensors to see if you've marked correctly. You want to get more right answers than your opponent so the bot drives towards their goal!
 
-![](/assets/Shield_Bot_V1.2/img/Team6_2.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Team6_2.jpg)
 
 **4. HackPHX-Plotter**
 
 The device is very close to knocking off the Der Kritzler 2d drawing machine which is a vertical x,y table with makerslide and had the ingenious idea of bolting the tires of the Shield bot down such that when it was put in reverse, it lifted the pen off the drawing surface :) They even worked with the designer to come up with a PC side user interface!
 
-![](/assets/Shield_Bot_V1.2/img/Team8.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/Team8.jpg)
 
 Reference
 ---------
@@ -250,18 +250,18 @@ Shieldbot shieldbot = Shieldbot(); //decares a Shieldbot object
 
 *Returns*: LOW if the surface reflects (ex. white) and HIGH if the surface doesn't reflect anything (ex BLACK)
 
-![](/assets/Shield_Bot_V1.2/img/ShieldBot_driveLibrary.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/img/ShieldBot_driveLibrary.png)
 
 Resources
 ---------
 
--   [Shield Bot 1.2 Library](/assets/Shield_Bot_V1.2/res/Shield_Bot_1.2_Library.zip)
--   [Shield Bot 1.2 Eagle Files](/assets/Shield_Bot_V1.2/res/Shield_Bot_1.2_eagle_files.zip)
--   [ShieldBot 1.2 Schematic](/assets/Shield_Bot_V1.2/res/Shield_Bot_v1.2.pdf)
--   [IR Reflectance Sensor RPR-220 Datasheet](/assets/Shield_Bot_V1.2/res/RPR-220.pdf)
--   [Step up regulator ISL97516 Datasheet](/assets/Shield_Bot_V1.2/res/ISL97516.pdf)
--   [Li-ion charger BQ2057 Datasheet](/assets/Shield_Bot_V1.2/res/BQ2057.pdf)
--   [H-Bridge Motor Driver L298 Datasheet](/assets/Shield_Bot_V1.2/res/L298.pdf)
+-   [Shield Bot 1.2 Library](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/Shield_Bot_1.2_Library.zip)
+-   [Shield Bot 1.2 Eagle Files](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/Shield_Bot_1.2_eagle_files.zip)
+-   [ShieldBot 1.2 Schematic](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/Shield_Bot_v1.2.pdf)
+-   [IR Reflectance Sensor RPR-220 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/RPR-220.pdf)
+-   [Step up regulator ISL97516 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/ISL97516.pdf)
+-   [Li-ion charger BQ2057 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/BQ2057.pdf)
+-   [H-Bridge Motor Driver L298 Datasheet](https://raw.githubusercontent.com/SeeedDocument/Shield_Bot_V1.2/master/res/L298.pdf)
 -   [Op-Amp LMV358 Datasheet](http://www.ti.com/product/lmv358)
 
 

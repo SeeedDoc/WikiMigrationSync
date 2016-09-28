@@ -10,11 +10,11 @@ sku: 101020016
 tags: grove_digital, io_3v3, io_5v, plat_duino
 ---
 
-![](/assets/Grove-Infrared_Receiver/img/Grove-Infrared_Receiver.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Receiver/master/img/Grove-Infrared_Receiver.jpg)
 
 The Infrared Receiver is used to receive infrared signals and also used for remote control detection. There is an IR detector on the Infrared Receiver which is used to get the infrared light emitted by the Infrared Emitter. The IR detector have a demodulator inside that looks for modulated IR at 38 KHz. The Infrared Receiver can receive signals well within 10 meters. If more than 10 meters , the receiver may not get the signals. We often use the two Groves-the Infrared Receiver and the [Grove - Infrared Emitter](/Grove-Infrared_Emitter "Grove - Infrared Emitter") to work together.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Receiver-p-994.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Receiver-p-994.html)
 
 
 Specifications
@@ -138,7 +138,7 @@ void loop()
 -   Using IR remote control sending data<font color="Blue">(This example uses MIDEA Company's IR remote control of fans, and press the open/close key.)</font>.
 -   You can see the information below.
 
-![](/assets/Grove-Infrared_Receiver/img/Data：IR_remote_control_of_fans.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Receiver/master/img/Data：IR_remote_control_of_fans.jpg)
 
 #### Emitter
 
@@ -205,7 +205,7 @@ void loop()
 Resources
 ---------
 
--   [Grove - Infrared Receiver eagle files](/assets/Grove-Infrared_Receiver/res/Grove-Infrared_Receiver_eagle_files.zip)
+-   [Grove - Infrared Receiver eagle files](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Receiver/master/res/Grove-Infrared_Receiver_eagle_files.zip)
 -   [IR Send and Receiver Library](https://github.com/Seeed-Studio/IRSendRev)
 -   [IR Receive Library for LinkIt ONE](https://github.com/Seeed-Studio/IR_Recv_LinkIt_ONE)
 -   [TSOP282 Datasheet](http://www.vishay.com/docs/82491/tsop382.pdf)

@@ -13,10 +13,10 @@ tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_wio
 <table>
     <tr>
         <td>
-            <img src="/assets/Grove-Encoder/img/Encoder2.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/img/Encoder2.jpg">
         </td>
         <td>
-            <img src="/assets/Grove-Encoder/img/Encoder_back.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/img/Encoder_back.jpg">
         </td>
     </tr>
 </table>
@@ -25,7 +25,7 @@ tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_wio
 This module is an incremental rotary encoder. It encodes the rotation signal from the axis and output the signal by electronic pulse. The Grove – Encoder is one of the Grove series and has a standard Grove interface.
 When you need to add a rotary knob to your project, for example a volume knob for a speaker, a selection panel or a digital input, this will be your first choice.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Encoder-p-1352.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-Encoder-p-1352.html)
 
 Features
 --------
@@ -119,13 +119,13 @@ Platforms Supported
 Getting Started
 ---------------
 
-This Grove-Encoder is very easy to use with the [Encoder Lib](/assets/Grove-Encoder/res/Encoder.zip) designed by seeedstudio. Simply connect this module to the D2 connector of Base Shield and you can start using. The following is a introduction of how to make a [Circular LED bar](http://www.seeedstudio.com/wish/circular-led-bar-p1572) (the idea came from [seeedstudio wish](http://www.seeedstudio.com/wish/)）.
+This Grove-Encoder is very easy to use with the [Encoder Lib](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/Encoder.zip) designed by seeedstudio. Simply connect this module to the D2 connector of Base Shield and you can start using. The following is a introduction of how to make a [Circular LED bar](http://www.seeedstudio.com/wish/circular-led-bar-p1572) (the idea came from [seeedstudio wish](http://www.seeedstudio.com/wish/)）.
 
 -   This Circular LED bar consists of an Encoder and a [Grove-CircularLED](/Grove-Circular_LED) module. Connect the two modules to Base shield as the following picture:
 
-![](/assets/Grove-Encoder/img/Cirhard.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/img/Cirhard.jpg)
 
--   In the project, the [TimeOne Lib](/assets/Grove-Encoder/res/TimerOne.zip) and [Encoder Lib](/assets/Grove-Encoder/res/Encoder.zip) and [CircularLED Library](/assets/Grove-Encoder/res/CircularLED.zip) are needed. Download all the librarys and install them to your Arduino IDE.
+-   In the project, the [TimeOne Lib](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/TimerOne.zip) and [Encoder Lib](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/Encoder.zip) and [CircularLED Library](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/CircularLED.zip) are needed. Download all the librarys and install them to your Arduino IDE.
 
 -   Restart the Arduino IDE and open the example by the path: File->Examples->Encoder->EncodeCircuiBar.
 
@@ -178,7 +178,7 @@ void SenttocircularBar(int index)
 
 -   Upload it to your Arduino/Seeeduino, please refer to [here](/Upload_Code) to learn how to upload sketches. You can see:
 
-![](/assets/Grove-Encoder/img/EncoderAndCircular_LED.gif)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/img/EncoderAndCircular_LED.gif)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -188,10 +188,10 @@ It is able to generate another signal when it is being pressed down. However due
 Resources
 ---------
 
--   [Encoder Spec](/assets/Grove-Encoder/res/Encoder_Spe.zip)
+-   [Encoder Spec](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/Encoder_Spe.zip)
 -   [Demo in Arduino forum](http://www.arduino.cc/playground/Main/RotaryEncoders)
--   [TimeOne Lib](/assets/Grove-Encoder/res/TimerOne.zip)
--   [Encoder Lib](/assets/Grove-Encoder/res/Encoder.zip)
--   [Grove-Encoder Eagle files](/assets/Grove-Encoder/res/Grove-Encoder_eagle_files.zip)
+-   [TimeOne Lib](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/TimerOne.zip)
+-   [Encoder Lib](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/Encoder.zip)
+-   [Grove-Encoder Eagle files](https://raw.githubusercontent.com/SeeedDocument/Grove-Encoder/master/res/Grove-Encoder_eagle_files.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Encoder -->

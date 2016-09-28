@@ -10,21 +10,21 @@ sku: 101020017
 tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg, plat_wio
 ---
 
-![](/assets/Grove-Rotary_Angle_Sensor/img/Grove-Rotary_Angle_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/Grove-Rotary_Angle_Sensor.jpg)
 
 The rotary angle sensor produces analog output between 0 and Vcc (5V DC with Seeeduino) on its D1 connector. The D2 connector is not used. The angular range is 300 degrees with a linear change in value. The resistance value is 10k ohms, perfect for Arduino use. This may also be known as a “potentiometer ”.
 
-[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Rotary-Angle-Sensor-p-770.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Rotary-Angle-Sensor-p-770.html)
 
 There is another product - [Grove - Rotary Angle Sensor(P)](http://www.seeedstudio.com/depot/grove-rotary-angle-sensorp-p-1242.html). What does “P” mean? “P” is for “panel mount” in this product.It is the sister version of Grove - Rotary Angle Sensor. They are identical except the Grove connecter is moved to the back so that you can easily use it as a neat and wire-free human interface device.
 
 <table>
     <tr>
         <td>
-            <img src="/assets/Grove-Rotary_Angle_Sensor/img/Grove-Rotary_Angle_Sensor-P-.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/Grove-Rotary_Angle_Sensor-P-.jpg">
         </td>
         <td>
-            <img src="/assets/Grove-Rotary_Angle_Sensor/img/GroveRotaryP_02.jpg">
+            <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/GroveRotaryP_02.jpg">
         </td>
     </tr>
 </table>
@@ -116,7 +116,7 @@ The following sketch demonstrates a simple application of using the rotary angle
 
 -   As the picture on the below indicates, the Rotary Angle Sensor sensor is connected to Analog port A0 of the Grove - Base Shield and the LED is connected to digital port 2.
 
-![](/assets/Grove-Rotary_Angle_Sensor/img/Analog_Input_v1.0b.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/Analog_Input_v1.0b.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -187,7 +187,7 @@ The following sketch demonstrates a simple application of using the rotary angle
 
 This example shows how to read the analog output coming from the Grove potentiometer module. We will be combining a few Grove modules in this example! By turning the potentiometer knob, we will display the analog reading value on the Grove 4-digital display.
 
-![](/assets/Grove-Rotary_Angle_Sensor/img/Angle_sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/Angle_sensor.jpg)
 
 ```
     /*
@@ -251,7 +251,7 @@ This example shows how to read the analog output coming from the Grove potentiom
 
 This example uses ADC channel 0 to get the value of the rotary angle.Then gives PWM output to change brightness of LED.
 
-![](/assets/Grove-Rotary_Angle_Sensor/img/GrovePiPlus_rotary_angle_sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/img/GrovePiPlus_rotary_angle_sensor.jpg)
 
 ```
     # GrovePi + Grove Rotary Angle Sensor (Potentiometer) + Grove LED
@@ -318,8 +318,8 @@ This example uses ADC channel 0 to get the value of the rotary angle.Then gives 
 Resources
 ---------
 
--   [Grove-Rotary Angle v1.2 Sensor Eagle File](/assets/Grove-Rotary_Angle_Sensor/res/Grove-Rotary_Angle_Sensor_v1.2.zip)
--   [Grove-Rotary Angle Sensor Eagle File](/assets/Grove-Rotary_Angle_Sensor/res/Grove-Rotary_Angle_Sensor_Eagle_File.zip)
+-   [Grove-Rotary Angle v1.2 Sensor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/res/Grove-Rotary_Angle_Sensor_v1.2.zip)
+-   [Grove-Rotary Angle Sensor Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Rotary_Angle_Sensor/master/res/Grove-Rotary_Angle_Sensor_Eagle_File.zip)
 -   [Github repository for Rotary Angle Sensor](https://github.com/Seeed-Studio/Grove_Rotary_Angle_Sensor)
 
 

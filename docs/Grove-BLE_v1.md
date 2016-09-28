@@ -11,12 +11,12 @@ tags: grove_uart, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
 <center>
-![](/assets/Grove-BLE_v1/img/Grove-BLE_front.png)![](/assets/Grove-BLE_v1/img/Grove-BLE_Back.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/img/Grove-BLE_front.png)![](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/img/Grove-BLE_Back.png)
 </center>
 
 Grove - BLE v1 (Grove - Bluetooth Low Energy v1) uses a Low Energy Bluetooth module -- **HM-11**, based on TI CC2540 chip, which has AT command support. As a Grove product it's convenient to use Grove - BLE with Arduino board via Base Shield.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-BLE-p-1929.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-BLE-p-1929.html)
 
 Parameters
 ----------
@@ -193,7 +193,7 @@ More AT commands please refer to the Datasheet of BLE module.
 SoftwareSerial Communication
 ----------------------------
 
-![](/assets/Grove-BLE_v1/img/Grove-BLE_connection1.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/img/Grove-BLE_connection1.png)
 
 Grove - BLE can be used as a master or slave, you can use the one via different demos.**If you are going to use the following SoftwareSerial program, please refer to the way of connection in the previous pic. TX-->D2, RX-->D3.**
 
@@ -290,8 +290,8 @@ Open Arduino IDE, copy the following program and upload it onto the Arduino/Seee
 Resources
 ---------
 
-- [BLE_apk_for_Android](/assets/Grove-BLE_v1/res/HMBLEComAssistant.rar)
-- [Datasheet of BLE module](/assets/Grove-BLE_v1/res/Bluetooth4_en.pdf)
-- [Schematic](/assets/Grove-BLE_v1/res/Grove-BLE_v1.0.zip)
+- [BLE_apk_for_Android](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/res/HMBLEComAssistant.rar)
+- [Datasheet of BLE module](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/res/Bluetooth4_en.pdf)
+- [Schematic](https://raw.githubusercontent.com/SeeedDocument/Grove-BLE_v1/master/res/Grove-BLE_v1.0.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_BLE_v1 -->

@@ -10,11 +10,11 @@ sku: 101020026
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_pi, plat_wio
 ---
 
-![](/assets/Grove-Infrared_Emitter/img/Grove-Infrared_Emitter.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Emitter/master/img/Grove-Infrared_Emitter.jpg)
 
 The Infrared Emitter is used to transmit infrared signals through an infrared LED, while there is an **Infrared receiver** to get the signals on the other side. An infrared LED is like any other LED, with its color centered around 940nm. We can not only use the emitter to transmit data or commands, but also to emulate remotes to control your home appliance using an Arduino. The Infrared Emitter can transmit signals reliable up to 10 meters. Beyond 10 meters, the receiver may not get the signals.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Emitter-p-993.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Infrared-Emitter-p-993.html)
 
 
 Specifications
@@ -34,7 +34,7 @@ The Grove - Infrared Emitter can send data while Grove - Infrared Receiver will 
 -   Connect the Grove - Infrared Emitter to D3.
 -   Connect the Grove - Infrared Receiver to D2.
 
-![](/assets/Grove-Infrared_Emitter/img/IR_SendRev.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Emitter/master/img/IR_SendRev.jpg)
 
 With Arduino/Seeeduino
 ----------------------
@@ -145,7 +145,7 @@ void loop()
 -   Using IR remote control sending data<font color="Blue">(This example uses MIDEA Company's IR remote control of fans, and press the open/close key.)</font>.
 -   You can see the information below.
 
-![](/assets/Grove-Infrared_Emitter/img/Data：IR_remote_control_of_fans.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Emitter/master/img/Data：IR_remote_control_of_fans.jpg)
 
 #### Emitter
 
@@ -212,7 +212,7 @@ void loop()
 Resources
 ---------
 
--   [Grove-Infrared Emitter eagle files](/assets/Grove-Infrared_Emitter/res/Grove-Infrared_Emitter_eagle_files.zip)
+-   [Grove-Infrared Emitter eagle files](https://raw.githubusercontent.com/SeeedDocument/Grove-Infrared_Emitter/master/res/Grove-Infrared_Emitter_eagle_files.zip)
 -   [IR Send and Receiver Library](https://github.com/Seeed-Studio/IRSendRev)
 -   [TSAL6200 Datasheet](http://www.vishay.com/docs/81010/tsal6200.pdf)
 

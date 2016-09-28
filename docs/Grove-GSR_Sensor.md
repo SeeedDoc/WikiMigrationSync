@@ -10,12 +10,12 @@ sku: 101020052
 tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](/assets/Grove-GSR_Sensor/img/GSR.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/GSR.jpg)
 
 GSR, standing for galvanic skin response, is a method of measuring the electrical conductance of the skin. Strong emotion can cause stimulus to your sympathetic nervous system, resulting more sweat being secreted by the sweat glands. Grove – GSR allows you to spot such strong emotions by simple attaching two electrodes to two fingers on one hand, an interesting gear to create emotion related projects, like sleep quality monitor.
 
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-GSR-sensor-p-1614.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-GSR-sensor-p-1614.html)
 
 Specifications
 --------------
@@ -31,7 +31,7 @@ Demonstration
 -------------
 
 In the following we are showing you how to use the Grove - GSR.
-Connect Grove - GSR Sensor to the analog port A2 of Grove-Basic Shield and Grove - Buzzer to digital port 3. ![](/assets/Grove-GSR_Sensor/img/GSR_Connecting.JPG)
+Connect Grove - GSR Sensor to the analog port A2 of Grove-Basic Shield and Grove - Buzzer to digital port 3. ![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/GSR_Connecting.JPG)
 Copy and paste the code below to a new Arduino sketch and upload it to Arduino.
 
     const int BUZZER=3;
@@ -78,25 +78,25 @@ Copy and paste the code below to a new Arduino sketch and upload it to Arduino.
 
 Wear the finger sheath and relax, Now open serial monitor, we can see:
 
-![](/assets/Grove-GSR_Sensor/img/GSR_Result_Data.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/GSR_Result_Data.jpg)
 
 Then take a deep breath. The buzzer should buzz now. And an obvious change in the output value should be observed.
 The below is a graphs which is created in Excel using the data above. X axis represents time. and Y axis GSR data.
 
-![](/assets/Grove-GSR_Sensor/img/Result_Chart.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/Result_Chart.jpg)
 
 Reference
 ---------
 
-There are several graphs which are created in excel using GSR data.You can open the [GSR sensor data.xls](/assets/Grove-GSR_Sensor/res/GSR_sensor_data.xls) to see the detail data.
-![](/assets/Grove-GSR_Sensor/img/Reference_graphs1.png)![](/assets/Grove-GSR_Sensor/img/Reference_graphs3.png)
-![](/assets/Grove-GSR_Sensor/img/Reference_graphs2.png)![](/assets/Grove-GSR_Sensor/img/Reference_graphs4.png)
+There are several graphs which are created in excel using GSR data.You can open the [GSR sensor data.xls](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/res/GSR_sensor_data.xls) to see the detail data.
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/Reference_graphs1.png)![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/Reference_graphs3.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/Reference_graphs2.png)![](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/img/Reference_graphs4.png)
 
 Resources
 ---------
 
-- [Grove - GSR Eagle File](/assets/Grove-GSR_Sensor/res/Grove-GSR_Eagle_File.zip)
-- [LM324 datasheet](/assets/Grove-GSR_Sensor/res/Lm324.pdf)
-- [GSR sensor data.xls](/assets/Grove-GSR_Sensor/res/GSR_sensor_data.xls "File:GSR sensor data.xls")
+- [Grove - GSR Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/res/Grove-GSR_Eagle_File.zip)
+- [LM324 datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/res/Lm324.pdf)
+- [GSR sensor data.xls](https://raw.githubusercontent.com/SeeedDocument/Grove-GSR_Sensor/master/res/GSR_sensor_data.xls "File:GSR sensor data.xls")
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_GSR_Sensor -->

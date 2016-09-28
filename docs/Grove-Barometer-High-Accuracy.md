@@ -10,11 +10,11 @@ sku: 101020068
 tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](/assets/Grove-Barometer-High-Accuracy/img/Grove-Barometer-High-Accuracy.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/img/Grove-Barometer-High-Accuracy.jpg)
 
 This Grove - Barometer (High-Accuracy) Sensor features a HP206C high-accuracy chip to detect barometric pressure ,Altimeter and temperature. It can widely measure pressure ranging from 300mbar~1200mbar, with a super high accuracy of 0.01mbar(0.1m) in ultra-high resolution mode.The chip only accepts 1.8V to 3.6V input voltage. However, with outer circuit added, this module becomes compatible with 3.3V and 5V. Therefore, it can be used on Arduino/Seeeduino or Seeeduino Stalker without modification.It is designed to be connected directly to a micro-controller via the I2C bus.
 
-[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-(High-Accuracy)-p-1865.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/common/master/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Barometer-(High-Accuracy)-p-1865.html)
 
 
 Features
@@ -168,7 +168,7 @@ Barometric condition is one of the criteria used to predict coming change in wea
 
 1.Connect it to I2C port of Seeeduino or Grove - Base Shield via a Grove cable. And connect Arduino to PC via a USB cable.
 
-![](/assets/Grove-Barometer-High-Accuracy/img/Grove-Barometer_Sensor_hard.JPG)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/img/Grove-Barometer_Sensor_hard.JPG)
 
 2.Download the library [Grove_Barometer_HP20x](https://github.com/Seeed-Studio/Grove_Barometer_HP20x);Unzip it into the libraries file of Arduino IDE by the path: ..\\arduino-1.0.1\\libraries.
 
@@ -261,17 +261,17 @@ Barometric condition is one of the criteria used to predict coming change in wea
 
 4.Open the serial monitor to receive the sensor's data including temperature, barometric pressure value, relative atmosphere pressure and altitude.
 
-![](/assets/Grove-Barometer-High-Accuracy/img/Barometer_Sensor.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/img/Barometer_Sensor.jpg)
 
 The following is a reference graph plotting out the relationship between altitude above sea level and barometric pressure.
 
-![](/assets/Grove-Barometer-High-Accuracy/img/Pressure_and_Altitude.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/img/Pressure_and_Altitude.jpg)
 
 Resources
 ---------
 
--   [Grove_Barometer_High-Accuracy_v1.0_sch_pcb Eagle File](/assets/Grove-Barometer-High-Accuracy/res/Grove_Barometer_High-Accuracy_v1.0_sch_pcb.zip)
--   [HP206C Datasheet](/assets/Grove-Barometer-High-Accuracy/res/HP206C_Datasheet.pdf)
+-   [Grove_Barometer_High-Accuracy_v1.0_sch_pcb Eagle File](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/res/Grove_Barometer_High-Accuracy_v1.0_sch_pcb.zip)
+-   [HP206C Datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/res/HP206C_Datasheet.pdf)
 -   [Github repository for Grove\_Barometer\_HP20x](https://github.com/Seeed-Studio/Grove_Barometer_HP20x)
 
 
