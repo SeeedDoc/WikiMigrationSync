@@ -7,13 +7,14 @@ prodimagename: Grove-TemperatureAndHumidity_Sensor-HDC1000-p1.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/seeed/img/2016-09/MAVhqWeEjBMyo5O1o2MfVA4S.jpg
 surveyurl: https://www.research.net/r/Grove-TemperatureAndHumidity_Sensor-HDC1000
 sku: 101020087
+tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p1.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p1.jpg)
 
 Grove - Temperature&Humidity Sensor (HDC1000) utilizes a HDC1000 sensor.HDC1000 was designed by Texas Instruments.It is a digital humidity sensor with integrated temperature sensor that provides excellent measurement accuracy at very low power.The device measures humidity based on a novel capacitive sensor.The humidity and temperature sensors are factory calibrated.The innovative WLCSP (Wafer Level Chip Scale Package) simplifies board design with the use of an ultra-compact package. The sensing element of the HDC1000 is placed on the bottom part of the device, which makes the HDC1000 more robust against dirt, dust, and other environmental contaminants. The HDC1000 is functional within the full –40°C to +125°C temperature range,and 0-100% RH range.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-TemperatureHumidity-Sensor-HDC1000-p-2535.html?cPath=25_125)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Grove-TemperatureHumidity-Sensor-HDC1000-p-2535.html?cPath=25_125)
 
 Features
 --------
@@ -176,10 +177,13 @@ mm
 </tr>
 </table>
 
+Platforms Supported
+-------------------
+
 Hardware Overview
 -----------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p3.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p3.jpg)
 
 1.  Grove connector.
 2.  Ready：Ready for a conversion.
@@ -201,7 +205,7 @@ Here is how to use Grove - Temperature&Humidity Sensor (HDC1000) with Seeeduino 
 
 2.  Hardware linking is very easy.Grove - Temperature&Humidity Sensor (HDC1000) communicate over I2C. Connecting Grove - Temperature&Humidity Sensor (HDC1000) and Seeeduino Lotus v1.0 by Grove cable, as shown below.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p2.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p2.jpg)
 
 **Software Part**
 
@@ -213,7 +217,7 @@ Here is how to use Grove - Temperature&Humidity Sensor (HDC1000) with Seeeduino 
 
 **We can get the temperature and relative humidity information from the serial terminal**
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p4.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-p4.jpg)
 
 ### With Launchpad
 
@@ -226,11 +230,11 @@ Here is how to use Grove - Temperature&Humidity Sensor (HDC1000) with Seeeduino 
 
 #### Hardware connections
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-demo_connections-with_launchpad-2400_s.JPG)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-demo_connections-with_launchpad-2400_s.JPG)
 
 #### Download code and flash it to Launchpad
 
-1. Download the [demo code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/HDC1000-HDC1000_energia.zip).
+1. Download the [demo code](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/HDC1000-HDC1000_energia.zip).
 
     <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -241,15 +245,15 @@ You have to copy the file <span style="font-style:italic">readTempHumi.ino</span
 
 3. Open *Serial Monitor* (**Tool**->**Serial Monitor**) to view data detected.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-demo_result-with_launchpad-600.png)
+![](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/img/Grove-TemperatureAndHumidity_Sensor-HDC1000-demo_result-with_launchpad-600.png)
 
 Resources
 ---------
 
-- [Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch pcb.zip](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/Grove-TemperatureAndHumidity_Sensor-HDC1000-v1.0_sch_pcb.zip "File:Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch pcb.zip")
-- [Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch.pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/Grove-TemperatureAndHumidity_Sensor-HDC1000-v1.0_sch.pdf "File:Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch.pdf")
+- [Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch pcb.zip](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/Grove-TemperatureAndHumidity_Sensor-HDC1000-v1.0_sch_pcb.zip "File:Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch pcb.zip")
+- [Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch.pdf](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/Grove-TemperatureAndHumidity_Sensor-HDC1000-v1.0_sch.pdf "File:Grove - Temperature&Humidity Sensor(HDC1000) v1.0 sch.pdf")
 - [Demo code](https://github.com/Seeed-Studio/HDC1000)
-- [HDC1000\_DataSheet.pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/HDC1000.pdf)
+- [HDC1000\_DataSheet.pdf](/assets/Grove-TemperatureAndHumidity_Sensor-HDC1000/res/HDC1000.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Temperature&Humidity_Sensor_(HDC1000) -->

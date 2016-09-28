@@ -7,13 +7,14 @@ prodimagename: Grove-I2C_FM_Receiver_Photo.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove I2C FM.jpg
 surveyurl: https://www.research.net/r/Grove-I2C_FM_Receiver
 sku: 107020006
+tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_Photo.jpg)
+![](/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_Photo.jpg)
 
 Grove - I2C FM Receiver is a wideband FM receiver module, this module is based on RDA5807M. The RDA5807M series is the newest generation single-chip broadcast FM stereo radio tuner with fully integrated synthesizer. The RDA5807M series has a powerful low-IF digital audio processor. The Grove - I2C FM Receiver has a headset jack, so it can connect to earphones or audio.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-I2C-FM-Receiver-p-1953.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-I2C-FM-Receiver-p-1953.html)
 
 Version Tracker
 ---------------
@@ -35,6 +36,9 @@ Features
 -   Digital auto gain control
 -   Input voltage: 3.3V - 5V
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -50,7 +54,7 @@ Part list：
 -   Grove - Rotary
 -   Earphone
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_Usage.jpg)
+![](/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_Usage.jpg)
 
 ### Software Part
 
@@ -61,15 +65,15 @@ Part list：
 
 You can see Center Frequency:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_com.jpg)
+![](/assets/Grove-I2C_FM_Receiver/img/Grove-I2C_FM_Receiver_com.jpg)
 
 Resources
 ---------
 
--   [Grove - I2C FM Receiver v1.0 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.0.zip)
--   [v1.0 Schematic in pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.1_PDF.pdf)
--   [Datasheet of RDA5807M](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/res/RDA5807M_datasheet_v1.1.pdf)
--   [Grove - I2C FM Receiver v1.1 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.1_Eagle.zip)
+-   [Grove - I2C FM Receiver v1.0 Eagle File](/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.0.zip)
+-   [v1.0 Schematic in pdf](/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.1_PDF.pdf)
+-   [Datasheet of RDA5807M](/assets/Grove-I2C_FM_Receiver/res/RDA5807M_datasheet_v1.1.pdf)
+-   [Grove - I2C FM Receiver v1.1 Eagle File](/assets/Grove-I2C_FM_Receiver/res/Grove_I2C_FM_Receiver_v1.1_Eagle.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_I2C_FM_Receiver -->

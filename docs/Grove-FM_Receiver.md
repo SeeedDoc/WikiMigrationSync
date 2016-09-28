@@ -7,13 +7,14 @@ prodimagename: Grove_FM_Receiver_Photo.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/Grove FM Receiver.jpg
 surveyurl: https://www.research.net/r/Grove-FM_Receiver
 sku: 107020005
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/img/Grove_FM_Receiver_Photo.jpg)
+![](/assets/Grove-FM_Receiver/img/Grove_FM_Receiver_Photo.jpg)
 
 Grove - FM Receiver is a wideband FM receiver module, this module is base on SX6119, it offers true single-chip voice FM receiver, which is built-in amplifier, VCO, filter and demodulator. The multifunction button provides greater convenience for users to control.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-FM-Receiver-p-1841.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-FM-Receiver-p-1841.html)
 
 Features
 --------
@@ -25,10 +26,13 @@ Features
 -   LED Indicator
 -   Headsets interface
 
+Platforms Supported
+-------------------
+
 Hardware Overview
 ------------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/img/Grove-FM_v2.0_Top.jpg)
+![](/assets/Grove-FM_Receiver/img/Grove-FM_v2.0_Top.jpg)
 
 -   ①：Headsets interface:It can drive 16 ohm or 32 ohm earphone or audio。
 -   ②：Multifunction button ：Change volume and select channel
@@ -58,13 +62,13 @@ Usage
  - Mini Cable
  - Audio
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/img/Grove-FM_Receiver_Photo.jpg)
+![](/assets/Grove-FM_Receiver/img/Grove-FM_Receiver_Photo.jpg)
 
 Resources
 --------
 
-- [Grove - FM Receiver Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_eagle.zip)
-- [Schematic in pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_sch_pdf.pdf)
-- [Datasheet of SX6119](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-FM_Receiver/res/SX6119_收音IC_datasheet.pdf)
+- [Grove - FM Receiver Eagle File](/assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_eagle.zip)
+- [Schematic in pdf](/assets/Grove-FM_Receiver/res/Grove-FM_Receiver_v1.0_sch_pdf.pdf)
+- [Datasheet of SX6119](/assets/Grove-FM_Receiver/res/SX6119_收音IC_datasheet.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_FM_Receiver -->

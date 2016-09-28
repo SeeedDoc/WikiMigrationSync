@@ -7,13 +7,14 @@ prodimagename: Twig-Electricity-Sensor.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/P2130726.jpg
 surveyurl: https://www.research.net/r/Grove-Electricity_Sensor
 sku: 101020027
+tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electricity_Sensor/img/Twig-Electricity-Sensor.jpg)
+![](/assets/Grove-Electricity_Sensor/img/Twig-Electricity-Sensor.jpg)
 
 The Electricity sensor module is a member of Grove. It is based on the TA12-200 current transformer which can transform the large AC into small amplitude. You can use it to test large alternating current up to 5A.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Electricity-Sensor-p-777.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Electricity-Sensor-p-777.html)
 
 Features
 --------
@@ -56,17 +57,20 @@ Specification
 | Operating Temperature | -55     | -        | 85      | ℃         |
 | Dielectric strength   | -       | 6        | -       | KVAC/1min |
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
-### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino")
+### With [Arduino](/Arduino "Arduino")
 
 The following sketch demonstrates a simple application of measuring the amplitude of the alternating voltage. The SIG pin will output a alternating voltage based on the alternating current being measured. You can measure the value using ADC.
 
 -   Connect the module to the analog A0 of [Grove - Base board](http://www.seeedstudio.com/depot/grove-base-shield-p-754.html?cPath=132_134).
 -   Put the alternating current wire through the hole of the current transformer.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electricity_Sensor/img/Grove-Electricity_Sensor_hardware.jpg)
+![](/assets/Grove-Electricity_Sensor/img/Grove-Electricity_Sensor_hardware.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -134,7 +138,7 @@ The minimum effective current that can be sensed by the code can be calculated u
 
 -   Open the serial monitor, The results is as follows：
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electricity_Sensor/img/Elecricity_Sensor.jpg)
+![](/assets/Grove-Electricity_Sensor/img/Elecricity_Sensor.jpg)
 
 ### With [Raspberry Pi](/GrovePiPlus "GrovePi+")
 
@@ -198,8 +202,8 @@ The minimum effective current that can be sensed by the code can be calculated u
 Resources
 ---------
 
--   [Grove -Electricity Sensor Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electricity_Sensor/res/Electricity_sensor_v1.0_eagle_files.zip)
--   [Schematic in PDF](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Electricity_Sensor/res/Electricity_sensor_sch.pdf)
+-   [Grove -Electricity Sensor Eagle File](/assets/Grove-Electricity_Sensor/res/Electricity_sensor_v1.0_eagle_files.zip)
+-   [Schematic in PDF](/assets/Grove-Electricity_Sensor/res/Electricity_sensor_sch.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Electricity_Sensor -->

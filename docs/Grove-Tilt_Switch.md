@@ -7,13 +7,14 @@ prodimagename: Tilt1.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/gbtlt.jpg
 surveyurl: https://www.research.net/r/Grove-Tilt_Switch
 sku: 101020025
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_pi, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/img/Tilt1.jpg)
+![](/assets/Grove-Tilt_Switch/img/Tilt1.jpg)
 
 The Grove-Tilt Switch is the equivalent of a button, and is used as a digital input. Inside the tilt switch is a pair of balls that make contact with the pins when the case is upright. Tilt the case over and the balls don't touch, thus not making a connection. It is wired to the SIG line, NC is not used on this Grove.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Tilt-Switch-p-771.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Tilt-Switch-p-771.html)
 
 Features
 --------
@@ -94,6 +95,10 @@ Cycle
 </td>
 </tr>
 </table>
+
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -105,7 +110,7 @@ The following sketch demonstrates a simple application of using the Tilt Switch 
 
 -   As the following picture indicates, the Tilt Switch is connected to digital port 5 of the Grove - Base Shield and the Grove-Button to digital port 7. The LED is connected to digital port 2. The hardware installation is as follows:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/img/Digitalv1.0b.jpg)
+![](/assets/Grove-Tilt_Switch/img/Digitalv1.0b.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -145,7 +150,7 @@ Reference
 
 The operating angle of Grove-Tilt Switch as shown below:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/img/Tilt_Switch_Operate.jpg)
+![](/assets/Grove-Tilt_Switch/img/Tilt_Switch_Operate.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -196,15 +201,15 @@ The mark J1 on the Grove is the reference terminal.
 
 6.Result: Put the sensor upright by one side, the SIG pin will output HIGH.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/img/Grovepi_tilt_Switch_00.png)
+![](/assets/Grove-Tilt_Switch/img/Grovepi_tilt_Switch_00.png)
 
 Resources
 ---------
 
--   [Grove - Tilt Switch v1.0 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.0_Source_File.zip)
--   [Grove - Tilt Switch v1.1 PDF File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.1_PDF_File.pdf)
--   [Grove - Tilt Switch v1.1 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.1_Eagle_File.zip)
--   [SW200D Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Tilt_Switch/res/SW200D_datasheet.pdf)
+-   [Grove - Tilt Switch v1.0 Eagle File](/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.0_Source_File.zip)
+-   [Grove - Tilt Switch v1.1 PDF File](/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.1_PDF_File.pdf)
+-   [Grove - Tilt Switch v1.1 Eagle File](/assets/Grove-Tilt_Switch/res/Grove-Tilt_Switch_v1.1_Eagle_File.zip)
+-   [SW200D Datasheet](/assets/Grove-Tilt_Switch/res/SW200D_datasheet.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Tilt_Switch -->

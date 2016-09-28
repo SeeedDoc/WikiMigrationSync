@@ -7,13 +7,14 @@ prodimagename: Grove-Touch_Sensor.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/101020037 1.jpg
 surveyurl: https://www.research.net/r/Grove-Touch_Sensor
 sku: 101020037
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Touch_Sensor/img/Grove-Touch_Sensor.jpg)
+![](/assets/Grove-Touch_Sensor/img/Grove-Touch_Sensor.jpg)
 
 Grove - Touch Sensor enables you to replace press with touch. It can detect the change in capacitance when a finger is near by. That means no matter your finger directly touches the pad or just stays close to the pad, Grove - Touch Sensor would outputs HIGH also.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Touch-Sensor-p-747.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Touch-Sensor-p-747.html)
 
 Specifications
 --------------
@@ -23,6 +24,9 @@ Specifications
 - Operating Current(VDD=3V):3.5 - 7.0μA
 - Output Response Time: 60 - 220mS
 - Used Chipset: TTP223-BA6
+
+Platforms Supported
+-------------------
 
 **Option features**
 
@@ -35,9 +39,9 @@ Specifications
 Demonstration
 -------------
 
-### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1)
+### With [Arduino](/Arduino)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Touch_Sensor/img/Touch_LED.jpg)
+![](/assets/Grove-Touch_Sensor/img/Touch_LED.jpg)
 This demo is going to show you how to turn on/off an LED.
 
 **Demo Code:**
@@ -111,8 +115,8 @@ digitalWrite(ledPin,LOW);
 Resources
 ---------
 
--   [Eagle Files](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Touch_Sensor/res/Touch_sensor_Eagle_File.zip)
--   [TTP223pdf](http://garden.seeedstudio.com/images/d/d5/TTP223.pdf)
+-   [Eagle Files](/assets/Grove-Touch_Sensor/res/Touch_sensor_Eagle_File.zip)
+-   [TTP223pdf](/assets/Grove-Touch_Sensor/res/TTP223.pdf)
 -   [how to upload code](/Upload_Code)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor -->

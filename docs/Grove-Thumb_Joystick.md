@@ -7,13 +7,14 @@ prodimagename: Bgjoy1.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/bgjoy1.jpg
 surveyurl: https://www.research.net/r/Grove-Thumb_Joystick
 sku: 101020028
+tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Thumb_Joystick/img/Bgjoy1.jpg)
+![](/assets/Grove-Thumb_Joystick/img/Bgjoy1.jpg)
 
 Grove - Thumb Joystick is a Grove compatible module which is very similar to the 'analog' joystick on PS2 (PlayStation 2) controllers. The X and Y axes are two ~10k potentiometers which control 2D movement by generating analog signals. The joystick also has a push button that could be used for special applications. When the module is in working mode, it will output two analog values, representing two directions. Compared to a normal joystick, its output values are restricted to a smaller range (i.e. 200~800), only when being pressed that the X value will be set to 1023 and the MCU can detect the action of pressing.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Thumb-Joystick-p-935.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Thumb-Joystick-p-935.html)
 
 Features
 --------
@@ -37,10 +38,13 @@ Specifications
 | Output Analog Value （X coordinate） | 206  | 516     | 798  | \    |
 | Output Analog Value （Y coordinate） | 203  | 507     | 797  | \    |
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
-### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino")
+### With [Arduino](/Arduino "Arduino")
 
 The Grove - Thumb Joystick is an analog device that outputs analog signal ranging from 0 to 1023. That requires us to use the analog port of Arduino to take the readings.
 
@@ -49,7 +53,7 @@ The Grove - Thumb Joystick is an analog device that outputs analog signal rangin
 2.Plug the Grove - Basic Shield into Arduino.
 
 3.Connect Arduino to PC by using a USB cable.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Thumb_Joystick/img/Grove-Thumb_Joystick.jpg)
+![](/assets/Grove-Thumb_Joystick/img/Grove-Thumb_Joystick.jpg)
 
 4.Copy and paste code below to a new Arduino sketch. Please click [here](/Upload_Code) if you do not know how to upload.
 
@@ -78,7 +82,7 @@ The Grove - Thumb Joystick is an analog device that outputs analog signal rangin
 
 5.You can check the values of the output analog signals by opening the Serial Monitor.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Thumb_Joystick/img/Grove-Thumd_Joystick_Result.jpg)
+![](/assets/Grove-Thumb_Joystick/img/Grove-Thumd_Joystick_Result.jpg)
 
 The output value from the analog port of Arduino can be converted to the corresponding resistance using the formula:R=(float)(1023-sensorValue)\*10/sensorValue.
 
@@ -164,8 +168,8 @@ The output value from the analog port of Arduino can be converted to the corresp
 Resources
 ---------
 
-- [Grove-Thumb Joystick Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Thumb_Joystick/res/Eagle_Design_Files.zip)
-- [Analog Joystick Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Thumb_Joystick/res/Analog_Joystick_Datasheet.jpg)
+- [Grove-Thumb Joystick Eagle File](/assets/Grove-Thumb_Joystick/res/Eagle_Design_Files.zip)
+- [Analog Joystick Datasheet](/assets/Grove-Thumb_Joystick/res/Analog_Joystick_Datasheet.jpg)
 
 
 

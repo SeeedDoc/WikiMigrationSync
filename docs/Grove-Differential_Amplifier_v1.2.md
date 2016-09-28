@@ -7,13 +7,14 @@ prodimagename: Grove-Differential_Amplifier_v1.2.jpg
 bzprodimageurl: https://statics3.seeedstudio.com/images/103020016 1.jpg
 surveyurl: https://www.research.net/r/Grove-Differential_Amplifier_v1.2
 sku: 103020016
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/img/Grove-Differential_Amplifier_v1.2.jpg)
+![](/assets/Grove-Differential_Amplifier_v1.2/img/Grove-Differential_Amplifier_v1.2.jpg)
 
 This Grove is designed for precise differential-input amplification. Input the differential signals of your sensor to this module through the male pins, then your Arduino will get a precisely amplified output from the Grove interface. The gain scale factor is selectable. You can get a 35 times or 1085 times amplification via a switch on the board. 
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Differential-Amplifier-p-1284.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Differential-Amplifier-p-1284.html)
 
 
 Features
@@ -138,6 +139,10 @@ Select 1085
 </td>
 </tr>
 </table>
+
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -149,13 +154,13 @@ The amplifier can turn signals in mA scale up to A scale. Before using it, make 
 
 To pair the weight sensor up with the male pins on the amplifier, female connectors need to be soldered on its wires.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/img/Solder.jpg)
+![](/assets/Grove-Differential_Amplifier_v1.2/img/Solder.jpg)
 
 **3. Hardware Hookup**
 
 Connect the weight sensor to the amplifier as the picture depicts below.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/img/Connect5.jpg)
+![](/assets/Grove-Differential_Amplifier_v1.2/img/Connect5.jpg)
 
 **4. Measurement**
 
@@ -193,8 +198,8 @@ You can view the amplified signals via serial monitor. For the value of the inpu
 Resources
 --------
 
-- [v1.2 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2_eagle.zip)
-- [v1.2 Schematic](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2.pdf)
-- [INA132 Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Differential_Amplifier_v1.2/res/Ina132.pdf)
+- [v1.2 Eagle File](/assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2_eagle.zip)
+- [v1.2 Schematic](/assets/Grove-Differential_Amplifier_v1.2/res/Grove-Differential_Amplifier_v1.2.pdf)
+- [INA132 Datasheet](/assets/Grove-Differential_Amplifier_v1.2/res/Ina132.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Differential_Amplifier_v1.2 -->

@@ -7,14 +7,15 @@ prodimagename: UV_Sensor_01.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/101020043 1.jpg
 surveyurl: https://www.research.net/r/Grove-UV_Sensor
 sku: 101020043
+tags: grove_analog, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-UV_Sensor/img/UV_Sensor_01.jpg)
+![](/assets/Grove-UV_Sensor/img/UV_Sensor_01.jpg)
 
 The Grove – UV Sensor is used for detecting the intensity of incident ultraviolet(UV) radiation. This form of electromagnetic radiation has shorter wavelengths than visible radiation. The Grove - UV Sensor is based on the sensor GUVA-S12D which has a wide spectral range of 200nm-400nm. The module outputs electrical signal which varies with the UV intensity, which gives your suggestion if it is a good idea to beach today.
 
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-UV-Sensor-p-1540.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-UV-Sensor-p-1540.html)
 
 Features
 --------
@@ -37,6 +38,9 @@ Specifications
 | Response wavelength | 240 | ~       | 370 | nm   |
 | Working Temperature | -30 | ~       | 85  | ℃    |
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -44,7 +48,7 @@ UV sensors are used in many different applications. Examples include pharmaceuti
 
 The fact of the UV sensor work is: In sunlight, the UV index and Photocurrent are a linear relationship.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-UV_Sensor/img/Reference1.jpg)
+![](/assets/Grove-UV_Sensor/img/Reference1.jpg)
 
 About our Grove - UV Sensor, we have converted Photocurrent to corresponding voltage value collected by Arduino/Seeeduino. The output voltage and the UV index is linear:
 
@@ -98,10 +102,10 @@ void loop()
 Resources
 ---------
 
-- [Grove - UV Sensor v1.1 schematics(current version)](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.1_Schematics.zip)
-- [Grove - UV Sensor v1.1 Sensor Datasheets(current version)](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.1_Datasheets.zip)
+- [Grove - UV Sensor v1.1 schematics(current version)](/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.1_Schematics.zip)
+- [Grove - UV Sensor v1.1 Sensor Datasheets(current version)](/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.1_Datasheets.zip)
 - [US EPA Suggestions About UV Radiation](https://www.epa.gov/sunsafety/uv-index-scale-1)
-- [Grove - UV Sensor v1.0 schematics and datasheets(older version)](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.0_Datasheets.zip)
+- [Grove - UV Sensor v1.0 schematics and datasheets(older version)](/assets/Grove-UV_Sensor/res/Grove-UV_Sensor_v1.0_Datasheets.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_UV_Sensor -->

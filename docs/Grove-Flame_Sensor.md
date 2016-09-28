@@ -7,13 +7,14 @@ prodimagename: Flame_Sensor_01.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/Flame Sensor.jpg
 surveyurl: https://www.research.net/r/Grove-Flame_Sensor
 sku: 101020049
+tags: grove_digital, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Flame_Sensor/img/Flame_Sensor_01.jpg)
+![](/assets/Grove-Flame_Sensor/img/Flame_Sensor_01.jpg)
 
 The Grove - Flame Sensor can be used to detect fire source or other light sources of the wavelength in the range of 760nm - 1100 nm. It is based on the YG1006 sensor which is a high speed and high sensitive NPN silicon phototransistor. Due to its black epoxy, the sensor is sensitive to infrared radiation. In fire fighting robot game, the sensor plays a very important role, it can be used as a robot eyes to find the fire source.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Flame-Sensor-p-1450.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Flame-Sensor-p-1450.html)
 
 Features
 -------
@@ -142,6 +143,10 @@ Operating Temperature
 </td>
 </tr>
 </table>
+
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -202,14 +207,14 @@ Reference
 ---------
 
 The sensor can detect the light source whose wavelength is in the range of 760nm - 1100 nm. The picture below shows the spectral sensitivity.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Flame_Sensor/img/Spectral_Sensitive.jpg)
+![](/assets/Grove-Flame_Sensor/img/Spectral_Sensitive.jpg)
 
 Resources
 --------
 
--   [Grove - Flame Sensor Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Flame_Sensor/res/Grove-Directional_Light_Sensor_Eagle_File.zip)
+-   [Grove - Flame Sensor Eagle File](/assets/Grove-Flame_Sensor/res/Grove-Directional_Light_Sensor_Eagle_File.zip)
 -   [Github repository for Grove_Flame_Sensor Library](https://github.com/Seeed-Studio/Grove_Flame_Sensor)
--   [LM293D datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Flame_Sensor/res/LM293D.pdf)
+-   [LM293D datasheet](/assets/Grove-Flame_Sensor/res/LM293D.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Flame_Sensor -->

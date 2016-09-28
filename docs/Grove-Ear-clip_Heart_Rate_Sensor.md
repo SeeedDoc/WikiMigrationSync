@@ -7,13 +7,14 @@ prodimagename: Heart_rate_ear_clip_kit.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/P3212438.jpg
 surveyurl: https://www.research.net/r/Grove-Ear-clip_Heart_Rate_Sensor
 sku: 101020033
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_pi, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Heart_rate_ear_clip_kit.jpg)
+![](/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Heart_rate_ear_clip_kit.jpg)
 
 The Heart Rate Ear clip kit contains a ear clip and a receiver module. The heart rate measure kit can be used to monitor heart rate of patient and athlete. The result can be displayed on a screen via the serial port and can be saved for analysis. The entire system is a high sensitivity, low power consumption and portable.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Ear-clip-Heart-Rate-Sensor-p-1116.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Ear-clip-Heart-Rate-Sensor-p-1116.html)
 
 Features
 --------
@@ -101,6 +102,9 @@ Application Ideas
 
 -   Heart rate monitor.
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
@@ -109,7 +113,7 @@ The following sketch demonstrates a simple application of using the Ear-clip Hea
 -   Connect this module to the digital port D2 on [Grove-Base shield](http://www.seeedstudio.com/depot/grove-base-shield-p-754.html?cPath=132). And connect Grove-LED to Digital port 4.
 -   Plug the Base Shield into Arduino/Seeeduino.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Ear_Clip_Heart_Rate.jpg)
+![](/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Ear_Clip_Heart_Rate.jpg)
 
 -   Copy and paste code below to a new Arduino sketch.
 
@@ -211,9 +215,9 @@ The following sketch demonstrates a simple application of using the Ear-clip Hea
 -   Upload the code, please click [here](/Upload_Code) if you do not know how to upload.
 -   Make sure the sensor contacts your ear skin. This is the signal when we are measuring the heart rate:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/GROVE_heart_rate_chest_belt.bmp)
+![](/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/GROVE_heart_rate_chest_belt.bmp)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Grove-heart_rate_serial.jpg)
+![](/assets/Grove-Ear-clip_Heart_Rate_Sensor/img/Grove-heart_rate_serial.jpg)
 
 In the first of the figures, which is a waveform diagram of the detected heartbeat, a high pulse comes when beating. 
 
@@ -225,6 +229,6 @@ If the serial monitor return an error message, please change the position of the
 Resources
 ---------
 
-- [Grove - Ear-clip Heart Rate Sensor Demo code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Ear-clip_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0.zip)
+- [Grove - Ear-clip Heart Rate Sensor Demo code](/assets/Grove-Ear-clip_Heart_Rate_Sensor/res/Grove-Heart_rate_chest_belt_V1.0.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Ear-clip_Heart_Rate_Sensor -->

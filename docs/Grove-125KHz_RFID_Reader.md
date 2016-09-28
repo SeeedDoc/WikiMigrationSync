@@ -7,9 +7,10 @@ prodimagename: Grove-125KHz_RFID_Reader.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/gr125k.jpg
 surveyurl: https://www.research.net/r/Grove-125KHz_RFID_Reader
 sku: 113020002
+tags: grove_digital, io_5v, plat_duino, plat_pi
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-125KHz_RFID_Reader/img/Grove-125KHz_RFID_Reader.jpg)
+![](/assets/Grove-125KHz_RFID_Reader/img/Grove-125KHz_RFID_Reader.jpg)
 
 This Grove-125KHz RFID Reader is a module used to read uem4100 RFID card information with two output formats: Uart and Wiegand. It has a sensitivity with maximum 7cm sensing distance. There is also [the electronic brick version](http://www.seeedstudio.com/depot/electronic-brick-125khz-rfid-card-reader-p-702.html?cPath=52) of this module. It can help you with project like internet of thing and access control system.
 
@@ -17,7 +18,7 @@ And you should use the module below while using RFID reader:
 
 -   [RFID tag combo (125khz)](http://www.seeedstudio.com/depot/rfid-tag-combo-125khz-5-pcs-p-700.html?cPath=19_24)
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-125khz-rfid-reader-p-1008.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-125khz-rfid-reader-p-1008.html)
 
 Specifications
 --------------
@@ -28,12 +29,15 @@ Specifications
 -   TTL Output: 9600 baudrate, 8 data bits, 1 stop bit, and no verify bit
 -   Wiegand Output: 26 bits Wiegand format, 1 even verify bit, 24 data bits, and 1 odd verify bit
 
+Platforms Supported
+-------------------
+
 Demonstration
 -------------
 
 Here we show how to read RFID information using the Grove - 125KHz RFID Reader. Connect Grove - 125KHz RFID Reader to UART of Grove - Base Shield.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-125KHz_RFID_Reader/img/RFID_reader.jpg)
+![](/assets/Grove-125KHz_RFID_Reader/img/RFID_reader.jpg)
 
 ### Uart Mode (Jumper set to the left two pins)
 
@@ -84,12 +88,12 @@ void clearBufferArray()              // function to clear buffer array
 
 Open the Serial Monitor, the card information can be displayed as shown below:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-125KHz_RFID_Reader/img/Read_Data_.jpg)
+![](/assets/Grove-125KHz_RFID_Reader/img/Read_Data_.jpg)
 
 ### Wiegand Mode (Jumper Set to the Right two Pins)
 
 You would need to select the jumper to "W" to enter this mode.
-The [Wiegand demo code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-125KHz_RFID_Reader/res/RFID_Wiegand_INT.zip) for Seeeduino is designed to read Wiegand data in interrupt mode.
+The [Wiegand demo code](/assets/Grove-125KHz_RFID_Reader/res/RFID_Wiegand_INT.zip) for Seeeduino is designed to read Wiegand data in interrupt mode.
 
 In Wiegand Mode, output data is formatted with 26bits including 24bits card info and 2 bits parity.
 

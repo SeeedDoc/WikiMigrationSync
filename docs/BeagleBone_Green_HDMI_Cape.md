@@ -6,14 +6,15 @@ oldwikiname: BeagleBone_Green_HDMI_Cape
 prodimagename: BeagleBone_Green_HDMI_Cape.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/103030034 1.jpg
 surveyurl: https://www.research.net/r/BeagleBone_Green_HDMI_Cape
+tags: plat_bbg
 sku: 103030034
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape.jpg)
+![](/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape.jpg)
 
 **BeagleBone Green HDMI Cape** is a general integrated HDMI connector for expanding your BeagleBone to a rich variety of peripherals such as computer monitor, video projector, digital television, or digital audio device. This board features a standard HDMI receptacle that can be connected to a monitor with a standard HDMI-to-HDMI cable. All HD signals are supported, and the output resolution is 1280×720. It also can be used to transmit audio information. This product will make your applications based on BeagleBone board more versatile for different circumstances.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/BeagleBone-Green-HDMI-Cape-p-2570.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/BeagleBone-Green-HDMI-Cape-p-2570.html)
 
 Features
 --------
@@ -32,15 +33,10 @@ Specifications
 | HDMI version             | Version 1.2                                                                                            |
 | Maxium Output resolution | 1280x720 @60Hz                                                                                         |
 | Audio transmission       | Available                                                                                              |
-| Chip                     | IT66121 HDMI Framer([Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/res/IT66121FN_Datasheet_v1.02.pdf)) |
+| Chip                     | IT66121 HDMI Framer([Datasheet](/assets/BeagleBone_Green_HDMI_Cape/res/IT66121FN_Datasheet_v1.02.pdf)) |
 
-Platforms supported
+Platforms Supported
 -------------------
-
-| Platoform  | Support          |
-|------------|------------------|
-| Platform   | Supported status |
-| BeagleBone | Supported        |
 
 Application ideas
 -----------------
@@ -50,7 +46,7 @@ You can expand your BeagleBone to more multimedia peripherals such computer moni
 Hardware Overview
 -----------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape_Componentss.jpg)
+![](/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape_Componentss.jpg)
 
 
 **IT66121 HDMI Framer**
@@ -87,7 +83,7 @@ Get started
 
 ### Hardware Connection
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape_Connection_1200_s.jpg)
+![](/assets/BeagleBone_Green_HDMI_Cape/img/BeagleBone_Green_HDMI_Cape_Connection_1200_s.jpg)
 
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -98,7 +94,7 @@ Plug USB cable(type C end) to your PC, you will find that a BeagleBone desktop i
 
 Then you can use BeagleBone like a PC or a Mac.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/img/Bbb_vnc.jpg)
+![](/assets/BeagleBone_Green_HDMI_Cape/img/Bbb_vnc.jpg)
 
 #### Trouble shooting
 
@@ -109,7 +105,7 @@ Then you can use BeagleBone like a PC or a Mac.
     - Press POWER button on BeagleBone Green board and then press it again.
 
 
-    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/img/Beaglebone-Green_s.jpg)
+    ![](/assets/BeagleBone_Green_HDMI_Cape/img/Beaglebone-Green_s.jpg)
 
 2. The computer mouse does not work(not powered)?
     -   Press RESET button on BeagleBone Green board and wait it to launch.
@@ -125,6 +121,6 @@ This [video](https://www.youtube.com/watch?v=-xvbXSd_9TY&feature=youtu.be) shows
 Resources
 ---------
 
-- [Schematic files](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/BeagleBone_Green_HDMI_Cape/res/Schematic_Files.zip)
+- [Schematic files](/assets/BeagleBone_Green_HDMI_Cape/res/Schematic_Files.zip)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/BeagleBone_Green_HDMI_Cape -->

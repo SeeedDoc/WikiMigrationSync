@@ -7,13 +7,14 @@ prodimagename: Grove-BLE-dual_model-v1.0.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/113020009 1.jpg
 surveyurl: https://www.research.net/r/Grove-BLE-dual_model-v1.0
 sku: 113020009
+tags: grove_uart, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0.jpg)
+![](/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0.jpg)
 
 Grove - BLE (dual model) v1.0 uses CSR dual mode Bluetooth chip. The chip is based on ARM architecture and supports AT instructions. Users can develop flexibly according to the serial baud rate, equipment name, pairing password.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-BLE-(dual-model)-p-2407.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-BLE-(dual-model)-p-2407.html)
 
 Features
 --------
@@ -34,11 +35,13 @@ Features
 - Long range: SPP 30 meters, BLE 60 meters
 - Power: SPP 13.5mA, BLE 9.5mA
 - Working temperature: –5 ~ +65 Centigrade
+Platforms Supported
+-------------------
 
 Hardware Overview
 -------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_PhotoTop.jpg)
+![](/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_PhotoTop.jpg)
 
 **K2**: During connected status, it could be disconnected by pressing K2 button more than 100ms. During sleep mode, it could be restored through pressing K2 (factory settings) button.
 
@@ -59,13 +62,13 @@ Hardware Installation
 ### Connecting Bluetooth to PC through UART Bee
 
 The Bluetooth provides a serial port with standard Grove socket, most USB-UART converter can be used. Here we use a [UartSBee V5](/UartSBee_v5) to connect Bluetooth and PC.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_ConnectToPC.jpg)
+![](/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_ConnectToPC.jpg)
 
 ### Connecting Bluetooth to Arduino
 
 Since Arduino Uno have no Grove socket, we use [Seeeduino Lotus](/Seeeduino_Lotus_v1.0) instead. You could use Arduino with **Grove Base Shield V2** as well.
 As an example, D2 and D3 are used as software UART. So, plug the Grove cable into "D2" socket
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_ConnectToArduino.jpg)
+![](/assets/Grove-BLE-dual_model-v1.0/img/Grove-BLE-dual_model-v1.0_ConnectToArduino.jpg)
 
 Software Instructions
 --------------------
@@ -1057,7 +1060,7 @@ This section shows how to configure Bluetooth with PC, some basic methods of set
 
 Open a serial terminal and set Baud Rate:115200, Databits: 8, Stopbits: 1 and No Flow Control. Send “AT” to Bluetooth with the serial terminal and “OK” will be return if all goes well. The Bluetooth only respond AT commands when no connection was set up, or all commands were seen as string and sent out. You can distinguish the status through LED indicates.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-AT.png)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-AT.png)
 
 Then some useful configurations could be sent. Here are some samples of commands and responses.
 
@@ -1105,15 +1108,15 @@ This kind of Bluetooth module has two protocol: Bluetooth EDR(Enhanced Data Rate
 
 Power the Bluetooth and configure it as Peripheral role. Search LightBlue in Apple Store and install it. Launch the app, you may find “HM-13-BLE” which we just renamed. Touch it to connect, then touch “Properties” to control it. The key “Hex” on the top right is for change data format, maybe String is easy to see. Hit “Listen for notifications” to enable data receiving. Then we can send data to PC through BLE, hit “Write new value” and write some words. Also PC can transfer data to iPhone with serial terminal.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0108.PNG)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0108.PNG)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0109.PNG)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0109.PNG)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0111.PNG)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0111.PNG)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0114.PNG) 
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-IMG_0114.PNG) 
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-DialogWithIOS.png)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-DialogWithIOS.png)
 
 ### Data transmission between Two Arduinos
 
@@ -1123,7 +1126,7 @@ The program of Central and Peripheral use the same code, the only difference is 
 
 The initialisation program flow please refer to the following flow chart. First of all we need to distinguish the presetting baud rate of the Bluetooth. After this, send commands to restore factory settings, and change baud rate from 115200 to 9600 since software serial will not working well at high baud rate. Then other parameters were configured to the Bluetooth with Reset command in the final.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Init-flowchat.png)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Init-flowchat.png)
 
 After the initialisation, the Central and Peripheral will do different things, the Central will send message to Peripheral interval and print what received from Peripheral while the Peripheral only responds the Central.
 
@@ -1132,16 +1135,16 @@ Click [here](https://github.com/Seeed-Studio/HM-13_SW) to download the test code
 After downloading program, open two serial terminal windows, the LEDs on Bluetooth will flash, several seconds later, they stop to flash and keep on, this indicates that they connected to each other. 
 According to the program is written, the Central sends message to the Peripheral continually and get feedback every time.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Debug_Output_Master.png)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Debug_Output_Master.png)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Debug_Output_Slave.png)
+![](/assets/Grove-BLE-dual_model-v1.0/img/HM-13-Debug_Output_Slave.png)
 
 Resources
 ---------
 
--   [HM-13 Bluetooth Module Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/res/Bluetooth_HM-13_en.pdf)
+-   [HM-13 Bluetooth Module Datasheet](/assets/Grove-BLE-dual_model-v1.0/res/Bluetooth_HM-13_en.pdf)
 -   [Arduino code](https://github.com/Seeed-Studio/HM-13_SW)
--   [EAGLE\_Grove-BLE\_(dual\_model)\_v1.0\_sch\_pcb](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/res/Eagle_Grove-BLE-dual_model-v1.0_sch_pcb.zip)
--   [PDF\_Grove-BLE\_(dual\_model)\_v1.0\_sch](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-BLE-dual_model-v1.0/res/Grove-BLE-dual_model-v1.0.pdf)
+-   [EAGLE\_Grove-BLE\_(dual\_model)\_v1.0\_sch\_pcb](/assets/Grove-BLE-dual_model-v1.0/res/Eagle_Grove-BLE-dual_model-v1.0_sch_pcb.zip)
+-   [PDF\_Grove-BLE\_(dual\_model)\_v1.0\_sch](/assets/Grove-BLE-dual_model-v1.0/res/Grove-BLE-dual_model-v1.0.pdf)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_BLE_(dual_model)_v1.0 -->

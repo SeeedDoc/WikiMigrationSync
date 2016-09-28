@@ -7,13 +7,14 @@ prodimagename: Grove-Hall_Sensor_New.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/hall sensor.jpg
 surveyurl: https://www.research.net/r/Grove-Hall_Sensor
 sku: 101020046
+tags: grove_digital, io_5v, plat_duino, plat_linkit
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Hall_Sensor/img/Grove-Hall_Sensor_New.jpg)
+![](/assets/Grove-Hall_Sensor/img/Grove-Hall_Sensor_New.jpg)
 
 The Hall sensor is based on Hall Effect, which is the production of a voltage difference across an electrical conductor, transverse to an electric current in the conductor and a magnetic field perpendicular to the current. There is a continuous-time switch on this Grove. The output of these devices switches low (turns on) when a magnetic field (south polarity) perpendicular to the Hall sensor exceeds the operate point threshold BOP, and it switches high (turn off) when the magnetic field disappears. The twig can be used to measure RPM.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-hall-sensor-p-965.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/grove-hall-sensor-p-965.html)
 
 
 Version Tracker
@@ -41,6 +42,9 @@ Specifications
 | Supply Current        | 4.1 | -       | 24  | mA   |
 | Operating Temperature | -40 | -       | 85  | ºC   |
 
+Platforms Supported
+-------------------
+
 Application Ideas
 -----------------
 
@@ -54,10 +58,10 @@ The Hall Sensor is used by utilizing the external interrupts available on the ar
 
 -   Connect the Hall Sensor to Digital port 2 of the [Grove - Base Shield](/Grove-Base_Shield) using a 4 pin cable and connect Grove-LED to Digital Port 4.
 -   Then connect Arduino to PC by using a USB cable.
--   Download the [Hall Sensor Code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Hall_Sensor/res/Grove-Hall_Sensor_Demo_Code.zip)
+-   Download the [Hall Sensor Code](/assets/Grove-Hall_Sensor/res/Grove-Hall_Sensor_Demo_Code.zip)
 -   Open one of two code. For example Demo **MagnetControlLED**
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Hall_Sensor/img/Hall_Sensor_Demo_Code.jpg)
+![](/assets/Grove-Hall_Sensor/img/Hall_Sensor_Demo_Code.jpg)
 
 -   Upload the code, Please click [here](/Upload_Code) if you do not know how to upload.
 -   When a magnet whose south pole is facing up is approaching to the onboard sensor, the LED will be turned on. Otherwise, the LED will be turned off.
@@ -65,8 +69,8 @@ The Hall Sensor is used by utilizing the external interrupts available on the ar
 Resources
 ---------
 
--   [Grove-Hall Sensor Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Hall_Sensor/res/Twig_Hall_Sensor_v0.9b.zip)
--   [Hall Sensor Demo Code](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Hall_Sensor/res/Grove-Hall_Sensor_Demo_Code.zip)
+-   [Grove-Hall Sensor Eagle File](/assets/Grove-Hall_Sensor/res/Twig_Hall_Sensor_v0.9b.zip)
+-   [Hall Sensor Demo Code](/assets/Grove-Hall_Sensor/res/Grove-Hall_Sensor_Demo_Code.zip)
 -   [A1101 datasheet](http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf)
 
 

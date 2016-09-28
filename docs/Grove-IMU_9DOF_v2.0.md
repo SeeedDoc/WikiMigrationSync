@@ -7,14 +7,15 @@ prodimagename: Grove-IMU_9DOF_v2.0.JPG
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/101020080 2.jpg
 surveyurl: https://www.research.net/r/Grove-IMU_9DOF_v2.0
 sku: 101020080
+tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0.JPG)
+![](/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0.JPG)
 
 Grove - IMU 9DOF v2.0 is an upgraded version of **Grove - IMU 9DOF v1.0** and it is a high performance 9-axis motion tracking module, which is based on MPU-9250. The MPU-9250 is an integrated 9-axis motion tracking device designed for the low power, low cost, and high performance requirements of consumer electronics equipment including smartphones, tablets and wearable sensors. MPU-9150 features three 16-bit ADC for digitizing the gyroscope outputs and three 16-bit ADCs for digitizing the accelerometer outputs and three 16-bit ADCs for digitizing the magnetometer outputs.
 
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-IMU-9DOF-v2.0-p-2400.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-IMU-9DOF-v2.0-p-2400.html)
 
 Specifications
 -------------
@@ -27,10 +28,13 @@ Specifications
 -   Digital-output 3-Axis accelerometer with a programmable full scale range of ±2g, ±4g, ±8g and ±16g
 -   Digital-output 3-Axis accelerometer with a full scale measurement range is ±4800μT
 
+Platforms Supported
+-------------------
+
 Hardware Overview
 ------------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2_inter.png)
+![](/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2_inter.png)
 
 ① - Grove interface,connect to I2C
 
@@ -55,18 +59,18 @@ Based on library,we can display value of Accel&Gyro&Magnet on serial monitor. No
 
 Hardware installation is very easy, because there's an I2C Grove in Seeeduino, so what we need to do is connect it to I2C Grove via a Grove cable.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0_connect.jpg)
+![](/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0_connect.jpg)
 
 ### Software Part
 
-1. Download the [library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/res/Grove_IMU_9DOF_9250.zip).
+1. Download the [library](/assets/Grove-IMU_9DOF_v2.0/res/Grove_IMU_9DOF_9250.zip).
 2. Unzip libraries into the libraries file of Arduino IDE by the path: ..\arduino-1.0.5\libraries.
 3. Unzip IMU_9D0F_Demo file into the libraries file of Arduino IDE by the path: ..\arduino-1.0.5\libraries.
 4. Open the code directly by the path: File -> Example -> Grove_IMU_9DOF_9250
 5. Upload the code. Note that you should select the correct board type and COM port.
 6. You can see :
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0_demo.jpg)
+![](/assets/Grove-IMU_9DOF_v2.0/img/Grove-IMU_9DOF_v2.0_demo.jpg)
 
 In static state，the z-Axis output value is about 0.98g，so you can refer to this to test if your sensor can work normally.
 
@@ -74,21 +78,21 @@ In static state，the z-Axis output value is about 0.98g，so you can refer to t
 
 The diagram below shows the orientation of the axes of sensitivity and the polarity of rotation.Note the pin 1 identifier (•) in the figure.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/MPU9250_axes.jpg)
+![](/assets/Grove-IMU_9DOF_v2.0/img/MPU9250_axes.jpg)
 
 Orientation of Axes of Sensitivity and Polarity of Rotation for Accelerometer and Gyroscope
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/img/MPU9250_axes2.jpg)
+![](/assets/Grove-IMU_9DOF_v2.0/img/MPU9250_axes2.jpg)
 
 Orientation of Axes of Sensitivity for Compass
 
 Resources
 --------
 
--   [Grove - IMU 9DOF v2.0 Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/res/Grove-IMU_9DOF_v2.0_sch_pcb.zip)
--   [MPU-9250 datashet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/res/MPU-9250A_Product_Specification.pdf)
--   [MPU-9250 Register Map](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/res/MPU-9250A_Reg_Map.pdf)
--   [Grove - IMU 9DOF v2.0 library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-IMU_9DOF_v2.0/res/Grove_IMU_9DOF_9250.zip)
+-   [Grove - IMU 9DOF v2.0 Eagle File](/assets/Grove-IMU_9DOF_v2.0/res/Grove-IMU_9DOF_v2.0_sch_pcb.zip)
+-   [MPU-9250 datashet](/assets/Grove-IMU_9DOF_v2.0/res/MPU-9250A_Product_Specification.pdf)
+-   [MPU-9250 Register Map](/assets/Grove-IMU_9DOF_v2.0/res/MPU-9250A_Reg_Map.pdf)
+-   [Grove - IMU 9DOF v2.0 library](/assets/Grove-IMU_9DOF_v2.0/res/Grove_IMU_9DOF_9250.zip)
 
 
 

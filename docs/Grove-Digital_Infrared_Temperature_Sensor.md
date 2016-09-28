@@ -7,18 +7,19 @@ prodimagename: Grove－Digital_Infrared_Temperature_Sensor_4.jpg)
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/101020077 1.jpg
 surveyurl: https://www.research.net/r/Grove-Digital_Infrared_Temperature_Sensor
 sku: 101020077
+tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit
 ---
 
 <table>
     <tr>
-        <td><img src="https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_1.jpg"></td>
-        <td><img src="https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_2.jpg"></td>
+        <td><img src="/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_1.jpg"></td>
+        <td><img src="/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_2.jpg"></td>
     </tr>
 </table>
 
 The Digital Infrared temperature sensor is a non-contact temperature measurement module which bases on MLX90615.Both the IR sensitive thermopile detector chip and the signal conditioning chip are integrated in the same package.This module communicates with Arduino using SMBus,up to 127 sensors can be read via common 2 wires.Thanks to the module's low noise amplifier, 16-bit ADC and powerful DSP unit, it can achieved a high accuracy of 1℃ over wide temperature rage and a high measurement resolution of 0.02℃.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Digital-Infrared-Temperature-Sensor-p-2385.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Digital-Infrared-Temperature-Sensor-p-2385.html)
 
 Specifications
 -------------
@@ -109,10 +110,13 @@ mm
 </tr>
 </table>
 
+Platforms Supported
+-------------------
+
 Hardware Overview
 ------------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_4.jpg)
+![](/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Grove－Digital_Infrared_Temperature_Sensor_4.jpg)
 
 | Pin Number | Name | Type   | Function Description                             |
 |------------|------|--------|--------------------------------------------------|
@@ -128,7 +132,7 @@ We will provide an example here to show you how to use this sensor to measure th
 
 -   Connect this module to seeeduino using [Grove - Base Shield](/Grove-Base_Shield "Grove - Base Shield") port D2.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Digital_Infrared_Temperature_Sensor4.JPG)
+![](/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Digital_Infrared_Temperature_Sensor4.JPG)
 
 ### Software Part
 
@@ -138,7 +142,7 @@ We will provide an example here to show you how to use this sensor to measure th
 
     You can see :
 
-    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/MLX90615_demo_code.jpg)
+    ![](/assets/Grove-Digital_Infrared_Temperature_Sensor/img/MLX90615_demo_code.jpg)
 
     Since the sensor is factory calibrated with the digital SMBus compatible interface enabled,but the library is based on a soft i2c library,so you can use any digital pins on any AVR chip to drive the SDA and SCL lines.We use D2 as the SCL pin and D3 as the SDA pin in this demo code.
 
@@ -147,15 +151,15 @@ We will provide an example here to show you how to use this sensor to measure th
 
     You can see :
 
-    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Digital_Infrared_Temperature_Sensor_Serial_Monitor.jpg)
+    ![](/assets/Grove-Digital_Infrared_Temperature_Sensor/img/Digital_Infrared_Temperature_Sensor_Serial_Monitor.jpg)
 
 Now, you can measure the temperature with this sensor.Ambient temperature is the MLX90615 package temperature and Object temperature is the object target temperature.According to our experiment,when you place the sensor in the normal indoor temperature,and ensure that there is nothing source of heat in front of the sensor's 1M scope.The Object temperature will approximately equal to Ambient temperature.When measuring the Object temperature,you should ensure the object is as close as possible whit the sensor,but do not touch the surface of the sensor,we recommend the distance is less than 3cm. Wish you have a fun try.
 
 Resources
 --------
 
-- [Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/res/Grove_Digital_Infrared_Temperature_Sensor_v1.0_eagle_file.zip "File:Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip")
-- [MLX90615.pdf](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Digital_Infrared_Temperature_Sensor/res/MLX90615.pdf "File:MLX90615.pdf")
+- [Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip](/assets/Grove-Digital_Infrared_Temperature_Sensor/res/Grove_Digital_Infrared_Temperature_Sensor_v1.0_eagle_file.zip "File:Grove Digital Infrared Temperature Sensor v1.0 eagle file.zip")
+- [MLX90615.pdf](/assets/Grove-Digital_Infrared_Temperature_Sensor/res/MLX90615.pdf "File:MLX90615.pdf")
 - [Demo Code](https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615)
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Digital_Infrared_Temperature_Sensor -->

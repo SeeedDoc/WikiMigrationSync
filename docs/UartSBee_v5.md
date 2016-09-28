@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/UartSBee_v5
 sku: 103100001
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/UartSBee_v5/img/UartSBee_V5_New.jpg)
+![](/assets/UartSBee_v5/img/UartSBee_V5_New.jpg)
 
 *UartSBee v5'* is FTDI cable compatible **USB to Serial** adapter equipped with BEE socket(20pin 2.0mm). The integrated **FT232RL** can be used for programming or communicating with MCUs. On the other hand, you might connect your PC to various wireless applications via a **Bee** compatible module. UartSBee provides breakouts for the bit-bang mode pins of **FT232RL** as well.This Bit-bang mode pins (8 I/O pins) can be used as a replacement for applications involving PC parallel port which is scares now a day.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/UartSBee-V5-p-1752.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/UartSBee-V5-p-1752.html)
 
 
 **UartSBee v5 is the Mesh Bee programmer version based on UartSBee v4.**
@@ -30,12 +30,12 @@ Added Features
 Hardware Overview
 -------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/UartSBee_v5/img/UartSBeev5_diagram.png)
+![](/assets/UartSBee_v5/img/UartSBeev5_diagram.png)
 
 Resources
 ---------
 
--   [Eagle file for UartSBee v5](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/UartSBee_v5/res/UartSBee_v5_eagle_file.zip)
+-   [Eagle file for UartSBee v5](/assets/UartSBee_v5/res/UartSBee_v5_eagle_file.zip)
 -   [How to program Mesh Bee](/Mesh_Bee#5.2_How_to_update_firmware "Mesh Bee")
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/UartSBee_v5 -->

@@ -7,13 +7,14 @@ prodimagename: Mosfet_01.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/mosfet.jpg
 surveyurl: https://www.research.net/r/Grove-MOSFET
 sku: 103020008
+tags: grove_digital, io_3v3, io_5v, plat_duino, plat_linkit, plat_pi, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-MOSFET/img/Mosfet_01.jpg)
+![](/assets/Grove-MOSFET/img/Mosfet_01.jpg)
 
 Grove – MOSFET enables you to control higher voltage project, say 15VDC, with low voltage, say 5V, on microcontroller. MOSFET is also a kind of switch, but its switching frequency can reach up to 5MHz, much faster than normal mechanical relay. There are two screw terminals on the board. One for outer power source and the other for device you want to control. Grove – MOSFET will pass the power from one end to another when closed. But if outer power source is absent, your device can still draw power from microcontroller via the Grove interface.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-MOSFET-p-1594.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-MOSFET-p-1594.html)
 
 Specifications
 -------------
@@ -22,10 +23,13 @@ Specifications
 - Vin: 5 ~ 15V
 - MOSFET Model: CJQ4435
 
+Platforms Supported
+-------------------
+
 Hardware Overview
 -----------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-MOSFET/img/MOSFET_Interface_Function.jpg)
+![](/assets/Grove-MOSFET/img/MOSFET_Interface_Function.jpg)
 
 Vin: Accepts 5V ~ 15V power of which current is less than 2A.
 
@@ -34,11 +38,11 @@ Vout: Attach actuators here.
 Demonstration
 -------------
 
-### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino")
+### With [Arduino](/Arduino "Arduino")
 
 Here we demonstrate how to use Grove - MOSFET to control a motor. We provide power for it with external power source, but if your controlled device needs current smaller than 300mA, Seeeduino can totally support it and no extra power source needed.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-MOSFET/img/Static_image.gif)
+![](/assets/Grove-MOSFET/img/Static_image.gif)
 
 ```
     // demo of Grove - MOSFET
@@ -149,11 +153,8 @@ Here we demonstrate how to use Grove - MOSFET to control a motor. We provide pow
 Resources
 ---------
 
-- [Grove - MOSFET Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-MOSFET/res/Grove-MOSFET_Eagle_File.zip)
-- [CJQ4435 Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-MOSFET/res/CJQ4435.pdf)
+- [Grove - MOSFET Eagle File](/assets/Grove-MOSFET/res/Grove-MOSFET_Eagle_File.zip)
+- [CJQ4435 Datasheet](/assets/Grove-MOSFET/res/CJQ4435.pdf)
 - [MOSFET Wikipedia](http://en.wikipedia.org/wiki/MOSFET)
-
-Help us make it better
-----------------------
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_MOSFET -->

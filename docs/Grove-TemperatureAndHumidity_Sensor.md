@@ -9,11 +9,11 @@ surveyurl: https://www.research.net/r/Grove-TemperatureAndHumidity_Sensor
 sku: 101020011
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor/img/Grove-TempAndHumiSensor.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor/img/Grove-TempAndHumiSensor.jpg)
 
 This temperature & humidity sensor provides a pre-calibrated digital output. A unique capacitive sensor element measures relative humidity and the temperature is measured by a negative temperature coefficient (NTC) thermistor. It has excellent reliability and long term stability. Please note that this sensor will not work for temperatures below 0 degree.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Temp%26Humi-Sensor-p-745.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-Temp%26Humi-Sensor-p-745.html)
 
 
 
@@ -38,7 +38,7 @@ Applications Ideas
 Hardware Overview
 -----------------
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor/img/Temp_Humi_sch.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor/img/Temp_Humi_sch.jpg)
 
 Specifications
 --------------
@@ -316,7 +316,7 @@ Usage
 When MCU sends a trigger signal, sensor will change from low power consumption mode to active mode. After the trigger signal sensor will send a response signal back to MCU, then 40 bit collected data is sent out and a new signal collecting is trigged.(Note that the 40 bit collected data which is sent from sensor to MCU is already collected before the trigger signal comes.) One trigger signal receives one time 40 bit response data from sensor. Single-bus data is used for communication between MCU and sensor.
 The communication process is shown below:
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor/img/Twig-Temperature_Humidity.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor/img/Twig-Temperature_Humidity.jpg)
 
 It costs 5ms for single time communication.The high-order bit of data sends out first. Signal Data is 40 bit, comprised of 16 bit humidity data, 16 bit temperature data and 8 bit checksum.The data format is:
 
@@ -329,7 +329,7 @@ Programming
 
 Connect the Temperature and Humidity sensor to analog port A0.Then you can use the following programme to gain the temperature and humidity of the environment.(The code is for seeeduino only,if you use seeeduino mega you should change the code a little. See below, if you use seeeduino mega, you should change PINC to PINF, change DDRC to DDRF and change PORTC to PORTF)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor/img/Temperature_Sensor.jpg)
+![](/assets/Grove-TemperatureAndHumidity_Sensor/img/Temperature_Sensor.jpg)
 
 ```
 #define DHT11_PIN 0      // ADC0
@@ -426,7 +426,7 @@ void loop()
 Resources
 ---------
 
--   [Temperature Humidity.zip](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-TemperatureAndHumidity_Sensor/res/Temperature_Humidity.zip)
+-   [Temperature Humidity.zip](/assets/Grove-TemperatureAndHumidity_Sensor/res/Temperature_Humidity.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Temperature&Humidity_Sensor -->

@@ -7,13 +7,14 @@ prodimagename: Grove_3Axis_Accelerometer400g.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/grove 3Axis Accelerometer400g.jpg
 surveyurl: https://www.research.net/r/Grove-3-Axis_Digital_Accelerometer-400g
 sku: 101020071
+tags: grove_i2c, io_3v3, io_5v, plat_duino, plat_linkit, plat_bbg
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Grove_3Axis_Accelerometer400g.jpg)
+![](/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Grove_3Axis_Accelerometer400g.jpg)
 
 The H3LIS331DL is a low power high performance 3-axis linear accelerometer belonging to the “nano” family, with digital I2C serial interface standard output. The device features ultra low power operational modes that allow advanced power saving and smart sleep to wake-up functions. The H3LIS331DL has dynamically user selectable full scales of ±100g/±200 g/±400 g and it is capable of measuring accelerations with output data rates from 0.5 Hz to 1 kHz.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(%C2%B1400g)-p-1897.html)
+[![](/assets/common/Get_One_Now_Banner.png)](https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer(%C2%B1400g)-p-1897.html)
 
 Features
 --------
@@ -35,13 +36,16 @@ Application Ideas
 -   Impact recognition and logging
 -   Concussion detection
 
+Platforms Supported
+-------------------
+
 Usage
 -----
 
 Here below we show you how to read the raw data from this accelerometer.
 
 1. Plug it onto the I2C port of your [Grove - Base Shield](http://www.seeedstudio.com/depot/grove-base-shield-p-754.html?cPath=132_134).
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Grove-3-Axis_Digital_Accelerometer_connect_BaseBoard.jpg)
+![](/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Grove-3-Axis_Digital_Accelerometer_connect_BaseBoard.jpg)
 
 2. Download the [Digital Accelerometer(±400g) Library](https://github.com/Seeed-Studio/Grove_3Axis_Digital_Accelerometer_H3LIS331DL) and unpack it into arduino-1.0\\libraries in your Arduino installation folder.
 
@@ -50,18 +54,18 @@ Here below we show you how to read the raw data from this accelerometer.
 4. Upload the code and open the serial monitor. Please click [here](/Upload_Code) if you do not know how to upload.
 
 5. Open the serial monitor to get the adjust value of reference as the steps described in serial output.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Adjust_value_of_Accelerometer.jpg)
+![](/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Adjust_value_of_Accelerometer.jpg)
 
 6. Open the demo code directly by the path:File -> Example ->Grove_3Axis_Digital_Accelerometer_H3LIS331DL->H3LIS331DL_Demo. Then modify the VAL_X_AXIS/VAL_Y_AXIS/VAL_Z_AXIS according to what you get from H3LIS331DL_AdjVal Sketch.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Redefine_the_VAL_of_Accelerometer.jpg)
+![](/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Redefine_the_VAL_of_Accelerometer.jpg)
 
 7. Upload the code and open the serial monitor and open the serial monitor to check the result.
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Raw_data_of_H3LIS331DL.jpg)
+![](/assets/Grove-3-Axis_Digital_Accelerometer-400g/img/Raw_data_of_H3LIS331DL.jpg)
 
 Resources
 ---------
 
--   [Grove - 3-Axis Digital Accelerometer(±400g) Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-3-Axis_Digital_Accelerometer-400g/res/Grove-3-Axis_Digital_Accelerometer-400g-v1.0.zip)
+-   [Grove - 3-Axis Digital Accelerometer(±400g) Eagle File](/assets/Grove-3-Axis_Digital_Accelerometer-400g/res/Grove-3-Axis_Digital_Accelerometer-400g-v1.0.zip)
 -   [github repository for 3-Axis Digital Accelerometer(±400g)](https://github.com/Seeed-Studio/Grove_3Axis_Digital_Accelerometer_H3LIS331DL)
 -   [H3LIS331DL Datasheet PDF](http://www.st.com/web/en/resource/technical/document/datasheet/DM00053090.pdf)
  

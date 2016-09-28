@@ -7,15 +7,16 @@ prodimagename: Grove-Piezo_Vibration_Sensor-1.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/seeed/img/2016-06/VGKGp4ZlaglN4DMgnVAhUzUz.jpg
 surveyurl: https://www.research.net/r/Grove-Piezo_Vibration_Sensor
 sku: 101020031
+tags: grove_analog, io_3v3, io_5v, plat_duino
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/img/Grove-Piezo_Vibration_Sensor-1.jpg)
+![](/assets/Grove-Piezo_Vibration_Sensor/img/Grove-Piezo_Vibration_Sensor-1.jpg)
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/img/Piezo_Vibration_Sensor_02.jpg)
+![](/assets/Grove-Piezo_Vibration_Sensor/img/Piezo_Vibration_Sensor_02.jpg)
 
 Grove- Piezo Vibration Sensor is suitable for measurements of flexibility, vibration, impact and touch. The module is based on PZT film sensor LDT0-028. When the sensor moves back and forth, a certain voltage will be created by the voltage comparator inside of it. A wide dynamic range (0.001Hz~1000MHz) guarantees an excellent measuring performance. And, you can adjust its sensitivity by adjusting the on-board potentiometer with a screw.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Piezo-Vibration-Sensor-p-1411.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Piezo-Vibration-Sensor-p-1411.html)
 
 Features
 --------
@@ -24,6 +25,9 @@ Features
 -   Wide dynamic range：0.1Hz~180Hz
 -   Adjustable sensitivity
 -   High receptivity for strong impact
+
+Platforms Supported
+-------------------
 
 Applications
 ------------
@@ -38,7 +42,7 @@ Applications
 Usage
 -----
 
-### With [Arduino](/index.php?title=ArduinoAndaction=editAndredlink=1 "Arduino")
+### With [Arduino](/Arduino "Arduino")
 
 The Grove - Piezo Vibration Sensor outputs a logic HIGH when vibration was detected. We can use any of Arduino pins to read the data. Here is an example of Piezo Vibration Sensor controlling LED. When the vibration was detected, this sensor outputs a logic high signal (the sensitivity can be changed by adjusting the potentiometer), an LED lights up.
 
@@ -79,7 +83,7 @@ It may output low level even though originally output high level when you increa
 
 5.Touch the piezo sensor to make it vibrate, of course, any way to make it vibrate would be OK too. The LED would be on when vibration detected. You can also Open the serial monitor to see the sensor outputs.
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/img/Grove-Piezo_Vibration_Sensor.jpg)
+![](/assets/Grove-Piezo_Vibration_Sensor/img/Grove-Piezo_Vibration_Sensor.jpg)
 
 You can directly use a digital pin, take D5 of base shield as an example, and connect LED to Pin 12.
 
@@ -151,9 +155,9 @@ You can directly use a digital pin, take D5 of base shield as an example, and co
 Resources
 ---------
 
-- [Grove - Piezo Vibration Sensor Eagle File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/res/Eagle.zip)
-- [Grove - Piezo Vibration Sensor PDF File](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/res/Gvove-Piezo_Vibration_Sensor.pdf)
-- [Piezo Vibration Sensor Datasheet](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Piezo_Vibration_Sensor/res/Piezo_Vibration_Sensor.pdf)
+- [Grove - Piezo Vibration Sensor Eagle File](/assets/Grove-Piezo_Vibration_Sensor/res/Eagle.zip)
+- [Grove - Piezo Vibration Sensor PDF File](/assets/Grove-Piezo_Vibration_Sensor/res/Gvove-Piezo_Vibration_Sensor.pdf)
+- [Piezo Vibration Sensor Datasheet](/assets/Grove-Piezo_Vibration_Sensor/res/Piezo_Vibration_Sensor.pdf)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Piezo_Vibration_Sensor -->

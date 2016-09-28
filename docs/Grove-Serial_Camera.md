@@ -7,13 +7,14 @@ prodimagename: Serial_camera.jpg
 bzprodimageurl: http://statics3.seeedstudio.com/images/product/Serial Camera.jpg
 surveyurl: https://www.research.net/r/Grove-Serial_Camera
 sku: 101020000
+tags: grove_uart, io_5v, plat_duino
 ---
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/img/Serial_camera.jpg)
+![](/assets/Grove-Serial_Camera/img/Serial_camera.jpg)
 
 The Serial Camera is a JPEG color camera module easy for MCU use.It has integrated image processing DSP to generate 320*240 or 640*480 JPEG image without thumbnail information, Captured picture will be stored in internal buffer and transferred via UART port.
 
-[![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Serial-Camera-p-945.html)
+[![](/assets/common/Get_One_Now_Banner.png)](http://www.seeedstudio.com/Grove-Serial-Camera-p-945.html)
 
 Features
 --------
@@ -86,6 +87,9 @@ Baud
 </tr>
 </table>
 
+Platforms Supported
+-------------------
+
 Application Ideas
 -----------------
 
@@ -97,7 +101,7 @@ Usage
 
 ### Use Camera on PC
 
-**Step 1**:Download dedicated serial port debugging tool [VC0703COMTOOL.rar](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/res/VC0703COMTOOL.rar) and install it.
+**Step 1**:Download dedicated serial port debugging tool [VC0703COMTOOL.rar](/assets/Grove-Serial_Camera/res/VC0703COMTOOL.rar) and install it.
 
 **Step 2**: Connect Serial camera to PC with USB to use serial converter tool [UartSBee](/UartSBee "UartSBee")
 
@@ -120,7 +124,7 @@ Usage
 
 3. Click "Read" to read the data from the buffer to store in the file selected as shown below:
 
-    ![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/img/Serial_Camera_Picture.jpg)
+    ![](/assets/Grove-Serial_Camera/img/Serial_Camera_Picture.jpg)
 
 4. Click "Resume" to resume frame update so you can continue to take another picture.
 
@@ -128,20 +132,20 @@ Usage
 
 **Step 1**: Connected Grove - Serial Camera to Arduino board, Hardware parts include [Seeeduino V3.0](http://www.seeedstudio.com/depot/seeeduino-v30-atmega-328p-p-669.html?cPath=132_133), [SD Card Shield](http://www.seeedstudio.com/depot/sd-card-shield-p-492.html?cPath=109), SanDisk microSD™ Card 2GB, [Grove - Button](http://www.seeedstudio.com/depot/grove-button-p-766.html?cPath=156_160).
 
-![](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/img/Serial_Camera.jpg)
+![](/assets/Grove-Serial_Camera/img/Serial_Camera.jpg)
 
 **Step 2**: Change the serial receive buffer(default 64 bytes) to 128 bytes. Open up hardware/arduino/cores directory, and edit the file named wiring_serial.c or HardwareSerial.cpp near the top is a #define SERIAL_BUFFER_SIZE 64, which means 64 bytes are used for the buffer. You need to change this to 128 .More details, please refer to [Arduino Hacks](http://learn.adafruit.com/arduino-tips-tricks-and-techniques/arduino-hacks).
 
-**Step 3**: Download the [Grove - Serial Camera Library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/res/SerialCameral_DemoCode.zip), upload it to Seeeduino. If it can't be complied, please confirm if the [SD Library](http://arduino.cc/en/Reference/SD) is in your Arduino IDE folder.
+**Step 3**: Download the [Grove - Serial Camera Library](/assets/Grove-Serial_Camera/res/SerialCameral_DemoCode.zip), upload it to Seeeduino. If it can't be complied, please confirm if the [SD Library](http://arduino.cc/en/Reference/SD) is in your Arduino IDE folder.
 
 **Step 4**: Open the Serial Monitor , press the button to take picture after SD card and Camera initialization.
 
 Resources
 ---------
 
--   [VC0703 debug tool](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/res/VC0703COMTOOL.rar)
--   [Manual for serial camera.pdf](http://seeedstudio.com/wiki/images/b/b7/Manual_for_serial_camera.pdf)
--   [Grove - Serial Camera Library](https://github.com/SeeedDoc/WikiMigrationSync/raw/master/docs/assets/Grove-Serial_Camera/res/SerialCameral_DemoCode.zip)
+-   [VC0703 debug tool](/assets/Grove-Serial_Camera/res/VC0703COMTOOL.rar)
+-   [Manual for serial camera.pdf](/assets/Grove-Serial_Camera/res/Manual_for_serial_camera.pdf)
+-   [Grove - Serial Camera Library](/assets/Grove-Serial_Camera/res/SerialCameral_DemoCode.zip)
 
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Grove_-_Serial_Camera -->
